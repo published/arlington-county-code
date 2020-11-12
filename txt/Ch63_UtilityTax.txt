@@ -1,0 +1,285 @@
+ARLINGTON COUNTY CODE 
+
+ 
+
+ 
+
+Chapter 63 
+
+UTILITY TAX* 
+
+Editor’s Note: Ord. No. 07-08, adopted May 5, 2007, amended Ch. 63, in its entirety, to read as herein set 
+
+  
+
+ 
+__________  
+* 
+out. 
+__________   
+ 
+
+ 
+ 
+§ 63-1. Definitions.  
+ 
+
+feet.  
+
+§ 63-1. Definitions. 
+§ 63-2. Levy; Tax Rate; Rate Payment. 
+§ 63-3. Collection. 
+§ 63-4. Records to be Kept by the Seller. 
+§ 63-5. Exemptions from Tax. 
+§ 63-6. Penalty for Violation of Chapter. 
+§ 63-7. Effective Date. 
+§ 63-8. Severability Clause. 
+
+“CCF” means the volume of gas at standard pressure and temperature in units of one hundred (100) cubic 
+
+ 
+“Consumer” means every person who, individually or through agents, employees, officers, representatives 
+
+or permittees, makes a taxable purchase of electricity or natural gas services in this jurisdiction.  
+
+ 
+“Gas utility” means a public utility authorized to furnish natural gas service in Virginia.  
+ 
+“Interruptible gas users” means users who receive gas service, pursuant to executed contracts, which may 
+be  interrupted  by  the  provider  of  gas  service  under  tariffs  approved  by  the  State  Corporation  Commission  of 
+Virginia.  
+ 
+“Kilowatt hours (kWh) delivered” means one thousand (1,000) watts of electricity delivered in a one (1) 
+hour period by an electric provider to an actual consumer, except that in the case of eligible customer-generators 
+(sometimes called cogenerators) as defined in Virginia Code § 56-594, it means kWh supplied from the electric grid 
+to  such  customer-generators,  minus  the  kWh  generated  and  fed  back  to  the  electric  grid  by  such  customer-
+generators.  
+
+ 
+“Person”  includes  individuals,  firms,  partnerships,  associations,  corporations  and  combinations  of 
+
+individuals of whatever form and character.  
+
+ 
+“Pipeline  distribution  company”  means  a  person,  other  than  a  pipeline  transmission  company  which 
+transmits, by means of a pipeline, natural gas, manufactured gas or crude petroleum and the products or byproducts 
+thereof to a purchaser for purposes of furnishing heat or light.  
+
+ 
+“Residential  consumer”  means  the  owner,  occupant  or  tenant  of  property  used  primarily  for  residential 
+purposes  who  pays  for  utility  service  in  or  for  such  property  and  shall  include,  whether  or  not  master  metered, 
+apartment houses and other multiple-family dwellings.  
+
+ 
+“Service  provider”  means  a  person  who  delivers  electricity  to  a  consumer  or  a  gas  utility  or  pipeline 
+
+distribution company which delivers natural gas to a consumer.  
+
+ 
+
+Code Updated 5-2017 
+
+63-1 
+
+ARLINGTON COUNTY CODE                                          
+
+ UTILITY TAX                                                                                             
+
+“Treasurer” means the Treasurer of Arlington County.  
+ 
+“Used primarily” relates to the larger portion of the use for which the utility service is furnished, and for 
+the  purposes  of  this  chapter  in  the  determination  of  the  primary  use  for  which  a  utility  service  is  furnished,  the 
+primary or larger portion of that use shall be determined by the relative load for each use or the relative time of 
+operation of each.  
+
+ 
+“Utility service” means electric and gas service, excluding bottled gas, furnished within the boundaries of 
+
+Arlington County.  
+(Ord. No. 89-5, 7-1-89; Ord. No. 89-9, 7-1-89; Ord. No. 00-26, 10-21-00: Ord. No. 07-08, 5-5-07, effective 7-1-07) 
+ 
+§ 63-2. Levy; Tax Rate; Rate Payment.  
+ 
+
+There is hereby imposed and levied by Arlington County upon each and every consumer of a utility service 
+a tax in the following amounts with respect to each utility service, which tax in every case shall be collected by the 
+service provider from the consumer and shall be paid to the service provider for the use of Arlington County at the 
+time the purchase price or such charge shall become due and payable under the agreement between the consumer 
+and the service provider. There shall be no tax computed on bills submitted on sales of electric utility service for 
+resale.  
+
+Electric utility consumer tax. In accordance with Virginia Code § 58.1-3814, there is hereby levied 
+ 
+a monthly tax on each purchase of electricity delivered to consumers by a service provider, classified as determined 
+by such provider, as follows:  
+ 
+
+Commercial consumers  --Such tax  shall be one dollar and fifteen cents ($1.15) plus the rate of 
+$0.00649 on each kWh delivered monthly to commercial consumers.  
+
+Industrial  consumers  --Such  tax  shall  be  one  dollar  and  fifteen  cents  ($1.15)  plus  the  rate  of 
+$0.01043 on each kWh delivered monthly to industrial consumers.  
+
+Residential consumers –For electricity consumption in excess of four hundred (400) kWh such tax 
+shall be $0.005115 on each kWh delivered monthly to residential consumers not to exceed three 
+dollars ($3.00) per month; provided, however, in the case of any multi-family dwelling served by 
+a master meter or meters, such tax shall be $0.005115 on each kWh delivered monthly in excess of 
+the number of units times four hundred (400) kWh with the tax not to exceed three dollars ($3.00) 
+multiplied by the number of individual dwelling units served by the master meter or meters.   
+
+B. 
+
+ 
+ Local natural gas utility consumer tax. In accordance with Virginia Code § 58.1-3814, there is 
+ 
+hereby  levied  a  monthly  tax  on  each  purchase  of  natural  gas  delivered  to  consumers  by  pipeline  distribution 
+companies and gas utilities classified by "class of consumers" as such term is defined in Virginia Code § 58.1-3814 
+J., as follows:  
+
+ 
+A.  
+
+1.  
+
+ 
+2.  
+
+ 
+3. 
+
+ 
+1.  
+
+ 
+2.  
+
+3. 
+
+ 
+
+Commercial  and  industrial  consumers  --Such  tax  shall  be  $0.845  plus  the  rate  of  $0.06522  on 
+each CCF delivered monthly to commercial and industrial consumers.  
+
+Interruptible nonresidential consumers --Such tax shall be four dollars and fifty cents ($4.50) plus 
+the rate of $0.01187 on each CCF delivered monthly to nonresidential consumers of interruptible 
+gas service.  
+
+Residential  consumers—For  natural  gas  consumption  such  tax  shall  be  three  cents  ($0.045)  on 
+each  CCF  delivered  monthly  to  residential  consumers  not  to  exceed  three  dollars  ($3.00)  per 
+month; provided, however, in the case of any multi-family dwelling served by a master meter or 
+meters,  such  tax  shall  be  three  cents  ($0.045)  on  each  CCF  delivered  monthly  in  excess  of  the 
+number of unit times twenty (20) CCF with the tax not to exceed three dollars ($3.00) multiplied 
+by the number of individual dwelling units served by the master meter or meters. 
+
+(Ord. No. 89-5, 7-1-89; Ord. No. 89-9, 7-1-89; Ord. No. 00-26, 10-21-00; Ord. No. 05-01, 4-16-05, effective 7-1-05; 
+
+Code Updated 5-2017 
+
+63-2 
+
+ARLINGTON COUNTY CODE                                          
+
+ UTILITY TAX                                                                                             
+
+ 
+B.  
+
+A.  
+
+Ord. No. 07-08, 5-5-07, effective 7-1-07; Ord. No. 17-07, 5-23-17, effective 7-1-17) 
+ 
+§ 63-3. Collection. 
+ 
+ 
+It shall be the duty of every service provider in acting as the tax collecting medium or agency for 
+Arlington County to collect from the purchaser for the use of Arlington County the tax hereby imposed and levied at 
+the time of collecting the purchase price charged therefore and the taxes collected during each calendar month shall 
+be reported and paid by each service provider to the Treasurer and the seller shall remit the amount of tax shown by 
+said report to the Treasurer on or before the last working day of the first calendar month thereafter, together with the 
+name and address of any purchaser who has refused to pay his tax.  
+ 
+
+Such  taxes  shall  be  paid  by  the  service  provider  to  the  Treasurer,  and  the  service  provider  shall  act  in 
+accordance with Virginia Code § 58.1-3814, paragraphs F, G, H, and I, and Virginia Code § 58.1-2901. Any tax 
+paid by the consumer to the service provider shall be deemed to be held in trust by such provider until remitted to 
+the Treasurer.  
+
+ 
+If any consumer fails to pay a bill issued by a service provider, including the taxes imposed by this chapter, 
+the service provider shall follow its normal collection procedures and upon collection of the bill or any part thereof 
+shall apportion the net amount collected between the charge for utility service and the tax and remit the tax portion 
+to this jurisdiction. 
+
+ 
+Bills shall be considered as monthly bills for the purposes of this chapter if submitted twelve (12) 
+times per year of approximately one (1) month each. Accordingly, the tax for a bi-monthly bill (approximately sixty 
+(60)  days)  shall  be  determined  as  follows:  (i)  the  CCF  will  be  divided  by  two  (2);  (ii)  a  monthly  tax  will  be 
+calculated using the rates set forth above; (iii) the tax determined by (ii) shall be multiplied by two (2); (iv) the tax in 
+(iii) may not exceed twice the monthly "maximum tax."  
+(Ord. No. 89-5, 7-1-89; Ord. No. 00-26, 10-21-00; Ord. No. 07-08, 5-5-07, effective 7-1-07) 
+ 
+§ 63-4. Records to be Kept by the Seller.  
+ 
+
+Each  and  every  seller  shall  keep  complete  records  showing  all  purchases  in  Arlington  County,  which 
+records shall show the price charged against each purchaser with respect to each purchase, the date of purchase, the 
+date of payment, and the amount of tax imposed, and such records shall be kept open for inspection by the duly 
+authorized agents of Arlington County who shall have the right, power and authority to make such copies thereof 
+during such times as they may desire.  
+(Ord. No. 89-5, 7-1-89; Ord. No. 07-08, 5-5-07, effective 7-1-07) 
+ 
+§ 63-5. Exemptions from Tax.  
+ 
+
+The  United  States  of  America,  the  Commonwealth  of  Virginia,  and  the  political  subdivisions,  boards, 
+commissions and authorities thereof, and persons exempted from payment of real property taxes within Arlington 
+County under state or federal law, are hereby exempted from the payment of tax imposed and levied by this chapter 
+with respect to the purchase of utility services.  
+(Ord. No. 89-5, 7-1-89; Ord. No. 07-08, 5-5-07, effective 7-1-07; Ord. No. 09-08, 4-28-09) 
+ 
+§ 63-6. Penalty for Violation of Chapter.  
+ 
+
+Any consumer of electricity or natural gas failing, refusing or neglecting to pay the tax hereby levied, and 
+any officer, agent or employee of any seller service provider violating the provisions hereof shall, upon conviction, 
+be subject to penalty not to exceed those prescribed by general law for a Class 3 misdemeanor if the amount of tax 
+due is one thousand dollars ($1,000.00) or less, or a Class 1 misdemeanor if the amount of the tax due is more than 
+one  thousand  dollars  ($1,000.00).  Each  failure,  refusal,  neglect  or  violation  and  each  day's  continuance  shall 
+constitute  a  separate  offense.  Such  conviction  shall  not  relieve  any  person  from  the  payment,  collection  and 
+remittance of the tax as provided in this chapter.  
+(Ord. No. 89-5, 7-1-89; Ord. No. 00-26, 10-21-00; Ord. No. 07-08, 5-5-07, effective 7-1-07) 
+ 
+
+Code Updated 5-2017 
+
+63-3 
+
+ARLINGTON COUNTY CODE                                          
+
+ UTILITY TAX                                                                                             
+
+§ 63-7. Effective Date. 
+ 
+ 
+The tax levied or imposed under this chapter shall become effective on the later of July 1, 1989, or on the 
+day immediately after sixty (60) days' written notice by certified mail to the registered agent of the service provider 
+required to collect the tax.  
+(Ord. No. 89-5, 7-1-89; Ord. No. 00-26, 10-21-00; Ord. No. 05-01, 4-16-05, effective 7-1-05; Ord. No. 07-08, 5-5-
+07, effective 7-1-07) 
+Editors Note: Ord. No. 05-01, adopted April 16, 2005, repealed former Ch. 63, § 63-7(b). 
+ 
+§ 63-8. Severability Clause.  
+ 
+
+It  is  hereby  declared  to  be  the  intention  of  the  County  Board  that  the  sections,  paragraphs,  sentences, 
+clauses and phrases of this chapter are severable, and if any phrase, clause, sentence, paragraph or section of this 
+chapter  shall  be  declared  unconstitutional  or  invalid  by  the  valid  judgment  or  decree  of  a  court  of  competent 
+jurisdiction, such unconstitutionality or invalidity shall not affect any of the remaining phrases, clauses, sentences, 
+paragraphs and sections of this chapter.  
+(Ord. No. 89-5, 7-1-89; Ord. No. 07-08, 5-5-07, effective 7-1-07) 
+
+Code Updated 5-2017 
+
+63-4 
+
+

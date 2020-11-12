@@ -1,0 +1,1057 @@
+ 
+
+  
+
+ARLINGTON COUNTY CODE 
+
+ 
+
+Chapter 33 
+
+ 
+
+SECURITY ALARMS* 
+
+Editors Note: Ord. No. 00-27, adopted Nov. 1, 2000, repealed former Ch. 33, §§ 33-1--33-5, and enacted 
+
+__________  
+* 
+provisions designated as a new Ch. 33 to read as herein set out as §§ 33-1--33-17. 
+__________  
+ 
+
+Article I. In General 
+
+ 
+
+§ 33-1. Declaration of Findings and Policy. 
+§ 33-2. Severability. 
+§ 33-3. Administration and Enforcement. 
+
+§ 33-4. Definitions. 
+
+Article II. Definitions 
+
+ 
+
+Article III. Security Alarm Systems 
+
+ 
+
+§ 33-5. Intentional False Alarm Prohibited. 
+§ 33-6. Automatic Dialing Device Restrictions. 
+§ 33-7. Automatic Dialing Service Restrictions. 
+§ 33-8. Alarm Company Registration and Licensing. 
+§ 33-9. Required Equipment. 
+§ 33-10. Alarm System Registration. 
+§ 33-11. Alarm System Registration-Apartment Complexes 
+§ 33-12. Alarm Company Procedures to Request Police Assistance. 
+§ 33-13. Police Response to Alarms; Determination of Validity; Appeals 
+§ 33-14. Excessive False Alarms Prohibited; Penalties 
+§ 33-15. Inspection of Alarm Systems. 
+
+Article IV. Administrative Appeal Hearing 
+
+ 
+
+§ 33-16. Administrative Appeal Hearing. 
+§ 33-17. Grounds for Rescinding, Waiving or Reduction Service Fees. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ARTICLE I. 
+
+ 
+
+IN GENERAL 
+
+ 
+§ 33-1. Declaration of Findings and Policy.  
+ 
+
+It is hereby  declared  that  false  alarm  calls  within  Arlington  County  results in  an  inefficient  use  of  police 
+resources,  reduces  faith  in  security  alarm  signals,  and  promotes  complacency  in  police  investigation  of  alarm 
+signals.  This  creates  a  general  safety  hazard  detrimental  to  protection  of  property  and  to  the  health,  safety  and 
+welfare of citizens, and to the police personnel responsible for the investigation of alarm signals.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-2. Severability.  
+ 
+
+Code Updated May 2020 
+
+ 
+
+33-1 
+
+ 
+
+ARLINGTON COUNTY CODE                          
+
+ 
+
+      SECURITY ALARMS                                                                                           
+
+If  any  of  the  articles,  sections, paragraphs,  sentences,  clauses  or  phrases  of  this  chapter  shall  be  declared 
+unconstitutional  or  invalid  by  the  valid  judgment  or  decree  of  a  court  of  competent  jurisdiction,  such 
+unconstitutionality  or  invalidity  shall  not  affect  the  validity  of  the  chapter  in  its  entirety,  or  any  of  the  remaining 
+articles, sections, paragraphs, sentences, clauses and phrases.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-3. Administration and Enforcement.  
+ 
+
+The  Arlington  County  Police  Department  shall  be  responsible  for  the  administration  and  enforcement  of 
+
+this chapter.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+
+ 
+§ 33-4. Definitions.  
+ 
+
+ARTICLE II. 
+
+ 
+
+DEFINITIONS. 
+
+The  following  words and  terms,  when used  in  this  chapter,  shall have  the  following  meanings  unless  the 
+
+context clearly indicates otherwise: 
+
+“Alarm response” means any response to a premise by the Police Department as a result of an alarm signal. 
+
+“Alarm  signal”  means  the  activation  of  an  alarm  system  resulting  in  a  request  for  an  alarm  response 
+
+“Alarm registration” means a registration issued by the  County to an alarm user allowing the operation of 
+
+ 
+ 
+“Alarm company” means any corporation, partnership, business or individual, operated for profit, engaged 
+in  the  business  of  the  installation,  maintenance,  alteration,  servicing,  or  monitoring  of  an  alarm  system  or  which 
+responds to such alarm systems. 
+ 
+ 
+an alarm system within the County. 
+ 
+ 
+ 
+ 
+regardless of cause. 
+ 
+ 
+“Alarm  system”  means  any  assembly  of  equipment,  mechanical  or  electrical,  designed  to  signal  an 
+occurrence  of  robbery,  burglary,  unauthorized  entry,  or  any  other  circumstance  requiring  urgent  attention  and  to 
+which  police  are  expected  to  respond.  Alarm  system  does  not  include  fire  alarms,  or  alarms  installed  in  motor 
+vehicles,  boats,  or  aircraft,  except  those  motor  vehicles  permanently  located  at  a  site  such  as  office  or  storage 
+trailers. 
+ 
+“Alarm  user”  means  any  person,  firm,  partnership,  association,  corporation,  company  or  organization  of 
+ 
+any  kind  who  or  which  purchases,  leases,  contracts  for,  or  otherwise  obtains  an  alarm  system,  or  the  servicing, 
+maintenance or monitoring of an alarm system from an alarm company. 
+ 
+ 
+“Automatic dialing device” means a device which is interconnected to a telephone line and is programmed 
+to  a  predetermined  telephone  number  and  which  automatically  transmits  by  recorded  voice  message  or  signal  the 
+existence of a hazard requiring urgent attention and to which police or fire fighters are expected to respond. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+
+For which there is no evidence of criminal activity to justify a police response.  
+
+“County Manager” means the County Manager or his designee. 
+
+Which elicits a response by police personnel; and 
+
+“False alarm” means any alarm signal: 
+
+(b) 
+
+(a) 
+
+Code Updated May 2020 
+ 
+
+ 
+
+33-2 
+
+ARLINGTON COUNTY CODE                          
+
+ 
+
+      SECURITY ALARMS                                                                                           
+
+False alarm shall not include police response to an alarm signal that is canceled by the alarm user 
+or his agent prior to the arrival of police personnel at the alarm location. 
+ 
+
+“Police Department” means the Arlington County Police Department. 
+
+“Person” means any  individual,  group  of  persons,  firm,  partnership,  association  of  any  kind,  company  or 
+
+“Protected  premise”  means the premises upon  which an  alarm  system has  been  placed  for the  purpose  of 
+
+ 
+corporation. 
+ 
+ 
+ 
+ 
+detecting a hazard. 
+ 
+ 
+“Twelve month calculation period” means the twelve (12) month period of time, commencing with the date 
+of registration issuance, or for non-registered alarm systems, the date of the first false alarm response, that shall be 
+used for calculating violations of §§ 33-14 and 33-15.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+
+ARTICLE III. 
+
+ 
+
+SECURITY ALARM SYSTEMS 
+
+ 
+§ 33-5. Intentional False Alarm Prohibited.  
+ 
+
+Any  person  who  knowingly  and  willfully  activates  a  security  alarm  system  to  summon  police  or  fire 
+fighters  when  there  is no  actual  or  threatened  emergency  or  criminal  activity  shall  be  deemed  guilty  of  a  Class  1 
+misdemeanor.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-6. Automatic Dialing Device Restrictions.  
+ 
+
+Any  person  who  installs,  operates  or  maintains  an  automatic  dialing  device  which  is  programmed  to 
+transmit a prerecorded message or code signal directly to a 911 telephone number shall be deemed guilty of a Class 
+4 misdemeanor.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-7. Automatic Dialing Service Restrictions.  
+ 
+
+Any person who possesses or controls an automatic dialing device which transmits a prerecorded message 
+or  code  signal  directly  to  a  911  telephone  number  where  there  is  no  actual  or  threatened  emergency  or  criminal 
+activity shall be deemed guilty of a Class 2 misdemeanor.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-8. Alarm Company Registration and Licensing.  
+ 
+
+All  alarm  companies  operating  in  Arlington  County  shall  be  licensed  to  do  business  within  Arlington 
+County and shall comply  with all the licensing, registration, certification, and training requirements established by 
+the Commonwealth of Virginia Department of Criminal Justice Services pursuant to §§ 9-182 and 9-183 of the Code 
+of Virginia.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-9. Required Equipment. 
+ 
+ 
+ 
+  
+
+Alarm systems installed after January 1, 2001, shall meet the following installation standards. 
+
+An alarm system operated within the County shall be equipped in such a manner so as to prevent 
+false alarms due to interruptions in electrical power. 
+
+A.  
+
+1. 
+
+Code Updated May 2020 
+ 
+
+ 
+
+33-3 
+
+ARLINGTON COUNTY CODE                          
+
+ 
+
+      SECURITY ALARMS                                                                                           
+
+ 
+  
+
+2. 
+
+B.  
+
+ 
+ 
+standards. 
+ 
+  
+
+1. 
+
+ 
+  
+
+ 
+  
+
+ 
+  
+
+2. 
+
+3. 
+
+4. 
+
+An  alarm  system  within  the  County  which  is  equipped  with  a  horn,  bell,  siren  or  other  noise 
+device audible beyond the confines of the premise shall be adjusted in such a manner that it will 
+not sound for longer than fifteen (15) minutes before silencing itself. 
+
+Alarm  systems  installed  after  July  1,  2001,  shall  meet  the  following  additional  installation 
+
+Every alarm system must have secondary  or back-up power sufficient to operate the  system in a 
+non-alarm  status  for  a  minimum  of  four  (4)  hours.  An  alarm  activation  shall  not  occur  during 
+switchovers between primary and secondary power. 
+
+All  alarm  system  equipment  must  be  UL  listed,  used  only  for  the  purpose  intended  by  the 
+manufacturer, and installed per manufacturer's specification. 
+
+Every  alarm  system  must  be  installed  under  National  Electric  Code  (NEC)  and  manufacturers 
+standards. 
+
+Any hold-up alarm requiring push button activation must use simultaneous two-button activation, 
+or conform to UL standards. 
+
+C.  
+
+A.  
+
+Any  alarm  system  that  is  required  to  be  upgraded  pursuant  to  §  33-15  shall  be  brought  into 
+
+ 
+ 
+compliance with the provisions of this section regardless of installation date.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-10. Alarm System Registration. 
+ 
+ 
+Every alarm user shall, on a form provided by the  Police Department, register the alarm with the 
+Police Department before the user begins using the system, and must pay the alarm registration fee established by 
+this ordinance. The registration form shall contain the name of two (2) persons who are able to respond to the alarm 
+site within one (1) hour, grant access to the alarm site, and deactivate the alarm system if such becomes necessary. If 
+at any time there is a change in the information provided on the registration form, the correct information must be 
+provided to the Police Department within thirty (30) days of the change. 
+ 
+ 
+repairs, replaced, services or monitors any alarm system shall meet the following requirements: 
+ 
+  
+
+An alarm  company  that  installs,  causes  to  be  installed, permits to  be  installed,  alters, maintains, 
+
+B.  
+
+1. 
+
+An alarm company shall ensure that an alarm user has registered the alarm system with the Police 
+Department  or  designee  before  the  alarm  system  is  activated  or  placed  into  service.  An  alarm 
+company must provide the alarm user registration form to all of its current and future residential 
+and  non-residential  alarm  users,  collect  the  form  and  registration  fee  from  the  alarm  user  and 
+deliver  the  completed  alarm  registration  form  and  registration  fee  to  the  Police  Department  or 
+designee in the required format before the system is activated or placed into service. 
+
+ 
+  
+
+ 
+  
+
+2. 
+
+3. 
+
+An alarm company shall provide to the  Police Department, when requested to do so, a list which 
+contains the name, address, telephone number and registration number of all of its current alarm 
+users in Arlington County. 
+
+An  alarm  company  shall notify  the  Police  Department  or  designee  of  any  alarm  user,  who has  a 
+service  contract  with  or  is  monitored  or maintained  by  the  alarm  business,  who  has  canceled  or 
+otherwise terminated their alarm services with the alarm company. 
+
+ 
+A  separate  registration  is  required  for  each  tenant  of  a  multi-tenant  residential  or  commercial 
+ 
+building using an alarm system. This section shall not apply to systems in apartment complexes registered pursuant 
+to § 33-11. 
+
+C.  
+
+Code Updated May 2020 
+ 
+
+ 
+
+33-4 
+
+ARLINGTON COUNTY CODE                          
+
+ 
+
+      SECURITY ALARMS                                                                                           
+
+I.  
+
+F.  
+
+E.  
+
+H.  
+
+G.  
+
+D.  
+
+Each registration remains in effect until the registrant relinquishes control of the alarm site or the 
+
+Alarm users with alarm systems installed prior to January 1, 2001 shall comply with this  section 
+
+ 
+ 
+Registration of an alarm system is not intended to, nor will it, create a contract, duty or obligation, 
+either expressed or implied, of response. Any and all liability and consequential damage resulting from the failure to 
+respond  to  a  notification  is  hereby  disclaimed  and  governmental  immunity  as  provided  by  law  is  retained.  By 
+registering  an  alarm  system,  the  alarm  user  acknowledges  that  police  response  may  be  based  on  factors  such  as 
+availability of police units, staffing levels, priority of pending requests for police services, weather conditions, traffic 
+conditions, emergency conditions, and the recent activation history of the alarm in question. 
+ 
+ 
+registration is suspended or revoked. 
+ 
+ 
+A registration is valid only for the premises registered and is not transferable to another alarm user 
+or  premises.  A  separate  registration  must  be  obtained  for  each  premise  that  a  single  alarm  user  protects  with  an 
+alarm  system,  and  a  new  alarm  user  must  obtain  a  new  registration  upon  acquiring  an  alarm  system  previously 
+registered by a different alarm user, in accordance with this section. 
+ 
+ 
+All information submitted to a third party administrator in compliance with this regulation must be 
+held in strict confidence and must not be disclosed without approval of the Arlington County Police Department and 
+the  alarm  company  of  record.  Any  person  found  guilty  of  the  unauthorized  release  of  such  information  shall  be 
+guilty of a Class 1 misdemeanor. 
+ 
+ 
+prior to July 1, 2001. 
+ 
+ 
+Any  alarm  user  who  allows  an  alarm  response  to  an  alarm  signal  initiated  by  an  alarm  system 
+which is not in compliance with the registration requirements for this section shall be in violation of this section and 
+subject to an administrative service fee of fifty dollars ($50.00). 
+ 
+ 
+companies and alarm users. 
+ 
+ 
+All residential, nonresidential, and commercial alarm users shall pay an annual registration fee of 
+twenty-five  dollars  ($25.00).  A  ten  dollar  ($10.00)  fee  shall  be  assessed  against  any  alarm  user  to  reinstate  a 
+suspended registration. 
+ 
+ 
+with the date of registration issuance.  
+ 
+(Ord. No. 00-27, 11-1-00; Ord. No. 20-08, 4-30-2020, effective July 1, 2020) 
+ 
+§ 33-11. Alarm System Registration-Apartment Complexes. 
+ 
+ 
+If  the  owner  or  property  manager  of  an  apartment  complex  provides  alarm  systems  in  each 
+residential  unit  as  an  amenity,  the  owner  or  property  manager  shall  obtain  a  separate  alarm  registration  for  each 
+individual  unit  in  the  complex. The  owner  or  property  manager  shall  be  considered the alarm  user,  except  for  the 
+purposes  of  §  33-5.  The  fee  shall  be  one  dollar  ($1.00)  per  unit,  but  in  no  case  shall  be  less  than  thirty  dollars 
+($30.00). The registration procedure shall be as described in § 33-10. 
+ 
+ 
+responsible for payment of fees resulting from false alarm dispatches to individual apartments.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-12. Alarm Company Procedures to Request Police Assistance. 
+ 
+ 
+
+The twelve (12) month period used to calculate violations of §§ 33-14 and 33-15 shall commence 
+
+For  purposes  of  assessing  fees  and  enforcing  this  chapter,  the  owner  or  property  manager  is 
+
+Before requesting a police response to an  alarm signal, an alarm company shall attempt to verify 
+
+Prior to January 1, 2001, the  Police Department shall make registration forms available to alarm 
+
+A.  
+
+A.  
+
+K.  
+
+B.  
+
+L.  
+
+J.  
+
+Code Updated May 2020 
+ 
+
+ 
+
+33-5 
+
+ARLINGTON COUNTY CODE                          
+
+ 
+
+      SECURITY ALARMS                                                                                           
+
+B.  
+
+every  alarm  signal,  except  a  hold-up  alarm  activation,  by  a  telephone  call  to  the  alarm  user  or  other  person(s) 
+designated  by  the  alarm  user.  In  the  case  of  a  hold-up  alarm  activation,  the  alarm  company  shall  not  attempt  to 
+verify the alarm signal, but shall instead provide the  Police Department with the appropriate phone number for the 
+alarm user and allow the Police Department to verify the signal. 
+ 
+ 
+has been properly registered with the Police Department or designee. 
+ 
+ 
+An  alarm  company  shall  provide  the  following  information  when  contacting  the  Police 
+Department Emergency Communications  Center (ECC), to report an activated alarm signal and to request a police 
+response. 
+ 
+  
+
+An  alarm  company  shall not request a  police response  to  an  alarm  signal  until the  alarm  system 
+
+Name and Virginia Department of Criminal Justice Services license number of the alarm company 
+reporting the activated alarm, name or employee number of the alarm company, employee making 
+the report, and a call-back telephone number. 
+
+C.  
+
+1. 
+
+ 
+  
+ 
+  
+
+ 
+  
+
+ 
+  
+ 
+  
+
+ 
+  
+
+ 
+  
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+Registration number issued to the alarm user. 
+
+Location of the activated alarm, including complete business or homeowner's name, street address 
+and telephone number 
+
+Type  of  alarm  (such  as  audible  or  silent,  robbery,  hold-up,  duress,  panic,  burglary),  and  if  the 
+alarm  system  is  zoned,  the  specific  location  of  the  alarm  activation  (such  as  interior,  perimeter, 
+vault, motion detection). 
+
+The results of the verification procedure, i.e. person without code on the premises. 
+
+For  activation  at  nonresidential  premises,  any  available  information  regarding  whether  the 
+business  is  open  or  closed,  if  guards  or  guard  dogs  are  on  site,  and  if  dangerous  or  special 
+conditions exist within the location. 
+
+For  activation  at  residential  premises,  any  available  information  regarding  presence  of  pets, 
+handicapped individuals, or unusual or special conditions. 
+
+If a representative of the alarm user or alarm company is responding and their estimated time of 
+arrival. 
+
+1. 
+
+2. 
+
+E.  
+
+D.  
+
+Due to unpaid alarm response fee due under § 33-14; or 
+
+Because the alarm user did not comply with the inspection requirements under § 33-15. 
+
+An alarm company shall not request a police response to an alarm signal if the alarm business has 
+
+ 
+ 
+been notified by the Police Department or designee that the alarm user registration has been suspended or revoked: 
+ 
+  
+ 
+  
+ 
+ 
+company determines that the alarm signal is a false alarm.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-13. Police Response to Alarm; Determination of Validity; Appeals. 
+ 
+ 
+Whenever  an alarm  is activated  in the  County  and  the  Police  Department does  respond,  a police 
+officer on the scene of the activated alarm shall inspect the premises and shall determine whether the police response 
+was in fact necessary or whether the alarm was a false alarm. If the officer determines that the alarm activation was 
+caused  by  electrical  storm,  hurricane,  tornado,  blizzard  or  other  acts  of  God,  the  alarm  activation  shall  not  be 
+considered a false alarm. 
+
+An  alarm  company  shall  cancel  any  request  for  police  response  immediately  when  the  alarm 
+
+A.  
+
+Code Updated May 2020 
+ 
+
+ 
+
+33-6 
+
+ARLINGTON COUNTY CODE                          
+
+ 
+
+      SECURITY ALARMS                                                                                           
+
+ 
+ 
+to be false alarms. The notice will provide the following information:  
+ 
+
+B.  
+
+The Police Department shall provide written notice to alarm users when responses are determined 
+
+1.  
+ 
+2.  
+ 
+3.  
+
+Date and time of alarm response.  
+
+Officer's name and business telephone number.  
+
+Brief synopsis of the alarm ordinance, including a statement urging the alarm user to ensure that 
+
+the alarm system is properly operated, inspected, and serviced in order to avoid fines.  
+
+ 
+Such notice shall be delivered to the user in a manner to be determined by the Police Department. 
+ 
+C.  
+
+The  alarm  user  may,  within  ten  (10)  business  days  of  the  receipt  of  the  false  alarm  notification 
+ 
+make a written request for a review by the  Chief of Police  or his designee of the determination that an alarm was 
+false. The request shall include the following information:  
+ 
+
+Alarm user name;  
+
+Alarm user registration number;  
+
+Address at which the alarm is installed;  
+
+Date of false alarm that is being contested; and  
+
+The facts upon which the request for review of the false alarm determination is made. 
+
+1.  
+ 
+2.  
+ 
+3.  
+ 
+4.  
+ 
+5.  
+ 
+D.  
+
+E.  
+
+A.  
+
+Response  to  alarm  activations  shall  not  be  counted  as  false  for  the  purpose  of  calculating 
+
+The Chief of Police  or his designee shall consider the circumstances of the contested false alarm 
+
+ 
+determination and provide a written response to the alarm user. 
+ 
+ 
+violations of § 33-14 until the expiration of the ten (10) day appeal period.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-14. Excessive False Alarm Responses Prohibited; Penalties. 
+ 
+ 
+It shall be unlawful for any alarm user in the County to allow an excessive number of false alarm 
+responses to occur at a protected premise for which they are responsible. It is hereby found and determined that false 
+alarm responses to a protected premise in excess of two (2) in a twelve (12) month calculation period are deemed to 
+be an excessive number and shall be a violation of this  chapter. When involving apartment complexes, a protected 
+premise shall be determined on a "per unit" basis. The first twelve (12) month period shall commence on the date of 
+original registration issuance. Subsequent twelve (12) month periods shall be established successively. 
+ 
+ 
+A  false  alarm  response  fee  shall  be  assessed  against  the  alarm  user  for  false  alarm  responses  in 
+excess of two (2) in a twelve (12) month calculation period, in accordance with the following false alarm response 
+fee schedule: 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+Sixth response . . . . . . $250.00 
+
+Third response . . . . . .$100.00 
+
+Fifth response . . . . . . $200.00 
+
+Fourth response . . . .  $150.00 
+
+B.  
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+Code Updated May 2020 
+ 
+
+ 
+
+33-7 
+
+ARLINGTON COUNTY CODE                          
+
+ 
+
+      SECURITY ALARMS                                                                                           
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5. 
+
+6. 
+
+7. 
+
+8.  
+
+9. 
+
+Seventh response . . . .$300.00 
+
+Eighth response. . .  . . $400.00 
+
+Ninth response. . . . . $500.00 
+
+Tenth Response. . .$600.00 
+
+Eleventh Response. . . $700.00 
+
+10. 
+
+Twelfth response. . . $800.00 
+
+  11. 
+
+Thirteenth response…$900 
+
+C.  
+
+18. 
+
+17. 
+
+16. 
+
+15. 
+
+14. 
+
+13. 
+
+12. 
+
+Fifteenth response…$1,100 
+
+Sixteenth response…$1,200 
+
+Eighteenth response…$1,400 
+
+Fourteenth response…$1,000 
+
+Nineteenth response…$1,500 
+
+Seventeenth response…$1,300 
+
+Twenty or more responses…$1,500 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The failure of an alarm user to make payment of any fee imposed under  this section within sixty 
+(60) days from the date of receipt may result in the suspension of the alarm user registration and a discontinuance of 
+police  response  to  alarms  that  may  occur  at the  protected  premises  described  in the  alarm  user's registration  until 
+such time that payment is received. 
+ 
+ 
+To  ensure  that  the  assessed  amounts  are  representative  of  the  costs  incurred  by  the  County  to 
+provide  alarm  responses  and  to  administer  this  chapter,  the  amounts  contained  in  the  false  alarm  response  fee 
+schedule shall be evaluated and amended, as necessary, on an annual basis.  
+ 
+(Ord. No. 00-27, 11-1-00; Ord. No. 08-06, 4-19-08, effective 7-1-08; Ord. No. 20-08, 4-30-2020, effective July 1, 
+2020) 
+ 
+§ 33-15. Inspection of Alarm Systems. 
+ 
+ 
+In  the  event that three  (3)  or more  false  alarms  occur at a protected  premises  within  any  twelve 
+(12) month calculation period, the Chief of Police or his designee may require that the alarm user, at the alarm user's 
+expense, cause their alarm system to be inspected by an alarm company licensed to conduct business in Arlington 
+County.  The  inspection  shall  entail  a  complete  examination  of  the  alarm  system  including,  but  not  limited  to, 
+satisfactory design and installation of the equipment, proper functioning of the equipment, and user education in the 
+operation of the equipment. The alarm company shall record the details of the inspection and certify that the alarm 
+system is operating properly and that the appropriate persons have been re-educated in the proper operations of the 
+system  on  a  form  provided  by  the  Police  Department  for  this  purpose.  The  completed  inspection  report  shall  be 
+returned to the Police Department within thirty (30) days of the initial notification to the alarm user. 
+ 
+ 
+In the event that eight (8) or more false alarms occur at a protected premise within any twelve (12) 
+month  calculation  period,  the  Chief  of  Police  or  his  designee  may  require  that  the  alarm  user  cause  their  alarm 
+
+A.  
+
+D.  
+
+B.  
+
+Code Updated May 2020 
+ 
+
+ 
+
+33-8 
+
+ARLINGTON COUNTY CODE                          
+
+ 
+
+      SECURITY ALARMS                                                                                           
+
+system to be upgraded to be in compliance with equipment installation standards. An alarm company licensed to do 
+business in Arlington County shall certify that the system has been upgraded to meet the standards listed in § 33-9 of 
+this ordinance. Such certification shall be made on a form provided by the  Police Department for this purpose. The 
+completed certification form shall be returned to the Police Department within thirty (30) days of initial notification 
+to the alarm user. 
+ 
+ 
+If the Police Department does not receive the completed inspection report or upgrade certification 
+report  within  thirty  (30)  days  of  notification,  an  administrative  fee  of  one  hundred  dollars  ($100.00)  shall  be 
+assessed  against  that  alarm  user.  The  alarm  user  registration  may  be  suspended  for  failure  to  comply  with  the 
+inspection or upgrade requirements or pay the administrative fee. The Police Department may discontinue response 
+to alarm activations that may occur at the premises described in the alarm user's registration until such time as the 
+inspection report, upgrade certification report and/or administrative fees are received by the Police Department.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+
+C.  
+
+ARTICLE IV. 
+
+ 
+
+ADMINISTRATIVE APPEAL HEARING 
+
+C.  
+
+B.  
+
+A.  
+
+ 
+§ 33-16. Administrative Appeal Hearing. 
+ 
+ 
+In the event an inspection order is issued to an alarm user, administrative fees are assessed, or the 
+registration of an alarm user is suspended, the alarm user may request an appeal hearing to determine whether there 
+is just cause for such action. 
+ 
+ 
+The hearing shall be held before a hearing officer who shall have been appointed by the  County 
+Manager.  The  hearing  shall  be  held  within  seventy-two  (72)  hours  after  the  request  is  filed  with  the  Police 
+Department unless an extension has been agreed upon by both the alarm user and the Police Department. 
+ 
+ 
+The alarm user shall have the right to appear and present witnesses and other  evidence, but there 
+shall be no formal rules of procedure required for the conduct of the hearing and the hearing officer shall not have 
+the power to compel the attendance of witnesses or the production of other evidence. 
+ 
+ 
+The hearing officer shall proceed forthwith to hear the matter and to determine by a preponderance 
+of the evidence whether there is probable cause to believe that the provision of this chapter have been applied, fairly 
+and impartially. The hearing officer shall have authority, if he determines that there is insufficient evidence to fully 
+support imposition of an inspection requirement, registration suspension, or administrative service fees, to order that 
+any inspection requirements, registration suspension, or fees imposed under this chapter be waived or rescinded in 
+whole or in part. 
+ 
+ 
+assessed pursuant to §§ 33-13 and 33-14 of this chapter.  
+(Ord. No. 00-27, 11-1-00) 
+ 
+§ 33-17. Grounds for Rescinding, Waiving or Reduction Service Fees.  
+ 
+
+The  provisions  of  this  section  shall  not  apply  to  the  imposition  of  false  alarm  response  fees 
+
+D.  
+
+E.  
+
+A. Administrative hearing officers shall consider the following factors in reaching a determination as to the 
+
+modification or waiving of an administrative fee, inspection order, or registration suspension order: 
+
+ 
+1. 
+
+  
+ 
+
+Evidence of attempts by the alarm user to eliminate the cause of false alarms, such as:  
+
+Installation of new equipment  
+
+a. 
+ 
+b.  Replacement of defective equipment  
+ 
+c. 
+
+Inspection and repair of the system by an alarm technician  
+
+Code Updated May 2020 
+ 
+
+ 
+
+33-9 
+
+ARLINGTON COUNTY CODE                          
+
+ 
+
+      SECURITY ALARMS                                                                                           
+
+ 
+d.  Specific formal training of alarm users. 
+ 
+Written evidence that the alarm system  which caused the alarm responses has been disconnected 
+and removed from the protected premises.  
+
+2. 
+
+  
+
+ 
+
+B.  Nothing  in  this  section  shall  be  interpreted  to  require  that  all  appeals  which  meet  any  or  all  of  these 
+circumstances  will  be  granted.  These  are  intended  as  guidelines  for  the  hearing  officer  and  shall  not  prevent  the 
+hearing officer from granting appeals for additional reasons.  
+(Ord. No. 00-27, 11-1-00) 
+
+Code Updated May 2020 
+ 
+
+ 
+
+33-10 
+
+

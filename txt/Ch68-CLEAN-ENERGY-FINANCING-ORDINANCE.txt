@@ -1,0 +1,2648 @@
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+Chapter 68 
+
+CLEAN ENERGY FINANCING ORDINANCE 
+
+Article I.  In General 
+
+§68-1.  Purpose 
+§68-2. Definitions 
+§68-3.  Effective Date 
+
+Article II.  Program Structure 
+
+§68-4.  Project Eligibility 
+§68-5.  Loan; Program Fees; Reporting; Program Guide 
+§68-6.  Assessment; Recordation of Lien; County Expenses 
+§68-7.  Role of the County; Limitation of Liability 
+§68-8.  Additional Provisions 
+
+ARTICLE I. 
+IN GENERAL 
+
+§68-1. Purpose 
+
+The  County  finds  that  facilitating  improvements  to  certain  types  of  non-residential  buildings,  if  such 
+improvements  involve  renewable  energy  production  and  distribution,  increased  energy  efficiency,  or 
+increased  water  usage  efficiency,  will  promote  the  general  welfare  and  help  the  County  reach  its 
+Community Energy Plan goals. 
+
+Therefore, the purpose of this Chapter is to create an "Arlington County Commercial Property Assessed 
+Clean Energy (C-PACE) Financing Program," in accordance with the Commonwealth of Virginia’s Clean 
+Energy Financing Law (§ 15.2-958.3 of the Code of Virginia of 1950, as amended). The C-PACE program 
+will  facilitate  loans  made  by  qualified  lenders  to  certain  non-residential  property  owners  to  finance 
+renewable energy production and distribution facilities, energy efficiency improvements, or water usage 
+efficiency improvements. Subject to the limitations set forth in this Ordinance and other applicable laws, 
+including,  without  limitation,  the  Clean  Energy  Financing  Law,  each such  loan,  inclusive  of principal, 
+interest and any financed fees, costs or expenses, will be (i) repaid through special assessment payments 
+and (ii) secured by a voluntary special assessment lien on the property that is the subject of such loan. 
+
+Code Updated 11-2017 
+ 
+
+68-1 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+In furtherance of the C-PACE program, the County, through this Ordinance and subject to the limitations 
+set forth herein and other applicable laws, including, without limitation, the Clean Energy Financing Law, 
+authorizes each qualified lender to (i) file and record such liens on behalf of the County, (ii) assign such 
+liens on behalf of the County, (iii) amend such liens from time to time, and (iv) administer, in all respects, 
+the loans respectively evidenced by such liens; provided, however, for the avoidance of doubt, that the 
+County shall have no obligations with respect to the Program, or any loan, assessment, lien, or transaction 
+related thereto, other than as expressly set forth in this Ordinance. 
+
+§68-2. Definitions 
+
+"Administrator" means the person or entity contracted in writing by the County to assist with the planning 
+and administration of the Program. With prior written approval from Program Manager, which approval 
+shall be in Program Manager's sole and absolute discretion, Administrator may, in a writing signed by 
+Administrator, delegate one or more of its administrative duties specified herein or in the Program Guide 
+to a person or entity subcontracted by Administrator. 
+
+"Assessment Payments" means the periodic repayments of the Loan Amount by Property Owner, due and 
+payable to Lender in such amounts and at such times as described in the Financing Agreement and the Lien. 
+
+"Board" means the Arlington County Board. 
+
+"Clean Energy Financing Law" means § 15.2-958.3 of the Code of Virginia of 1950, as amended. 
+
+"Commonwealth" means "Commonwealth of Virginia." 
+
+"Contractor" means any person or entity that (i) for a set price, commission, or fee, undertakes to bid upon, 
+or accepts or offers to accept, any order or contract to perform or manage, in whole or in part, any Project 
+under this Ordinance, (ii) is validly licensed or otherwise permitted under applicable law to provide such 
+service,  (iii)  has  attended  Program  training  provided  by  Administrator,  (iv)  has  been  approved  as  a 
+registered contractor by Administrator and (v) is either listed in the Program Guide or identified in a publicly 
+available list maintained by Administrator. 
+
+"County Attorney" means the County Attorney of the County. 
+
+"C-PACE" means Commercial Property Assessed Clean Energy. 
+
+"Eligible Building" means any building located, or to be located, on Eligible Property, including all existing 
+and future improvements upon such building, regardless of such building's use or whether such building is 
+existing, under construction, or to be constructed; provided, however, that the term "Eligible Building" shall 
+not include any (i) residential dwelling with fewer than five dwelling units or (ii) condominium project as 
+defined in §55-79.2 of the Code of Virginia of 1950, as amended. 
+
+"Eligible Improvement" means any improvement, construction, equipping, installation or modification of 
+or to, as the case may be, an Eligible Building, if designed to (i) facilitate renewable energy production and 
+distribution, (ii) increase energy efficiency, or (iii) increase water usage efficiency. 
+
+"Eligible Property" means real estate located within the County, regardless of whether such real estate is 
+subject to taxation by the County. 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Code Updated 11-2017 
+ 
+
+68-2 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+"Financing Agreement" means a written agreement, as may be amended, modified, or supplemented from 
+time to time, between Property Owner and Lender, regarding matters related to the extension and repayment 
+of  a  Loan  to  finance  a  Project,  including,  without  limitation,  (i)  the  Loan  Amount,  (ii)  the  repayment 
+schedule, (iii) the interest rate, (iv) Program Fees, and (v) other fees, costs or expenses charged to Property 
+Owner. Proposed terms and conditions for such agreement are found in the Draft Financing Agreement 
+attached to, and made part of, §68-8A of this Ordinance. Property Owner and Lender may choose to deviate 
+from such terms and conditions, or use such other form of financing agreement that Property Owner and 
+Lender  may agree  upon;  provided, however, that each Financing Agreement  shall include Sections 2.1 
+(Assessment and Lien), 2.2 (Loan Terms and Assessment Payments), 5.1 (The Act, the Ordinance and the 
+Program Guide), 5.2 (General), 5.10 (Assignment of Lien and Participation Interests), 7.5 (Governing Law), 
+7.7 (Jurisdiction) and 7.11 (The County) of the Draft Financing Agreement, with variations permitted to 
+such sections only to the extent that such variations are minor, non-substantive and stylistic to allow such 
+sections to conform to the agreement used by Lender and Property Owner.  In the case of a conflict between 
+the terms of a Lien and the terms of the applicable Financing Agreement, the terms of such Lien shall 
+control. 
+
+"Lender" means a source of financing that has been approved, by Administrator, as a qualified lender in 
+accordance with the criteria set forth in the Program Guide. Each such qualified lender may make Loans to 
+eligible Property Owners to finance Projects under the Program. 
+
+"Lien" means a voluntary special assessment lien duly Recorded against an Eligible Property to secure 
+Assessment Payments. Each Lien (i) shall run with the land, and those portions of Assessment Payments 
+secured by such Lien that have not yet become due are not eliminated by foreclosure of a property tax lien, 
+and (ii) shall have the same priority status as a real property tax lien, except that such Lien shall have priority 
+over any previously recorded mortgage or deed of trust lien on the Property only if a written subordination 
+agreement is executed by the holder of each such previously recorded lien. Such subordination agreement 
+shall be Recorded with the Lien, and shall be in a form and substance acceptable to the prior lienholder in 
+its sole and exclusive discretion. Prior to the Recording of any Lien, Property Owner must submit to Lender 
+evidence that: (i) Property Owner is current on payments on all loans secured by a mortgage or deed of trust 
+lien on the Eligible Property and on property tax payments to the   County, 
+(ii) Property Owner is not insolvent or subject to bankruptcy proceedings, and (iii) Property Owner's title 
+to the Eligible Property is not in dispute. 
+
+"Loan" means a loan from Lender to Property Owner to finance a Project, as described in a Financing 
+Agreement. 
+
+"Loan Amount" means the aggregate amount of a Loan, inclusive of principal, interest and any financed 
+fees, costs or expenses, all as provided for in the Financing Agreement. 
+
+"Loan  Document"  means  a  Financing  Agreement,  a  Lien,  or  any  amendment  thereof,  or  any  other 
+document, agreement or instrument executed in connection with a Loan, a Financing Agreement, a Lien, 
+or any amendment thereof. 
+
+"Program" means the C-PACE program established by the County, through this Ordinance, in accordance 
+with the Clean Energy Financing Law. 
+
+"Program Fees" means those fees and expenses that shall be specified in the Program Guide; provided, 
+however, that the County reserves the right to revise the nature or amount of such fees at any time; provided 
+further, however, that any such revision shall not apply to any Program Fees specified in an executed 
+Financing Agreement. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Code Updated 11-2017 
+ 
+
+68-3 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+"Program Guide" means the detailed description of Program requirements, which shall include, without 
+limitation,  (i)  examples  of  Eligible  Improvements,  (ii)  criteria  or  requirements  for  the  designation  of 
+Contractors and Lenders, (iii) criteria or requirements for the eligibility of Property Owners and Projects, 
+(iv) all fees, costs and expenses of the Program, including those of Administrator, (v) certain disclosures to 
+Property  Owners  regarding  the  Program,  and  (vi)  the  required  provisions  set  forth  in  §68-8E  of  this 
+Ordinance. 
+
+"Program Manager" means County Manager or such person designated in writing by County Manager to 
+run the Program and act as liaison with Administrator; provided, however, that only County Manager shall 
+be authorized to enter into any contract on behalf of the County in respect of the Program, and any such 
+contract shall be subject to Board approval. 
+
+"Project" means the development of Eligible Improvements on an Eligible Building. 
+
+"Property  Owner"  means  the  person  or  entity  that  holds  title  to  Eligible  Property,  together  with  its 
+successors and permitted assigns, as to be described in a Financing Agreement. 
+
+"Record" means "file and record in the land records of the County." 
+
+"Savings-to-Investment  Ratio"  means  the  total  estimated  (or  projected)  energy  cost  savings  over  the 
+effective useful life of the Eligible Improvements, divided by the Loan Amount; provided that the foregoing 
+definition may be further described or modified in the Program Guide. 
+
+§68-3. Effective Date 
+
+This Ordinance shall become effective as of November 18, 2017. 
+
+ARTICLE II. PROGRAM STRUCTURE 
+
+ 
+
+§68-4. Project Eligibility 
+
+A. 
+
+ 
+ 
+Prioritization: Administrator will process Project applications on a first come, first serve 
+basis; provided, however, that all successful applicants must meet the income or property value eligibility 
+requirements established under the Program Guide. 
+ 
+
+Project Eligibility Notification: Administrator shall prepare and deliver to Property Owner 
+
+B. 
+
+a project eligibility notification and a project finance report that includes, if applicable, the Project’s 
+Savings-to-Investment Ratio. 
+ 
+
+C. 
+
+Size Thresholds: The minimum Loan Amount that may be financed for each Project is fifty 
+
+thousand dollars ($50,000). The maximum Loan Amount that may be financed for each Project is twenty-
+five million dollars ($25,000,000). 
+ 
+§68-5. Loan; Program Fees; Reporting; Program Guide 
+ 
+Source of Loan; Financing Agreement: Loans may only be financed by Lenders. Each Loan must be made 
+pursuant to a Financing Agreement. 
+ 
+
+Repayment and Administration of Loan: Loans will be repaid by Property Owner through 
+
+A. 
+
+Assessment Payments. Upon assignment of the Lien to Lender, as described in §68-6B hereof, 
+ 
+
+68-4 
+
+ 
+Code Updated 11-2017 
+ 
+
+ARLINGTON COUNTY CODE 
+
+ 
+ 
+Property Owner shall make all such Assessment Payments directly to Lender pursuant to the Financing 
+Agreement, and Lender shall be responsible, subject to and in accordance with the terms of the Financing 
+Agreement, for all billing, collection, enforcement and administrative duties in respect of each of the Loan, 
+the Assessment Payments and the Lien. 
+ 
+
+CLEAN ENERGY FINANCING 
+
+B. 
+
+Program Fees: The Program will be self-financed through Program Fees charged to 
+
+C. 
+
+participating Property Owners that are designed to cover the costs to design and administer the Program, 
+including the compensation of Administrator.  Lender shall collect the Program Fees from Property Owner at 
+Loan closing, and shall remit any such Program Fees so collected to Administrator within ten (10) days of 
+the date of such closing, without requiring demand or notice from Administrator. 
+ 
+
+Reporting: No less frequently than semi-annually, each Lender shall provide to the County 
+
+a written report with summary information regarding the Loan portfolio performance of such Lender, 
+including the (i) types and amounts of Eligible Improvements financed, (ii) locations of Projects, 
+(iii) number of Loans outstanding, (iv) overall aggregate dollar amount outstanding under such Loans, (v) 
+average initial Loan Amount, (vi) number of Loans with delinquent Assessment Payments and (vii) number 
+of Loans foreclosed upon to date and the number of pending foreclosures. 
+ 
+
+D. 
+
+Program Guide: The Program Guide and any subsequent amendments thereto shall 
+
+A. 
+
+become effective only (i) to the extent that the Program Guide and such amendments do not contravene this 
+Ordinance and (ii) after review by the County Attorney and written approval by Program Manager. The 
+Program Guide, including any amendments thereto, shall contain the required provisions set forth in §68-
+8E of this Ordinance. 
+ 
+§68-6. Assessment; Recordation of Lien; County Expenses 
+ 
+
+Notification of Closing: Upon the financial closing of a Project, Lender will promptly provide 
+
+B. 
+
+notice thereof to each of Program Manager and Administrator, which notice shall include: (i) a statement of the Loan 
+Amount, (ii) a copy of the Financing Agreement executed by Property Owner and Lender, (iii) a written 
+subordination agreement with each holder of a prior mortgage or deed of trust lien on the Eligible Property, and (iv) 
+evidence that (A) Property Owner is current on payments on loans secured by a mortgage or deed of trust lien on the 
+Property and on property tax payments to the County, (B) Property Owner is not insolvent or subject to bankruptcy 
+proceedings, and (C) Property Owner's title to the Eligible Property is not in dispute. 
+ 
+
+Recordation of Lien; Assignment: Upon receipt of such notice in §68-6A hereof, Lender, 
+as authorized by the County for such purposes, shall promptly Record the Certificate of Levy and Lien of 
+Special Assessment on behalf of the County, a form of which is attached to, and made part   of, §68-8B of 
+this Ordinance. Promptly thereafter, Lender, as authorized by the County for such purposes, shall assign 
+the Lien from the County to Lender, to cause Lender to be named as the holder of the Lien in the land 
+records of the County, by Recording an Assignment of Special Assessment Lien, a form of which is 
+attached to, and made part of, §68-8C of this Ordinance. Such assignment shall include only the County's 
+right, title and interest in and to the Assessment Payments and the Lien, and the County shall retain all of 
+its other rights and remedies, including any special powers of enforcement or collection to which the 
+County, by virtue of its status as a political subdivision of the Commonwealth, is entitled or empowered to 
+exercise under applicable laws of the Commonwealth. 
+ 
+
+Amendment of Lien: The Lien may, in Lender’s sole discretion, be amended, after Lender 
+disburses the Loan. To effect such amendment, Lender will Record a  Confirmation and Amendment   of 
+
+C. 
+
+ 
+
+ 
+Code Updated 11-2017 
+ 
+
+68-5 
+
+ 
+D. 
+
+ARLINGTON COUNTY CODE 
+
+ 
+ 
+Special Assessment Lien, a form of which is attached to, and made part of, §68-8D of this Ordinance; 
+provided, however, that such amendment shall be permitted only to the extent amendments are permitted 
+under the applicable Financing Agreement. 
+
+CLEAN ENERGY FINANCING 
+
+Preparation of Documentation; Expenses: Lender shall be responsible for (i) preparing all 
+
+documentation in respect of the Loan, the Financing Agreement, the Lien, and any assignment or 
+amendment of the Lien, (ii) presenting such documentation to the County prior to the Recording of any 
+Lien or any assignment or amendment thereof, and (iii) reimbursing the County for any reasonable out-of-
+pocket expenses incurred by the County in connection with the review, preparation or Recording of such 
+documentation. Lender shall make such reimbursement within ten (10) days upon written demand from the 
+County. Lender may, if provided for in the Financing Agreement, recover from Property Owner the 
+amount of any such reimbursements actually paid to the County. 
+ 
+§68-7. Role of the County; Limitation of Liability 
+ 
+
+By  executing  a  Financing  Agreement  or  any  other  Loan  Document,  or  otherwise  participating  in  the 
+Program, each Property Owner, Lender, Contractor or other party or participant acknowledges and agrees, 
+for  the  benefit  of  the  County  and  as  a  condition  of  participation  in  the  Program,  that:  (i)  the  County 
+undertakes no obligation under or in respect of any Loan Document or the Program Guide, and no implied 
+covenants or obligations of the County shall be read into either, (ii) regardless of any default by Property 
+Owner, the County has no obligation to make Assessment Payments to any Lender, or any other payments 
+in respect of any Loan, including, without limitation, any fees, expenses and other charges described in any 
+Loan Document, (iii) none of any Loan, Assessment Payment, Lien or other obligation arising from any 
+Loan Document, the Act, or the Ordinance shall be backed by (A) any credit of the County, (B) any credit 
+of the Commonwealth or its political subdivisions, including, without limitation, the County, or (C) any 
+taxes or governmental funds, (iv) none of any Loan, Assessment Payment, Lien or other obligation arising 
+from any Loan Document, the Act, or the Ordinance shall constitute an indebtedness within the meaning of 
+any  constitutional  or  statutory  debt  limitation  or  restriction,  (v)  the  County  has  not  made  any 
+representations, financial or otherwise, in respect of Borrower, the Property or the Project, (vi) the County 
+makes no representation or warranty as to, and assumes no responsibility with respect to, the accuracy or 
+completeness  of  any  Lien,  or  any  assignment  or  amendment  thereof,  (vii)  the  County  assumes  no 
+responsibility or liability in respect of any Project, or the planning, construction or operation thereof, (viii) 
+each Property Owner, Lender and Contractor shall, upon request, provide the County with any information 
+associated with the Project or the Loan that is reasonably necessary to confirm that the Project or Loan 
+meets all requirements of the Act, the Ordinance and the Program Guide and (ix) each Property Owner, 
+Lender, Contractor and other participant under the Program shall comply with all applicable requirements 
+of the Act, the Ordinance and the Program Guide. 
+
+A. 
+
+Draft Financing Agreement: Each Financing Agreement shall be in substantially the form 
+
+ 
+§68-8. Additional Provisions 
+ 
+ 
+below, with such additions, deletions or alterations as permitted by this Ordinance. 
+ 
+ 
+Lien of Special Assessment shall be in the form below, with only minor variations permitted to complete the 
+form. 
+ 
+ 
+Lien shall be in the form below, with only minor variations permitted to complete the form. 
+
+Form of Assignment of Special Assessment Lien: Each Assignment of Special Assessment 
+
+Form of Certificate of Levy and Lien of Special Assessment: Each Certificate of Levy and 
+
+B. 
+
+C. 
+
+ 
+
+ 
+Code Updated 11-2017 
+ 
+
+68-6 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+D. 
+
+Form of Confirmation and Amendment of Special Assessment Lien: Each Confirmation and 
+
+ 
+ 
+Amendment of Special Assessment Lien shall be in the form below, with only minor variations permitted 
+to complete the form. 
+ 
+ 
+thereto, shall contain the following provisions: 
+ 
+
+Required Program Guide Provisions: The Program Guide, including any amendments 
+
+E. 
+
+"This Program Guide (this "Guide") has been prepared pursuant to Chapter 68 of the 
+Arlington  County  Code  (the  "Ordinance"),  for  purposes  of  providing  a  more  detailed 
+description of the requirements applicable to the Arlington County Commercial Property 
+Assessed Clean Energy (C-PACE) Financing Program (the "Program"). This Guide and 
+all  provisions  hereof  are  subject  to  the  Ordinance  in  all  respects,  including,  without 
+limitation, the provisions of the Ordinance governing the amendment of this Guide. In the 
+case  of  any  conflict  between  the  provisions  of  this  Guide  and  the  provisions  of  the 
+Ordinance, the provisions of the Ordinance shall control." 
+
+ 
+
+"THIS  GUIDE  IS  ONLY  A  REFERENCE  DOCUMENT,  AND  CREATES  NO  LEGAL 
+RIGHTS  IN  FAVOR  OF  ANY  PROPERTY  OWNER,  LENDER,  CAPITAL  PROVIDER, 
+CONTRACTOR OR ANY OTHER PERSON, NOR DOES IT IMPOSE ANY LEGAL DUTY 
+OR OBLIGATION ON THE COUNTY OF ARLINGTON, VIRGINIA." 
+
+F. 
+
+Narrow Construction; No Precatory Sections: This Ordinance shall be narrowly construed. 
+
+ 
+ 
+All portions of this Ordinance, including, without limitation, §68-1 (Purpose), shall have full regulatory 
+effect and are not precatory. 
+ 
+
+ 
+
+ 
+
+ 
+Code Updated 11-2017 
+ 
+
+68-7 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+DRAFT FINANCING AGREEMENT1 
+
+[PROJECT ADDRESS] 
+
+THIS FINANCING AGREEMENT (the “Agreement”) is made as       of t h e  
+
+  
+("Borrower"), and [  
+
+, 20  
+
+, by and between [  
+
+], a [  
+
+  ], a [  
+], with an address at [  
+
+], with an address a t  [  
+
+] ("Lender"). 
+
+day o f  
+] 
+
+RECITALS 
+
+1. 
+
+The Commonwealth of Virginia (the "Commonwealth") has authorized its localities to 
+establish commercial property assessed clean energy programs under Section 15.2-958.3 (the "Act") of the 
+Code of Virginia of 1950, as amended (the "Code"). In conformance with the Act, the County of Arlington,  
+Virginia  (the  "County")  has  (i)   enacted  [  
+]  (the  "Ordinance")  to   create  the 
+Arlington Commercial Property Assessed Clean Energy (C-PACE) Financing Program (the "Program"), 
+the requirements of which are set forth in the Ordinance and the Program guidelines (such guidelines, as 
+established  and amended  from  time  to  time  pursuant  to  the  procedures  set  forth  in  the  Ordinance, the 
+"Program Guide"), and (ii) selected an administrator to facilitate the Program ("Administrator"). 
+
+2. 
+
+Borrower owns all that certain real property together with all improvements, buildings and 
+other structures thereon and appurtenances thereto, lying in the County and commonly known as [Address], 
+and more fully described in Exhibit [ ] (the "Property"). In accordance with the Ordinance and the Program 
+Guide, Borrower is constructing improvements upon or renovating the Property to increase energy or water 
+usage efficiency or installing a renewable energy production or distribution system to service the Property 
+(the "Project"), which Project shall be permanently affixed to such Property. 
+
+3. 
+
+Pursuant to the Act and the Ordinance, lenders may provide loans or advances directly to 
+property owners participating in the Program. Accordingly, Borrower has applied for financing for the 
+Project through a loan of funds from Lender, and Lender desires to provide to Borrower a loan of funds in 
+the amount  of [  
+]), inclusive of  principal, interest 
+and any financed fees, costs or expenses provided for herein (including, without limitation, the Program 
+Fees), to finance the Project (as further described in Section 2.2 herein, the "Loan"). 
+
+] AND 00/100 DOLLARS ($[  
+
+4. 
+
+Pursuant to the Act and the Ordinance, Borrower shall repay the Loan through a special 
+assessment secured by a special assessment lien against the Property. After the execution of this Agreement, 
+Lender, acting on the County's behalf as authorized by the Ordinance, will file and record such assessment 
+and lien in the land records of the County, and Lender, acting on the County's behalf as authorized by the 
+Ordinance, will subsequently assign the County's right, title and interest in and to such assessment and lien 
+to Lender, who shall administer the Loan in all respects. 
+
+NOW THEREFORE, the parties agree as follows: 
+
+ARTICLE I – DEFINITIONS 
+
+1.1 
+
+Definitions. As used herein, the following terms shall have the meanings herein specified 
+
+unless the context otherwise requires. 
+
+1 This form contemplates all loan proceeds being advanced in a single disbursement. Add additional provisions as necessary for 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Code Updated 11-2017 
+ 
+
+68-8 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+a drawdown loan. 
+
+CLEAN ENERGY FINANCING 
+
+ 
+
+ 
+Code Updated 11-2017 
+ 
+
+68-3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+"Act" shall have the meaning set forth in the Recitals. 
+
+"Administrator" shall have the meaning set forth in the Recitals. 
+
+"Agreement" shall have the meaning set forth in the preamble to this Agreement. 
+
+"Assessment Payments" means periodic repayments of the Loan made by Borrower to Lender. 
+
+"Assignee" shall have the meaning set forth in Section 5.10(a). 
+
+"Borrower" shall have the meaning set forth in the preamble to this Agreement. 
+
+"CERCLA" shall have the meaning set forth in Section 3.6(a). 
+
+"Code" shall have the meaning set forth in the Recitals. 
+
+"Commencement Date" shall mean [  
+
+]. 
+
+"Commonwealth" shall have the meaning set forth in the Recitals. 
+
+"Consent" shall have the meaning set forth in Section 4.1(a)(v). 
+
+"County" shall have the meaning set forth in the Recitals. 
+
+"Credits or Incentives" means (i) any and all environmental benefits, air quality credits, emissions 
+reductions, offsets and allowances, any renewable energy credits or similar credits or certificates and any 
+other tradable energy or environmental related commodity produced by or associated with the Project and 
+(ii)  any  and  all  financial  incentives,  from  whatever  source,  related  to  the    construction,  ownership  or 
+operation of the Project, including, without limitation, (A) federal, state or local tax credits, (B) any other 
+financial incentives in the form of credits, reductions, or allowances that are applicable to a local, state or 
+federal income taxation obligation and (C) other grants, rebates or subsidies, including utility incentive 
+programs. 
+
+"Environmental Law" shall have the meaning set forth in Section 3.6(a). 
+
+"Event of Default" shall have the meaning set forth in Section 6.1. 
+
+"Event of Unenforceability" means any proposed or final legislative or administrative action, any 
+executive decree, order or similar pronouncement or any final judicial order or decree that the Assessment 
+Payments or the Lien are not valid and enforceable under the laws of the Commonwealth, or any unstayed 
+injunctive relief, the effect of which would be to prevent servicing or collection of the Assessment Payments 
+or the Lien. 
+
+"GAAP" shall have the meaning set forth in Section 3.2. 
+
+"Holder" means a holder, beneficiary or secured party with respect to a mortgage, deed of trust, 
+
+security agreement or other similar instrument, as applicable. 
+
+"Indemnified Person" shall have the meaning set forth in Section 5.8. 
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+"Lender" shall have the meaning set forth in the preamble to this Agreement. 
+
+"Lien" shall have the meaning set forth in Section 2.1. 
+
+"Loan" shall have the meaning set forth in the Recitals, as further described in Section 2.2. 
+
+"Mortgage" means a mortgage, deed of trust, security agreement or other similar instrument, as 
+
+applicable. 
+
+"Ordinance" shall have the meaning set forth in the Recitals. 
+
+"Participant" shall have the meaning set forth in Section 5.10(b). 
+
+"Permits" means all permits, consents, approvals and authorizations by any governmental body 
+necessary for (i) the construction of the Project, (ii) the connection and operation of the Project, including, 
+without limitation, all utilities necessary to service the Project, and (iii) the construction and use of all 
+roadways, driveways, curb cuts and other vehicular or other access to and egress from the Project. 
+
+"Polluting Substance" shall have the meaning set forth in Section 3.6(a). 
+
+"Program" shall have the meaning set forth in the Recitals. 
+
+"Program Fees"  means [  
+
+], as provided in the Program Guide.   The    Program Fees 
+
+shall be financed as part of the Loan and repaid through Assessment Payments. 
+
+"Program Guide" shall have the meaning set forth in the Recitals. 
+
+"Project" shall have the meaning set forth in the Recitals. 
+
+"Property" shall have the meaning set forth in the Recitals. 
+
+"RCRA" shall have the meaning set forth in Section 3.6(a). 
+
+"Record" means "file and record in the land records of the County." 
+
+"Release Parcel" shall have the meaning set forth in Section 5.12. 
+
+"Transaction Documents" shall have the meaning set forth in Section 6.1(b). 
+
+1.2 
+
+Rules of Interpretation. 
+
+(a) 
+
+The definitions of terms herein shall apply equally to the singular and plural 
+
+forms of the terms defined. 
+
+(b) 
+
+The word "or" is not exclusive. 
+
+(c)  Whenever the context may require, any pronoun shall include the corresponding 
+
+masculine, feminine and neuter forms. 
+
+(d) 
+
+The words "include," "includes" and "including" shall be deemed to be followed 
+
+by the phrase "without limitation." 
+
+3 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+(e) 
+
+Accounting terms have the meanings assigned to them by GAAP, as applied by 
+
+the accounting entity to which they refer. 
+
+(f) 
+
+The word "will" shall be construed to have the same meaning and effect as the 
+
+word "shall." 
+
+(g) 
+
+Unless  the  context  requires  otherwise  (i)  any  definition  of  or  reference  to  any 
+agreement,  instrument  or  other  document  herein  shall  be  construed  as  referring  to  such  agreement, 
+instrument or other document as from time to time amended, supplemented or otherwise modified (subject 
+to any restrictions on such amendments, supplements or modifications set forth herein or therein), 
+
+(ii) any reference herein to any person shall be construed to include such person’s successors and  assigns, 
+(iii) the words "herein," "hereof" and "hereunder," and words of similar import, shall be construed to refer to 
+this Agreement in its entirety and not to any particular provision hereof, (iv) all references herein to Articles, 
+Sections and Exhibits shall be construed to refer to Articles and Sections of, and Exhibits to, this Agreement, 
+and (v) any reference to any law or regulation herein shall, unless otherwise specified, refer  to such law or 
+regulation  as  amended,  modified  or  supplemented  from  time  to  time  (except  to  the  extent  otherwise 
+provided herein). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(h) 
+
+References to "days" shall mean calendar days, unless the term "Business Days" 
+shall be used. References to a time of day shall mean such time in New York, New York, unless otherwise 
+specified. 
+
+(i) 
+
+This Agreement is the result of negotiations between, and has been reviewed by 
+Borrower, Lender and their respective counsel. Accordingly, this Agreement shall be deemed to be the 
+product of the parties thereto, and no ambiguity shall be construed in favor of or against Borrower or Lender. 
+
+ARTICLE II - THE FINANCING 
+
+2.1 
+
+Assessment and Lien. The terms of the special assessment and the special assessment lien 
+shall be set forth in the Certificate of Levy and Lien of Special Assessment (the "Lien"), substantially in 
+the form attached hereto as Exhibit [ ], which shall have a payment schedule attached thereto.  After the 
+execution of this Agreement, Lender, acting on behalf of the County pursuant to the Ordinance, will Record 
+the Lien against the Property. Promptly thereafter, Lender, acting on behalf of the County pursuant to the 
+Ordinance, shall assign solely the County's right, title and interest in and to the Lien to Lender by Recording 
+an Assignment of Special Assessment Lien, substantially in the form attached hereto as Exhibit [  ].  Such 
+assignment shall include only the County's right, title and interest in and to the Assessment Payments and 
+the Lien, and the County shall retain all of its other rights and remedies, including any special powers of 
+enforcement or collection to which the County, by  virtue of its status as a political subdivision of the 
+Commonwealth, is entitled or empowered to exercise under applicable laws of the Commonwealth. Upon 
+such assignment, Lender shall be responsible, subject to and in accordance with the terms of this Agreement, 
+for  all  billing,  collection,  enforcement  and  administrative  duties  in  respect  of  each  of  the  Loan,  the 
+Assessment  Payments  and  the  Lien.  BORROWER  HEREBY  ACKNOWLEDGES  AND  AGREES 
+THAT IT SHALL MAKE ALL PAYMENTS DUE IN RESPECT OF EACH OF THE LOAN, THE 
+ASSESSMENT PAYMENTS AND THE LIEN TO LENDER, AND NOT TO THE COUNTY OR 
+ADMINSTRATOR. The Lien may, in Lender’s sole discretion, but subject to the terms of this Agreement, 
+be amended after Lender disburses the Loan. To effect such amendment, Lender, acting on behalf of the 
+County pursuant to the Ordinance, will Record a Confirmation and Amendment of Special Assessment 
+Lien, substantially in the form attached hereto as Exhibit [    ],  which  shall  include  the  final  repayment  
+schedule.   Lender shall be responsible for (i) 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+preparing  all  documentation  in  respect  of  the  Loan,  this  Agreement,  the  Lien,  and  any  assignment  or 
+amendment of any of the foregoing documentation, (ii) presenting such documentation to the County prior 
+to the Recording of any Lien or any assignment or amendment thereof, and (iii) reimbursing the County for 
+any reasonable out-of-pocket expenses incurred by the County in connection with the review, preparation 
+or Recording of such documentation. Lender shall make such reimbursement within ten (10) days upon 
+written demand from the County. [Lender may, if and as provided for in this Agreement, recover from 
+Borrower the amount of any such reimbursements actually paid to the County, as well as any other costs 
+and expenses incurred by Lender in respect of the transactions contemplated herein.]2 
+
+2.2 
+
+] AND [    ]/100 DOLLARS  ($[  
+
+Loan  Terms  and  Assessment  Payments.  Borrower  shall  repay  the  Loan  by  making 
+Assessment Payments, as described in the Lien, as may be amended to the extent permitted under the 
+Ordinance and the terms hereof, and set forth in Exhibit [  ].  The Loan shall be in the aggregate amount of 
+[  
+   ]), inclusive of principal, interest    and  any 
+financed fees, costs or expenses provided for herein (including, without limitation, Program Fees). Such 
+financed fees, costs and expenses shall be disbursed to Lender on the closing date of the Loan, and Lender 
+shall remit any Program Fees so collected to Administrator, without requiring notice or demand, within ten 
+(10) days of such closing date. Any interest, fees, costs or expenses provided for herein that are not financed 
+as part of the Loan, including, without   limitation, [  
+     ],3 shall be billed  and collected    separately 
+by Lender, and shall not be collected through Assessment Payments. The initial principal portion of the 
+Loan shall be in the amount  of [  
+]). 
+From and after the Commencement Date, interest on the outstanding balance of the principal portion of the 
+Loan shall accrue at a per annum rate    of [  
+ ] percent ([    ]%), [computed on the basis    of 
+].4       Assessment Payments are  due  and  payable  in  equal  installments  over  a     term  of [ 
+  
+ 
+ ] ([    ]) years, at such times and in such amounts as set forth in Exhibit [    ].  In the event of 
+any conflict between the payment schedule attached to the Lien, as may be amended to the extent permitted 
+under the Ordinance and the terms hereof, and the payment schedule set forth in Exhibit [  ],  the payment 
+schedule attached to the Lien shall control. 
+
+] AND [    ]/100 DOLLARS ($[  
+
+2.3 
+
+Prepayment [and Penalties]. 
+
+[INSERT prepayment provision to be negotiated between Borrower and Lender]. 
+
+2.4  Interest Accrued on Delinquent Payments. Delinquent Assessment Payments shall incur  a 
+late payment penalty   of [  
+] percent ([    ]%)  of such amount, and interest shall     accrue  on 
+delinquent  balances  (including  principal,  interest  and  fees),  until  paid  in  full,  at  the  lesser  of         [ 
+ 
+]  percent  ([    ]%)  per  annum or  the  maximum  per  annum rate  permitted  by  law.    Any 
+fractional part of a month in which any portion of any payment remains unpaid is considered equivalent to 
+a whole month. Further, any partial installment payment will first be applied to the total accrued interest 
+before being applied to outstanding principal. 
+
+ARTICLE III - BORROWER'S REPRESENTATIONS AND WARRANTIES 
+
+Borrower represents and warrants to Lender as follows, which representations and warranties 
+
+shall be true and correct as of the date hereof and at all times thereafter until the outstanding principal 
+
+2 Add provisions to this Agreement as necessary to effect the recovery of Lender's costs and expenses from Borrower. 
+3 Insert cross references that apply. For instance, as an example, one might cross-reference Section 2.4 herein for interest on 
+delinquent payments. 
+4 Insert desired interest calculation method. 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+balance of the Loan, all interest accrued thereon and all fees have been paid in full, or such obligations 
+have been transferred or assigned as permitted under this Agreement: 
+
+3.1 
+
+Organization and Authority.  Borrower is a [  
+
+], duly [incorporated/organized], 
+validly existing and in good standing under the laws of the [Commonwealth/State]  of [  
+] and 
+all other jurisdictions where legally required in order to carry on its business. Borrower has all necessary 
+power and authority to own its properties, conduct its business and enter into the transactions contemplated 
+hereby. Borrower has the right to enter into and perform this Agreement, and the execution, delivery and 
+performance of this Agreement and all other documents executed in connection herewith have been duly 
+authorized and constitute valid and binding obligations of Borrower, each enforceable in accordance with 
+its respective terms, and such execution, delivery and performance do not and will not contravene any other 
+instrument or agreement binding on Borrower. Borrower has had for the previous [  
+])  years (except as previously disclosed to  Lender in writing) the     legal name  and  form of business 
+organization in the  state described above. Borrower’s chief executive office and     notice address, taxpayer 
+identification number and any organizational identification number is as described with its execution of this 
+Agreement  below.  Borrower  shall  notify  Lender  in  writing  at  least  thirty  (30)  days  before  changing 
+Borrower’s legal name, state of organization, chief executive office location or organizational identification 
+number. 
+
+] 
+
+([    
+
+3.2 
+
+Financial  Statements  and  Other  Data.  Borrower shall  (i)  maintain  books  and  records  in 
+accordance  with  generally  accepted  accounting  principles  consistently  applied  ("GAAP")  and  prudent 
+] ([    ]) days  after the  close  of each 
+business  practice,  (ii) promptly provide  Lender,  within  [  
+fiscal year of Borrower, and, upon Lender's request,    within [  
+ 
+] ([    ]) days of the end   of each 
+quarter of Borrower’s fiscal year, a copy of financial statements for Borrower, prepared in accordance with 
+GAAP and (A) in the case of annual statements, audited by independent certified public accountants or (B) in 
+the case of quarterly statements, certified by the chief financial officer of Borrower; provided, however, that 
+for so long as Borrower is legally and timely filing annual and quarterly financial reports on Forms 10- K and 
+10-Q with the Securities and Exchange Commission that are readily available to the public, the filing of such 
+reports shall satisfy the foregoing financial statement reporting requirements for such entity and (iii) furnish 
+to Lender all other financial information and reports and such other information as Lender may reasonably 
+request concerning Borrower and its affairs, the Property or the Project.  Borrower represents and warrants 
+that all information and financial statements at any time furnished by or on behalf of Borrower are accurate 
+and reasonably reflect as of their respective dates, results of operations and the financial condition of Borrower 
+or other entity they purport to cover. Credit and other information regarding Borrower or its affiliates, the 
+Property  or  the  Project  may  be  disclosed  by  Lender  to  its  affiliates,  agents  and  potential  assignees, 
+notwithstanding anything contained in any agreement that may purport to limit  or prohibit such disclosure. 
+
+3.3 
+
+No Litigation. There are no actions, suits or proceedings pending, or to the knowledge of 
+Borrower threatened, against or affecting it that could materially adversely affect Borrower, any of its 
+properties, its financial condition or the construction of the Project. 
+
+3.4 
+
+Clear Title. Borrower's title to the Property is not in dispute, and is free of encumbrances 
+
+other than those subordinated permitted encumbrances set forth in Exhibit [    ]. 
+
+3.5 
+
+Compliance with Law. Borrower has complied with, and will continue to comply with, all 
+applicable  laws,  statutes,  rules,  regulations  and  ordinances  binding,  in  any  jurisdiction,  on  Borrower, 
+including, without limitation, all anti-money laundering laws and regulations. All Permits either (i) have 
+been obtained, are final (i.e. not subject to any appeal periods and not subject to any pending appeals), are 
+valid, are in full force and effect and have been complied with by Borrower in all respects or (ii) will be 
+obtained, will be final (i.e. not subject to any appeal periods and not subject to any pending appeals), will 
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+be valid, will be in full force and effect and Borrower will be in compliance therewith in all respects prior 
+to Lender’s disbursing the Loan. Construction of the Project has complied and will comply with applicable 
+zoning,  use,  building  or  other  applicable  codes,  laws,  regulations  and  ordinances  and  any  restrictive 
+covenant affecting the Property. 
+
+3.6 
+
+Environmental Matters. 
+
+(a) 
+
+(b) 
+
+The term "Polluting Substance" shall mean any hazardous, ignitable, corrosive, 
+caustic,  reactive,  toxic,  or  polluting  waste  or  substance  including,  without 
+limitation, any of the following: "hazardous waste" (as defined in the regulations 
+adopted under RCRA, defined below), oil or petroleum products, chemical liquids 
+or  solid,  liquid  or  gaseous  products,  asbestos,  polychlorinated  biphenyls, 
+formaldehyde  compounds,  explosives,  radioactive  materials  or  any  other 
+potentially harmful waste or substance regulated by Environmental Law. The term 
+"Environmental Law" shall mean any federal, state or local statute, regulation, 
+ordinance or decisional law pertaining to protection of the environment or to any 
+Polluting Substance, including (without limiting the generality of the foregoing) 
+the Comprehensive Environmental Response, Compensation, and Liability Act of 
+1980 ("CERCLA") and the Resource Conservation and Recovery Act of 1976 
+("RCRA"), as any of them may be amended from time to time, with the regulations 
+promulgated thereunder.  As used herein, "release," "spill" and any similar terms 
+shall have the respective meanings set forth in each applicable Environmental Law, 
+and  in  the  case  of  a  conflict  or  ambiguity,  the  broadest  interpretation  of  such 
+meanings shall apply.   In the event any Environmental Law is amended to broaden 
+the  meaning  of  any  term  defined  thereby,  such  broader  meaning  shall  apply 
+subsequent to the effective date of such amendment. 
+
+Borrower has taken all reasonable and necessary steps to investigate the past and 
+present condition and usage of the Property and the operations conducted thereon 
+and based upon such diligent investigation, Borrower represents and warrants that 
+Borrower and those persons having a legal or beneficial interest in Borrower: 
+
+(i) have  not  been  involved  in  operations  at  the  Property  involving  any  Polluting 
+Substances  in  violation  of  any  Environmental  Laws,  (ii)  have  not  caused  any 
+release of a Polluting Substance at or affecting the Property, or any contiguous land 
+included in the property description of the Property, (iii) know of no Polluting 
+Substance located on or affecting (in a manner in violation of Environmental Laws) 
+(A) the Property, (B) any contiguous land included in the property description of 
+the Property or (C) any other properties adjacent to the Property, (iv) have not 
+permitted  any  tenant  or  occupant  of  the    Property    to  engage  in  any  activity 
+involving any Polluting Substance in violation of Environmental Laws, (v) have 
+not received any notice, order, claim, or demand from any governmental authority 
+under any Environmental Law and (vi) have disclosed to Lender all information it 
+has regarding whether there are any Polluting Substances located on or affecting 
+the Property. 
+
+(c) 
+
+Borrower  further  represents  and  warrants  to  Lender  that,  to  the  best  of  its 
+knowledge:  (i)  the  Property  is  not  in  violation  of  or  subject  to  any  existing, 
+pending, or threatened investigation or inquiry by any governmental authority or 
+any response costs or remedial obligations under any Environmental Law and this 
+representation and warranty would continue to be true and correct   following 
+
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+disclosure  to  the  applicable  governmental  authorities  of  all  relevant  facts, 
+conditions, and circumstances, if any, pertaining to the Property and (ii) Borrower 
+has  not  obtained  and  is  not  required  to  obtain  any  permits,  licenses  or  similar 
+authorizations to construct, occupy, operate or use any buildings, improvements, 
+fixtures,  and  equipment  forming  a  part  of  the  Property  by  reason  of  any 
+Environmental Law. 
+
+3.7 
+
+Compliance  with  Documents.  No  Event  of  Default  (as  defined  herein  or  therein)  has 
+occurred hereunder or under any Transaction Document, and no event has or shall have occurred and be 
+continuing that, with the lapse of time or the giving of notice, or both, would constitute such an Event of 
+Default. 
+
+3.8 
+
+No Misrepresentation or Material Nondisclosure. Borrower has not made and will not make 
+to Lender, in this Agreement or otherwise, any untrue statement of a material fact, nor has it omitted to state 
+a material fact necessary to make any statement made not misleading. Borrower has provided true and 
+correct copies to Administrator of such items, documents, applications, disclosures or other information as 
+Administrator has required. 
+
+3.9 
+
+Insurance. Borrower has provided to Lender satisfactory evidence of the current insurance 
+policies  that  are  required  under  this  Agreement  and,  at  all  times  while  any  indebtedness  under  the 
+Transaction Documents is outstanding, Borrower shall promptly provide Lender with evidence satisfactory 
+to  Lender  of  any  renewal  of  any  such  required  policies.  Such  policies  must  (i)  be  issued  by  insurance 
+companies admitted in the Commonwealth, (ii) be issued by insurance companies with an A.M. Best rating 
+of A- or better, (iii) be in a form and contain content reasonably acceptable to Lender, (iv)  shall specify 
+Lender and Borrower as insureds and provide that such policies may not be canceled or altered in any way 
+that would affect the interest of Lender without at least thirty (30) days’ prior written notice to Lender (ten 
+(10) days’ in the case of nonpayment of premium), (v) provide that all amounts payable by reason of loss 
+or damage to the Property shall be payable solely to Lender, unless Lender otherwise agrees, (vi) shall be 
+primary, without right of contribution from any other insurance carried by Lender, (vii) contain waiver of 
+subrogation and "breach of warranty" provisions satisfactory to Lender and (viii) shall contain such other 
+endorsements as Lender may reasonably require. Should Borrower fail to maintain required insurance, 
+Lender may, but shall not be obligated to, obtain such required insurance in amounts and limits sufficient 
+to protect Lender’s interest, and charge back the cost to Borrower. Required insurance includes: 
+
+[INSERT specific insurance requirements to be negotiated between Borrower and Lender]. 
+
+3.10 
+
+Energy Audit. An energy audit or renewable energy system feasibility analysis has been 
+performed on the Property that assesses the expected energy cost savings of the energy improvements over 
+the useful life of such improvements. 
+
+3.11 
+
+Proper Purpose. The Project consists only of an "Eligible Improvement" to an "Eligible 
+Building" situated on "Eligible Property," all within the meaning of the Ordinance, and is consistent with 
+the requirements of the Act, the Ordinance and the Program Guide. 
+
+3.12  Required Disclosure. Borrower has received from [Administrator / Lender] information 
+and disclosure on the costs and risks associated with participating in the Program, including risks related to 
+the  failure  of  Borrower  to  pay  the  Assessment  Payments  and  remedies  related  thereto.  Borrower 
+acknowledges that [Administrator / Lender] has disclosed to Borrower the Program Fees and the effective 
+interest rate on the Loan. 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+3.13 
+
+Incorporation  of  Representations  and  Warranties.  The  request  by  Borrower  for 
+disbursement of the Loan shall constitute a certification by Borrower that the representations and warranties 
+contained herein are true and correct as of the date of such request. 
+
+3.14  Utilities. All utility services, including gas, water, sewage, electrical and telephone, that 
+are necessary to develop the Project and occupy the Property are available or Borrower has taken all steps 
+necessary to assure that all utility services will be available upon completion of the Project. 
+
+3.15  Other Obligations. Borrower is not in default on any obligation for borrowed money, any 
+purchase money obligation or any other material lease, commitment, contract, instrument or obligation, 
+except as have been disclosed in writing to Lender. 
+
+3.16 
+
+Tax Matters. Borrower has no knowledge of any pending assessments or adjustments of its 
+income tax for any year and all taxes due have been paid, except as have been disclosed in writing to Lender. 
+
+3.17  Unconditional Obligation. Borrower acknowledges that Borrower’s obligation to repay the 
+
+Loan is non-cancelable, absolute and unconditional in all circumstances. 
+
+3.18 
+
+Special  Requirements  of  the  Act.  Borrower  represents  that  (i)  Borrower  is  current  on 
+payments  on  all loans  or debts secured by  a  Mortgage  on  the  Property  and  is current on  property  tax 
+payments  to  the  County,  (ii)  Borrower  is  not  insolvent  or  subject  to  bankruptcy  proceedings  and  (iii) 
+Borrower's title to the Property is not in dispute. 
+
+ARTICLE IV - DISBURSEMENT OF LOAN 
+
+4.1 
+
+Conditions Precedent to Lender’s Performance. 
+
+(a)  After the execution of this Agreement and upon receipt of evidence satisfactory to Lender that (i) 
+the Lien has been validly Recorded and (ii) the County has validly assigned the Lien to Lender, as 
+a  prerequisite  to  the  performance  by  Lender  of  any  of  its  obligations  under  this  Agreement, 
+Borrower shall deliver to Lender the following: 
+
+(i) 
+
+A  Secretary’s  Certificate  executed  by  the  Secretary  of  Borrower,  in  form  and 
+
+substance satisfactory to Lender; 
+
+(ii) 
+to Lender; 
+
+An opinion from Borrower’s counsel to Lender, in form and substance satisfactory 
+
+(iii) 
+
+Evidence of insurance as required by Section 3.9; 
+
+(iv) 
+
+All  documents,  including  financing  statements,  affidavits,  notices  and  similar 
+instruments,  in  form  and  substance  satisfactory  to  Lender,  which  Lender  deems  necessary  or 
+appropriate at that time; 
+
+(v) 
+
+A written subordination agreement duly executed by each Holder of an existing 
+Mortgage on the Property, in a form and substance acceptable to each in each's sole discretion (each 
+such subordination agreement, a "Consent"); 
+
+(vi) 
+
+Evidence, in each case in a form and substance satisfactory to Lender, that: (A) 
+Borrower is current on payments on all loans or debts secured by a Mortgage on the Property  and 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+is current on property tax payments to the County, (ii) Borrower is not insolvent or subject to 
+bankruptcy proceedings and (iii) Borrower's title to the Property is not in dispute; 
+
+(vii) 
+
+Evidence satisfactory to Lender that Borrower has obtained and complied with all 
+required Permits, each of which is final (i.e. not subject to any appeal periods and not subject to 
+any pending appeals), valid and in full force and effect; 
+
+(viii)  Evidence satisfactory to Lender that no order or notice shall have been given by 
+any  governmental  agency  stopping  construction  or  stating  that  the  work  or  construction  is  in 
+violation of any law, ordinance, code or regulation, unless such order or notice has been rescinded 
+and a copy of such rescission has been delivered to and shall be satisfactory to Lender; and 
+
+(x) 
+
+Such other items reasonably required by Lender. 
+
+(b) 
+
+In addition, the performance by Lender of any of its obligations under this Agreement 
+shall be subject to no Event of Default having occurred and continuing. 
+
+ARTICLE V - COVENANTS 
+
+Borrower hereby covenants and agrees as follows: 
+
+5.1 
+
+The  Act,  the  Ordinance  and  the  Program  Guide.  A  copy  of  each  of  the  Act  and  the 
+Ordinance is attached to this Agreement as Exhibit [ ], and the Program Guide is available on the  Program 
+website. Borrower has read each and will comply in all respects with the provisions of each, including, 
+without limitation, the following: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Borrower covenants that it will not contest the amount or the validity of the Loan, 
+the Assessment Payments, the Lien or the Program Fees; 
+
+Borrower will provide written  notice, not  less than  [  
+]  ([    ])  days 
+prior to the recording of the Lien, to each existing Holder of a Mortgage on the 
+Property, of Borrower's intent to finance the Project pursuant to the Act and the 
+Ordinance; and 
+
+Borrower will deliver to Lender, not less than [  
+] ([    ]) days  prior to 
+the recording of the Lien, a Consent from each existing Holder of a Mortgage on 
+the Property. 
+
+5.2 
+
+General.  Borrower will: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Use  the  Loan  proceeds  solely  to  pay  or  reimburse  the  costs  of  acquiring  the 
+components  of,  installing  (including  the  performance  of  renovations)  and 
+constructing the Project; 
+
+Promptly pay when due the Assessment Payments and all other fees and charges 
+due under the Transaction Documents; 
+
+At all times while any indebtedness under the Transaction Documents remains 
+outstanding, (i) preserve and keep in full force and effect the existence of each 
+Transaction Document  and (ii)  retain clear  title to the  Property;  provided, that 
+
+10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+Borrower may transfer title to the Property strictly in accordance with Section 
+5.2(d) hereof; 
+
+Borrower shall not sell, assign, pledge, transfer or otherwise alienate, all or any 
+portion of the Property or the Project unless (i) Borrower has promptly notified 
+Lender, in writing, of any such sale, assignment, pledge, transfer or other alienation 
+and  (ii)  the  transferee  agrees  in  writing  to  assume  and  fully  perform  all  of 
+Borrower’s obligations under the Transaction Documents; 
+
+Pay when due all taxes, assessments, water charges, sewer charges and all other 
+charges  levied  on  or  against  the  Property,  and  upon written request,  submit  to 
+Lender official receipts evidencing such payments; 
+
+Obtain and maintain in force the insurance reasonably required by Lender, and 
+described  in  Section  3.9  hereof,  at  all  times  while  any  indebtedness  under  the 
+Transaction Documents remains outstanding, and promptly provide Lender with 
+evidence satisfactory to Lender of any renewal of any such required policies; 
+
+Notify  Lender  in  writing  at  least  [  
+]  ([    ])  days  before  changing 
+Borrower’s legal name, state of organization, chief executive office location or 
+organizational identification number; 
+
+Maintain its good standing in its state of organization and all other jurisdictions 
+where legally required in order to carry on its business, and conduct its  businesses 
+and manage its properties (and cause each of its affiliates to conduct its businesses 
+and  manage  its  properties)  in  compliance  with  all  applicable  laws,  rules  or 
+regulations binding, in any jurisdiction, on Borrower and its affiliates including, 
+without limitation, all anti-money laundering laws and regulations;  and 
+
+Not consent to any restriction, agreement or order for any environmental land use 
+restriction without the prior written consent of Lender, which may be granted or 
+withheld in Lender’s sole and unfettered discretion. 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+(i) 
+
+5.3 
+
+Protection against Liens. Borrower shall promptly pay and discharge all claims for labor 
+performed and material and services furnished in connection with construction of the Project, and take all 
+other steps necessary to prevent the assertion of claims or liens either against the Property or the Project, 
+other than the claims and lien provided herein. 
+
+5.4 
+
+Notice  of  Claims.  Borrower  shall  promptly  notify  Lender  in  writing  of  all  pending  or 
+threatened litigation that may materially adversely affect the Property, the Project or Borrower’s ability to 
+meet its obligations under the Transaction Documents. 
+
+5.5 
+
+Damage or Destruction. Borrower shall promptly notify Lender if the Project or Property 
+is damaged or destroyed from any cause whatsoever. Upon the occurrence of such casualty, Lender will 
+determine, in its sole and absolute discretion, either to apply the insurance proceeds to the restoration of the 
+Project, or to repayment of the outstanding balance of the Loan, including principal, accrued interest and 
+fees.  In the event restoration of the Project is permitted, Borrower shall immediately proceed with the 
+restoration thereof. If, in Lender’s judgment, said proceeds are insufficient to complete the restoration, 
+Borrower shall deposit with Lender such amounts as are necessary, in Lender's judgment, to complete the 
+restoration.  If Lender, in its sole and absolute discretion, does not permit the restoration   of 
+
+11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+the  Project,  then  all  insurance  proceeds  received  on  account  of  such  casualty  (less  any  fees,  costs  or 
+expenses incurred by Lender in collecting the same) shall be forthwith paid to Lender and Lender may 
+apply the net amount so received, in such manner as Lender may determine, toward the reduction of the 
+outstanding balance of the Loan, including principal, whether then matured or to mature in the future, 
+accrued interest and fees. 
+
+5.6 
+
+Condemnation. Borrower shall promptly notify Lender if the Project or Property is taken 
+by  condemnation  or  subject  to  an  imminent  threat  of  condemnation.  Subsequent  to  a  taking  by 
+condemnation or imminent threat thereof, all condemnation awards received on account of such taking (less 
+any fees, costs or expenses incurred by Lender in collecting the same) shall be forthwith paid to Lender and 
+Lender will determine, in its sole and absolute discretion, either to apply the condemnation proceeds to the 
+restoration  of  the  Project,  or  toward  the  reduction  of  the  outstanding  balance  of  the  Loan,  including 
+principal, whether then matured or to mature in the future, accrued interest and fees. If Lender so decides 
+that the Project can be so restored, then the rights and obligations of Lender and Borrower subsequent to a 
+taking by condemnation or imminent threat thereof and the disbursement of any condemnation proceeds 
+actually paid to Lender, shall be the same as described in Section 5.5 with regard to insurance proceeds. If 
+Lender, in its sole and absolute discretion, determines that the Project cannot be restored as aforesaid, then 
+all condemnation awards received on account of such taking (less any fees, costs or expenses incurred by 
+Lender in collecting the same) shall be forthwith paid to Lender and Lender may apply the net amount so 
+received, in such manner as Lender may determine, in its sole and absolute discretion, toward the reduction 
+of the outstanding balance of the Loan, including principal, whether then matured or to mature in the future, 
+accrued interest and fees. 
+
+5.7 
+
+Environmental Protection and Remediation. 
+
+(a) 
+
+Borrower covenants and agrees that: (i) Borrower will not release any Polluting 
+Substance in, on, over or under the Property or on any properties adjacent to the 
+Property, (ii) Borrower will not become involved, and will not permit any tenant 
+or  occupant  of  the  Property  to  become  involved,  in  operations  at  the  Property 
+involving unlawful use of Polluting Substances, (iii) Borrower, at its sole cost and 
+expense,  will  comply  strictly  and  in  all  respects  with  the  requirements  of  all 
+Environmental Laws, (iv) Borrower will notify Lender promptly in the event of 
+the presence or release of any Polluting Substance at or affecting the Property  and 
+give  to  Lender  a  copy  of  any  warning  letters  or  notice  of  violations  of  any 
+Environmental Law received by Borrower, (v) in the event any Polluting Substance 
+is found at the Property in violation of any Environmental Law, Borrower will 
+immediately contain and remove the same in compliance with all Environmental 
+Laws  and  pay  immediately  when  due  the  cost  of  removal  of  such  Polluting 
+Substance, (vi) Borrower will keep the Property free and clear of any lien imposed 
+pursuant to any Environmental Law and (vii) Borrower will include in all future 
+leases  of  any  portion  of  the  Property  provisions  requiring  compliance  with  all 
+Environmental Laws and reporting of information regarding such compliance to 
+Borrower and Lender. 
+
+(b) 
+
+Borrower agrees to permit Lender, at its election and in its reasonable discretion 
+but with notice to Borrower, at any time and from time to time, if Lender has reason 
+to  suspect  the  presence  of  a  Polluting  Substance,  to  cause  one  or  more 
+environmental  site  assessments  of 
+to  be  undertaken.  An 
+environmental  site  assessment  may  include  a  detailed  visual  inspection  of  the 
+Property, including, without limitation, all storage areas, storage tanks, drains, dry 
+wells, and leaching areas, as well as the taking of samples of soil, surface 
+
+the  Property 
+
+12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+water, and ground water and such other investigation or analysis as is necessary or 
+appropriate for a complete assessment of the compliance of the Property and the 
+use and operation thereof with all Environmental Laws. 
+
+5.8 
+
+Indemnification. Without limitation of any other obligation or liability of Borrower or  any 
+right  or  remedy  of  Lender  contained  herein,  Borrower  agrees to  indemnify,  defend  and  hold  harmless 
+Lender, as well as its respective directors, officers, employees, agents, subsidiaries and affiliates (each an 
+"Indemnified Person"), from and against all damages, losses, settlement payments, obligations, liabilities, 
+claims, suits, penalties, assessments, citations, directives, demands, judgments, actions  or causes of action, 
+whether statutorily created or under the common law, including all costs and expenses (including, without 
+limitation, fees and disbursements of attorneys, engineers and consultants), fines, charges, fees, response 
+costs (including cleanup, removal or mitigation), diminutions in value and all  other liabilities whatsoever 
+(including, without limitation, liabilities under any applicable Environmental Laws, regulations or rules) 
+which  shall  at  any  time  or  times  be  incurred,  suffered,  sustained  or  required  to  be  paid  by  any  such 
+Indemnified  Person  (except  any  of  the  foregoing  which  result  from  the  gross  negligence  or  willful 
+misconduct of the Indemnified Person) on account of or in relation to or in any way connected with (i) any 
+of  the  arrangements  or  transactions  contemplated  by,  associated  with  or  ancillary    to  the  Transaction 
+Documents or any other documents executed or delivered in connection herewith or therewith, including, 
+without  limitation,  each  Construction  Contract,  all  as  the  same  may  be  amended  from  time  to  time, 
+regardless  of  whether  any  of  the  foregoing  or  the  transactions  contemplated  thereby  are  ultimately 
+consummated, (ii) resulting from any conduct, act or failure to act by Borrower or its affiliates or related 
+parties, (iii) any presence, or any release, of any Polluting Substance at or affecting the  Property, (iv) any 
+application, or any claim of application, of any Environmental Law to the Property or the operation thereof, 
+including any requirement for clean-up of any Polluting Substance or the assertion of any lien because of 
+any release; (v) any failure by Borrower to comply with the terms of any order of the Virginia Department 
+of Environmental Quality, Virginia Department of Mines, Minerals and Energy or any other federal, state, 
+or municipal governmental authority under any Environmental Law, (vi) any losses as a result of a lien in 
+favor of any person or entity having priority over the Lien or (vii) any taxes required to be paid by Lender 
+in  respect  of  the  Assessment  Payments,  the  Lien  or  the  assignment  or  amendment  thereof.  In  any 
+investigation, proceeding or litigation, or the preparation therefor (whether or not Lender is a party thereto), 
+Lender shall select its own counsel and, in addition to the foregoing indemnity, Borrower agrees to pay 
+promptly the fees and expenses of such counsel. In the event of the commencement of any such proceeding 
+or litigation, Borrower shall be entitled to participate in such proceeding or litigation with counsel of its 
+choice at its own expense, provided that such counsel shall be reasonably satisfactory to Lender. This 
+Section shall survive the execution, delivery, performance and repayment of the Transaction Documents, 
+the Assessment Payments and the Loan, and the extinguishment of the Lien. 
+
+5.9 
+
+Further Assurances. Upon request of Lender, Borrower will take any actions and execute 
+any further documents as Lender deems reasonably necessary or appropriate to carry out the purposes of 
+this  Agreement.  Without  limiting  the  generality  of  the  foregoing,  at  any  time  and  from  time  to  time, 
+including upon the request of Lender, Borrower will, at Borrower’s expense, execute and deliver and file 
+such further documents, amendments and instruments and do such other acts as are in each case necessary 
+or required by applicable law (as determined by Lender) in order to create, perfect, maintain and preserve 
+the Lien in favor of Lender and, upon the occurrence and during the continuation of an Event of Default, to 
+facilitate any sale of or other realization upon the Property, to make any sale of or other realization upon 
+the Property valid, binding and in compliance with applicable law, and to provide for the payment  of the 
+obligations in accordance with the terms hereof. Borrower shall pay all filing, registration and recording 
+fees  or  re-filing,  re  registration  and  rerecording  fees,  and  all  expenses  incident  to  the  execution  and 
+acknowledgment of this Agreement, and any instruments of further assurance, and all federal, state, county 
+and municipal stamp taxes and other taxes, duties, imports, assessments and charges arising out of 
+
+13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+or in connection with the execution and delivery of this Agreement, any agreement supplemental hereto 
+and any instruments of further assurance. 
+
+5.10  Assignment of Lien and Participation Interests. 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+Lender  shall  have  the  unrestricted  right  at  any  time  or  from  time  to  time,  and 
+without Borrower’s consent, to assign all or any portion of its rights and obligations 
+hereunder to one or more banks, lenders, institutional investors, or other financial 
+institutions (each, an "Assignee"), and Borrower agrees that it shall execute, or 
+cause to be executed, such documents, including without limitation, amendments 
+to  this  Agreement  and  to  any  other  documents,  instruments  and  agreements 
+executed  in  connection  herewith  as  Lender  shall  deem  necessary  to  effect  the 
+foregoing.  Upon 
+the  execution  and  delivery  of  appropriate  assignment 
+documentation, amendments and any  other documentation required by Lender in 
+connection with such assignment, and the payment by Assignee of the purchase 
+price agreed to by Lender and such Assignee, such Assignee shall be a party to this 
+Agreement and shall have all of the rights and obligations of Lender hereunder 
+(and under any and all other guaranties, documents, instruments and agreements 
+executed in connection herewith) to the extent that such rights and obligations have 
+been  assigned  by  Lender  pursuant  to  the  assignment  documentation  between 
+Lender  and  such  Assignee,  and  Lender  shall  be  released  from  its  obligations 
+hereunder and thereunder to a corresponding extent. 
+
+institutional 
+
+investors,  or  other  financial 
+
+Lender shall have the unrestricted right at any time and from time to time, and 
+without  the  consent  of  or  notice  of  Borrower,  to  grant  to  one  or  more  banks, 
+lenders, 
+institutions  (each,  a 
+"Participant") participating interests in Lender's obligation to lend hereunder. In 
+the event of any such grant by Lender of a participating interest to a Participant, 
+whether or not upon notice to Borrower, Lender shall remain responsible for the 
+performance  of  its  obligations  hereunder  and  Borrower  shall  continue  to  deal 
+solely and directly with Lender in connection with Lender's rights and obligations 
+hereunder. 
+
+In furtherance of the foregoing, Lender may furnish any information concerning 
+Borrower  in  its  possession  from  time  to  time  to  prospective  Assignees  and 
+Participants. 
+
+The  rights  conferred  upon  Lender  by  this  Agreement  shall  be  automatically 
+extended to and vested in any Assignee or Participant upon Borrower’s receipt of 
+notice of such assignment, participation or other transfer; provided, however, that 
+no such assignment, participation or other transfer shall increase or expand the 
+obligations of Borrower hereunder. 
+
+Notwithstanding  anything  in  this  Section  to  the  contrary,  each  Assignee  or 
+Participant (i) must meet the definition of "Lender" under the Ordinance, (ii) shall 
+be subject to the Program Guide and applicable law, including, without limitation, 
+the Act and the Ordinance and (iii) shall, prior to accepting any assignment or 
+participation interest described in this Section, agree in writing to comply with the 
+Program Guide, the Act and the Ordinance. 
+
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+5.11 
+
+Integrity of the Property as a Single Parcel. Borrower shall not, without the express prior 
+written consent of Lender, which consent Lender may grant or withhold in its sole and absolute discretion, 
+by act or omission impair the integrity of the Property as a single, separate, subdivided, separately taxed 
+and zoned lot separate and apart from all other property. 
+
+5.12 
+
+Partial Release. If Lender has provided its written consent to a subdivision or lot split 
+relating to the Property in accordance with Section 5.11, Lender agrees to release the Lien on one or more 
+of the lots or parcels comprising the Property provided that (i) no Event of Default has occurred or is 
+continuing, (ii) such lot or parcel that Borrower is requesting be released from the Lien (the "Release 
+Parcel")  has  been  lawfully  subdivided  from  the  remaining  property  of  Borrower  (including,  without 
+limitation, evidence satisfactory to Lender that such Release Parcel and the remaining parcel(s) of Borrower 
+are taxed and treated separately), (iii) the Release Parcel does not contain and is not serviced by the Project, 
+or any part thereof, (iv) Lender has determined, in its sole discretion, that the form of partial release of the 
+Lien for the Release Parcel is satisfactory in all respects to Lender and (v) Borrower pays  all of Lender’s 
+expenses incurred in connection with reviewing and documenting such partial release, which amounts must 
+be paid by Borrower whether or not the proposed partial release is approved or executed. The intent of this 
+Section is that Lender shall not consent to or provide any partial release if Lender shall determine in its sole 
+and absolute discretion that the prospect of repayment is impaired or threatened by reason of a requested 
+partial release by Borrower. 
+
+5.13  Covenant to Prepay. Borrower agrees that if (i) an Event of Unenforceability occurs, (ii) 
+Borrower fails to insure the Property or Project in accordance with the terms of this Agreement and the 
+Property or Project is damaged or destroyed from any cause whatsoever at a time of such failure, (iii) 
+Borrower sells, assigns, pledges, transfers or otherwise alienates all or any portion of the Property without 
+complying with Section 5.2(d) or (iv) Borrower creates or permits any encumbrance on any portion of the 
+Property, which encumbrance purports to have priority over the Lien, including, without limitation, any 
+restriction, agreement or order for any environmental land use restriction, Borrower shall immediately, upon 
+the written request of Lender, prepay directly to Lender all (but not less than all) of the outstanding amount 
+(principal  and  accrued  and  unpaid  interest,  fees,  costs  and  expenses)  owing  under  the  Transaction 
+Documents as of the date of prepayment, [plus a prepayment penalty  of [  
+] percent ([    ]%) of 
+the outstanding principal amount of the Loan that is being prepaid]. 
+
+5.14 
+
+PATRIOT Act Notice. Federal law requires all financial institutions to obtain, verify and 
+record information that identifies each entity that obtains a loan or other financial accommodation. The 
+first-time Borrower (and its successors and permitted assigns) requests a financial accommodation from 
+Lender, Lender may ask for the legal name, address, tax ID number and other identifying information of 
+Borrower (and its successors and permitted assigns). Borrower (and its successors and permitted assigns) 
+shall promptly provide copies of business licenses or other documents evidencing the existence and good 
+standing of Borrower (and its successors and permitted assigns). 
+
+5.15 
+
+ERISA. 
+
+(a) 
+
+Each Plan (other than a multiemployer plan) is in compliance in all material respects with 
+ERISA, the Code and other federal or state law, including all applicable minimum funding standards and 
+there have been no prohibited transactions with respect to any Plan (other than a multiemployer plan), which 
+has resulted or could reasonably be expected to result in a material adverse effect. 
+
+(b)  With respect to any Plan subject to Title IV of ERISA: 
+
+(i) 
+
+requires notice. 
+
+No reportable event has occurred under Section 4043(c) of ERISA which 
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+(ii) 
+
+No action by Borrower or any ERISA Affiliate to terminate or withdraw from any 
+Plan has been taken and no notice of intent to terminate a Plan has been filed under Section 4041 
+or 4042 of ERISA. 
+
+(c) 
+
+The following terms have the meanings indicated for purposes of this Section: 
+
+(i) 
+
+"Code" means the Internal Revenue Code of 1986, as amended. 
+
+(ii) 
+amended. 
+
+"ERISA"  means  the  Employee  Retirement  Income  Security  Act  of  1974,  as 
+
+(iii) 
+
+"ERISA Affiliate" means any trade or business (whether or not incorporated) under 
+
+common control with Borrower within the meaning of Section 414(b) or (c) of the Code. 
+
+(iv) 
+
+"Plan" means a plan within the meaning of Section 3(2) of ERISA maintained or 
+contributed to by Borrower or any ERISA Affiliate, including any multiemployer plan within the 
+meaning of Section 4001(a)(3) of ERISA. 
+
+5.16  Change in Law. Borrower will pay Lender, on demand, for Lender’s costs or losses arising 
+from  any  Change  in  Law  which  is  allocated  to  this  Agreement  or  any  credit  outstanding  under  this 
+Agreement. The allocation will be made as determined by Lender, using any reasonable method. The costs 
+include, without limitation, the following: 
+
+(a) 
+
+any reserve or deposit requirements (excluding any reserve requirement already 
+
+reflected in the calculation of the interest rate in this Agreement); and 
+
+(b) 
+
+any capital requirements relating to Lender’s assets and commitments for credit. 
+
+For  purposes  of  this  Section,  "Change  in  Law"  means  the  occurrence,  after  the  date  of  this 
+Agreement, of the adoption or taking effect of any new or changed law, rule, regulation or treaty, or the 
+issuance  of  any  request,  rule,  guideline  or  directive  (whether  or  not  having  the  force  of  law)  by  any 
+governmental authority; provided that (i) the Dodd-Frank Wall Street Reform and Consumer Protection 
+Act and all requests, rules, guidelines or directives issued in connection with that Act and (ii) all requests, 
+rules, guidelines or directives promulgated by the Bank for International Settlements, the Basel Committee 
+on Banking Supervision (or any successor authority) or the United States regulatory authorities, in each 
+case pursuant to Basel III, shall in each case be deemed to be a "Change in Law," regardless of the date 
+enacted, adopted or issued. 
+
+5.17 
+
+Taxes Imposed on Lender. Borrower shall pay to Lender, the amount of any and all sales 
+or use taxes or similar taxes, if any, that may be imposed by any federal, state or local government authority 
+on Lender arising from Lender’s performance under this Agreement, including, without limitation any taxes 
+on remittances made by the County to Lender, within thirty (30) days of receipt of a written request from 
+Lender for such payment. 
+
+5.18  Reimbursement of Costs of Lender. Borrower shall pay to Lender all other costs, fees and 
+charges  imposed  on  Lender  as  a  result  of  its  performance  under  this  Agreement,  including,  without 
+limitation, amounts paid by Lender to the County pursuant to this Agreement or the Ordinance, within thirty 
+(30) days of receipt of a written request from Lender for such payment. 
+
+16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+ARTICLE VI- DEFAULT AND REMEDIES 
+
+6.1 
+
+Events of Default. The occurrence of any of the following events shall constitute an 
+
+"Event of Default" hereunder: 
+
+(a) 
+
+(b) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+Failure to make any Assessment Payment; 
+
+Failure to make any other payment required under this Agreement, the Lien, or any 
+amendment thereof, or any other document executed in connection with the Loan 
+or any of the foregoing documents (collectively, the "Transaction Documents"), 
+when due or beyond any stated and applicable cure period; 
+
+Any  breach  by  Borrower  beyond  any  applicable  notice  or  cure  periods  of  any 
+covenant, condition or any other term of the Transaction Documents or an Event 
+of Default as defined in any of the Transaction Documents shall occur, including, 
+without  limitation,  a  failure  to  maintain  insurance  as  required  by  any  of  the 
+Transaction Documents; 
+
+Any written representation, warranty or disclosure made to Lender by Borrower 
+proves  to  be  materially  false  or  misleading,  or  omits  to state  any  material fact 
+necessary  in  order  to  make  the  representation,  warranty  or  disclosure  not 
+misleading, as of the date when made (or deemed to be made in accordance with 
+Article  3),  whether  or  not  such  representation  or  disclosure  appears  in  the 
+Transaction Documents; 
+
+A petition in bankruptcy or insolvency or similar law affecting creditors’ rights or 
+for a receiver or trustee for any of Borrower's assets is filed by or against Borrower 
+or  if  Borrower  makes  an  assignment  for  the  benefit  of  creditors  or  becomes 
+insolvent or unable to pay its debts as they mature; 
+
+There  occurs  any  event  which  in  Lender’s  judgment  materially  and  adversely 
+affects (i) the ability of Borrower to perform any of its obligations under any of the 
+Transaction Documents, (ii) the business or financial condition of Borrower or (iii) 
+the timely repayment of the Loan; 
+
+Any encumbrance on any portion of the Property is created, which encumbrance 
+purports  to  have  priority  over  the  Lien,  including,  without  limitation,  any 
+restriction, agreement or order for any environmental land use restriction; 
+
+The  loss  of  any  governmental  approval,  license  or  permit  necessary  for  the 
+construction  or  operation  of  the  Project  or  any  governmental  license  for  the 
+operation of the business operated or to be operated on the Property for a period 
+exceeding sixty (60) days; 
+
+The  existence  of  any  liens  for  taxes  past  due  with  respect  to  the  Property,  or 
+carrier's, warehousemen's, mechanics’, materialmen’s, repairmen's or other liens 
+which have not been dismissed, escrowed (subject to Lender sole approval) or 
+bonded for thirty (30) days after the filing or recording thereof; 
+
+(i) 
+
+Any Transaction Document shall, for any reason (excluding the actions of Lender), 
+cease to be in full  force  and effect  (other  than  pursuant  to the  terms 
+
+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+thereof) or cease to be valid and binding on any party thereto, or Borrower shall 
+so assert in writing; 
+
+(j) 
+
+(k) 
+
+(l) 
+
+Failure of Borrower to make a requested prepayment, in full, pursuant to Section 
+5.13 hereof; 
+
+Any default occurs under any other agreement between Borrower and Lender or 
+any affiliate thereof; or 
+
+Any default occurs under any agreement in connection with any indebtedness   of 
+(i) Borrower, (ii) Borrower's affiliates or (iii) any person or entity that Borrower 
+or its affiliate has guaranteed. 
+
+6.2 
+
+Remedies. Upon the occurrence of an Event of Default, Lender may in addition to any 
+other remedies which it may have, at its option and without prior demand or notice, take any or all of the 
+following actions in any order selected by Lender: 
+
+(a) 
+
+(b) 
+
+(d) 
+
+Immediately terminate any pending disbursement of the Loan (and Lender shall 
+have no further obligation to make such Loan); 
+
+Declare  immediately  due  and  payable  all  or  any  portion  of  (i)  the  unpaid 
+Assessment Payments (less any interest portion not yet accrued) and (ii) any other 
+accrued and unpaid fees, costs or expenses under the Transaction Documents; 
+
+Exercise   any   remedies   available   to   the   Lender   under    the   Transactions 
+Documents; 
+
+(f) 
+
+Exercise any other rights and remedies available to Lender or at law or in equity. 
+
+The enumeration of the rights and remedies of Lender set forth in this Agreement is not intended 
+to be exhaustive, and the exercise by Lender of any right or remedy shall not preclude the exercise of any 
+other rights or remedies, all of which shall be cumulative, and shall be in addition to any other right or 
+remedy given under the Transaction Documents or that may now or hereafter exist in law or in equity or by 
+suit or otherwise. No delay or failure to take action on the part of Lender in exercising any right, power or 
+privilege shall operate as a waiver thereof, nor shall any single or partial exercise of any such right, power 
+or privilege preclude other or further exercise thereof or the exercise of any other right, power or privilege 
+or be construed to be a waiver of any Event of Default. No course of dealing between Borrower and Lender 
+or their respective agents or employees shall be effective to change, modify or discharge any provision of 
+any Transaction Document or to constitute a waiver of any Event of Default. 
+
+6.3 
+
+Power of Attorney. Borrower irrevocably constitutes and appoints Lender and  any officer 
+or agent thereof, each with full power of substitution, as its true and lawful attorney-in-fact, in its name or 
+otherwise, and at Borrower’s expense, to take any or all of the following actions upon the occurrence and 
+during the continuation of an Event of Default, without notice to or the consent of Borrower: 
+
+(a) 
+
+take any or all of the actions described in Section 6.2, and exercise any other 
+right or power granted to Lender under any Transaction Document or by law; 
+
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+endorse or execute and deliver any check, draft, note, acceptance, or instrument, 
+document,  contract,  agreement,  receipt,  release,  bill  of  lading, 
+invoice, 
+endorsement, assignment, bill of sale, deed or instrument of conveyance or transfer 
+constituting or relating to any Transaction Document; 
+
+assert, institute, file, defend, settle, compromise or adjust any claim constituting or 
+relating to any Transaction Document; 
+
+perform  or  comply  with  any  contractual  obligation  that  constitutes  part  of  any 
+Transaction Document; and 
+
+do  any  and  all  things  necessary  and  proper  to  carry  out  the  purposes  of  this 
+Agreement. 
+
+Borrower recognizes and agrees that the power of attorney granted pursuant to this Section 6.3 is 
+coupled with an interest and is not revocable until the termination of this Agreement in accordance with its 
+terms, at which time the power of attorney shall automatically terminate. Borrower ratifies and confirms all 
+actions taken by Lender or its agents pursuant to this power of attorney in accordance herewith. 
+
+ARTICLE VII - MISCELLANEOUS 
+
+7.1 
+
+No Waiver. No waiver of any Event of Default or breach by Borrower hereunder shall be 
+implied from any failure by Lender to take action on account of such Event of Default or breach if the same 
+persists or is repeated, and no express waiver shall affect any Event of Default or breach other than the 
+Event of Default or breach specified in the waiver. Waivers of any covenant, term or condition contained 
+herein shall not be construed as a waiver of any subsequent breach of the same covenant, term or condition. 
+
+7.2 
+
+Successors  and  Assigns.  This  Agreement  is  binding  upon  and  made  for  the  benefit  of 
+Lender and Borrower, their successors and permitted assigns, and no other person or persons shall have any 
+right of action hereunder. 
+
+7.3 
+
+Notices.  All  demands,  notices,  requests,  consents,  waivers  and  other  communications 
+concerning this Agreement shall be in writing and shall be deemed to have been duly given when received, 
+personally delivered or three (3) business days after being deposited in the mail, first class postage prepaid, or 
+the business day after delivery to an express carrier, charges prepaid, addressed to each party at the address 
+provided below, or at such other address as may hereafter be furnished in writing by such party to the other. 
+
+If to Lender: 
+
+] 
+[  
+] 
+[  
+[  
+]  
+Attention: [    
+
+] 
+
+19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+If to Borrower: 
+
+[  
+] 
+[  
+] 
+[  
+]  
+Attention: [    
+
+] 
+
+Borrower further agrees to provide Lender with copies of any notices, requests, consents, waivers 
+or  other  communications  concerning  any  Transaction  Document  or  Construction  Contract,  sent  by 
+Borrower, to or received by Borrower from, any third party within seven (7) business days of sending or 
+receiving such notice, request, consent, waiver or other communication. 
+
+7.4 
+
+Amendments. No amendment, modification, termination or waiver of any provisions of 
+
+this Agreement shall be effective unless in writing and signed by each of Lender and Borrower. 
+
+7.5 
+
+Governing Law. This Agreement shall be governed by and construed in accordance with 
+
+the laws of the Commonwealth. 
+
+7.6  WAIVER OF JURY TRIAL. BORROWER HEREBY IRREVOCABLY WAIVES 
+ITS RIGHTS TO TRIAL BY JURY IN ANY ACTION ARISING OUT OF OR RELATING TO 
+THE SPECIAL ASSESSMENT, THE LIEN, THE LOAN OR ANY TRANSACTION DOCUMENT, 
+OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED 
+ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (i) CERTIFIES 
+THAT  NO  RESPRESENTATIVE,  AGENT  OR  ATTORNEY  OF  ANY  OTHER  PERSON  HAS 
+REPRESENTED,  EXPRESSLY  OR  OTHERWISE,  THAT  SUCH    OTHER  PERSON  WOULD 
+NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE  THE FOREGOING WAIVER, 
+(ii)  ACKNOWLEDGES  THAT  IT  AND  THE  OTHER  PARTIES  HERETO  HAVE  BEEN 
+INDUCED  TO  ENTHER  THIS  AGREEMENT  AND  THE  OTHER  DOCUMENTS 
+CONTEMPLATED HEREBY BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND 
+CERTIFICATIONS  IN  THIS  SECTION  AND  (iii)  CERTIFIES  THAT  THIS  WAIVER  IS 
+KNOWLINGLY, WILLINGLY AND VOLUNTARILY MADE. 
+
+7.7 
+
+Jurisdiction. Borrower agrees that the execution of each Transaction Document, and the 
+performance of its obligations thereunder, shall be deemed to have a Commonwealth of Virginia situs and 
+Borrower shall be subject to the personal jurisdiction of the state and federal courts of the Commonwealth 
+with  respect  to  any  action  Lender,  its  successors  or  assigns  may  commence  thereunder.  Accordingly, 
+Borrower hereby specifically and irrevocably consents to the jurisdiction of the state and federal courts of 
+the Commonwealth with respect to all matters concerning any Transaction Document, or the enforcement 
+thereof. To the extent that Borrower has or hereafter may acquire: (i) any immunity from jurisdiction of the 
+state  or  federal  courts  located  in  the  Commonwealth  or  from  any  legal  process  out  of  any  such  court 
+(whether through service or notice, attachment prior to judgment, attachment in aid of execution, execution 
+or otherwise) with respect to itself or its property or (ii) any objection to the laying of the venue or of an 
+inconvenient forum or any suit, action or proceeding brought in a state or federal court located in the 
+Commonwealth under process served in accordance with any Transaction Document,  Borrower hereby 
+irrevocably waives such immunity or objection in respect of any suit, action or proceeding arising out of or 
+relating to any Transaction Document. 
+
+7.8 
+
+Execution  in  Counterparts.  This  Agreement  may  be  simultaneously  executed  in  any 
+number of counterparts, each of such counterparts shall be an original; and all of such counterparts when 
+taken together shall constitute one agreement binding on all parties, notwithstanding that all parties are not 
+signatories to the same counterpart. 
+
+20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+7.9 
+
+Limitation of Interest and Other Charges. If, at any time, the rate of interest, together  with 
+all amounts which constitute interest and which are reserved, charged or taken by Lender as compensation 
+for fees, services or expenses incidental to the making, negotiating or collection of the  Loan evidenced 
+hereby, shall be deemed by any competent court of law, governmental agency or tribunal to exceed the 
+maximum rate of interest permitted to be charged by Lender to Borrower under applicable law, then, during 
+such time as such rate of interest would be deemed excessive, that portion of each sum paid attributable to 
+that portion of such interest rate that exceeds the maximum rate of interest so permitted shall be deemed a 
+voluntary prepayment of principal. For purposes of this Section, the term "applicable law" shall mean the 
+law in effect as of the date hereof; provided, however, that in the event there is a change in the law which 
+results in a higher permissible rate of interest, then this Agreement shall be governed by such new law as 
+of its effective date. 
+
+7.10  No  Third-Party  Beneficiary.  This  Agreement  constitutes  a  contract  solely  among  the 
+parties by which it has been executed and is enforceable solely by the parties by which it has been executed 
+and no other persons. It is the intention of the parties hereto that this Agreement may not be enforced on a 
+third-party beneficiary or any similar basis. 
+
+7.11 
+
+The  County.  Notwithstanding  Section  7.10  herein,  each  of  Borrower  and  Lender 
+acknowledges and agrees, for the benefit of the County and as a condition of participation in the Program, 
+that:  (i)  the  County  undertakes  no  obligation  under  or  in  respect  of  any  Transaction  Document  or  the 
+Program  Guide,  and  no  implied  covenants  or  obligations  of  the  County  shall  be  read  into  either,  (ii) 
+regardless of any default by Borrower, the County has no obligation to make Assessment Payments to 
+Lender, or any other payments in respect of the Loan, including, without limitation, any fees, expenses and 
+other charges described in any Transaction Document, (iii) none of any Loan, Assessment Payment, Lien 
+or other obligation arising from any Transaction Document, the Act or the Ordinance shall be  backed by 
+(A) any credit of the County, (B) any credit of the Commonwealth or its political subdivisions, including, 
+without limitation, the County, or (C) any taxes or governmental funds, (iv) none of any Loan, Assessment 
+Payment, Lien or other obligation arising from any Transaction Document, the Act or the Ordinance shall 
+constitute  an  indebtedness  within  the  meaning  of  any  constitutional  or  statutory  debt  limitation  or 
+restriction, (v) the County has not made any representations, financial or otherwise, in  respect of Borrower, 
+the Property or the Project, (vi) the County makes no representation or warranty as to, and assumes no 
+responsibility with respect to, the accuracy or completeness of the Lien, or any assignment or amendment 
+thereof, (vii) the County assumes no responsibility or liability in respect of the Project, or the planning, 
+construction  or  operation  thereof,  (viii)  each  of  Borrower  and  Lender  shall,  upon  request,  provide  the 
+County with any information related to the Project or the Loan that is reasonably necessary to confirm that 
+the Project or Loan meets all requirements of the Act, the Ordinance and the Program Guide, (ix) each of 
+Borrower and Lender shall comply with all applicable requirements of the Act, the Ordinance and the 
+Program Guide, and (x) Lender shall reimburse the County, within ten (10) days upon written demand, for 
+any  reasonable  out-of-pocket  expenses  incurred  by  the  County  in  connection  with  any  Transaction 
+Document, including, without limitation, the preparation and Recording of the Lien or any assignment or 
+amendment thereof. 
+
+7.12 
+
+Entire  Agreement.  THIS  AGREEMENT  AND  ANY  RELATED  AGREEMENTS  (i) 
+CONSTITUTES THE FINAL AND ENTIRE AGREEMENT BETWEEN THE PARTIES, IN RESPECT 
+OF  THE  SUBJECT  MATTER  HEREIN,  SUPERSEDING  ALL  CONFLICTING  TERMS  OR 
+PROVISIONS OF ANY PRIOR PROPOSALS, APPROVAL LETTERS, TERM SHEETS OR OTHER 
+AGREEMENTS  OR  UNDERSTANDINGS  BETWEEN  THE  PARTIES,  (ii)  MAY  NOT  BE 
+CONTRADICTED BY EVIDENCE OF (A) ANY PRIOR WRITTEN OR ORAL AGREEMENTS OR 
+UNDERSTANDINGS  OR 
+(B)  ANY  CONTEMPORANEOUS  OR  SUBSEQUENT  ORAL 
+AGREEMENTS  OR  UNDERSTANDINGS  BETWEEN  THE  PARTIES  AND  (iii)  MAY  NOT  BE 
+
+21 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+AMENDED,  NOR  MAY  ANY  RIGHTS  THEREUNDER  BE  WAIVED,  EXCEPT  BY  AN 
+INSTRUMENT IN WRITING SIGNED BY THE PARTY CHARGED WITH SUCH AMENDMENT OR 
+WAIVER. 
+
+7.13 
+
+Time of the Essence. Time is of the essence in the payment and performance of all of 
+
+Borrower’s obligations under this Agreement or any related agreement. 
+
+7.14  Additional Collateral. Under this Agreement, the security for the Loan consists solely of 
+the Lien on the Property. Any additional collateral, such as any new Mortgage on the Property or other 
+assets of  Borrower  or  a security  interest in  any  Credits  or  Incentives, shall  be addressed  in  a  separate 
+agreement among Borrower, Lender and any other required parties, as applicable. 
+
+[Signature page follows] 
+
+22 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ARLINGTON COUNTY CODE 
+
+CLEAN ENERGY FINANCING 
+
+IN WITNESS WHEREOF, Borrower and Lender have executed this Agreement as of the date 
+
+first written above by and through their duly authorized representatives. 
+
+[LENDER] 
+
+By: 
+Name: 
+Title: 
+
+[BORROWER] 
+
+By: 
+Name: 
+Title: 
+Taxpayer ID: 
+Organizational ID (if any): 
+Chief Executive Office: 
+[  
+[  
+[  
+
+] 
+] 
+] 
+
+ 
+
+ 
+
+[Signature Page to Financing Agreement] 
+
+23 
+
+

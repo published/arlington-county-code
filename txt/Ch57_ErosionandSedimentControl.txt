@@ -1,0 +1,691 @@
+ARLINGTON COUNTY CODE                                                           EROSION AND SEDIMENT CONTROL 
+
+ARLINGTON COUNTY CODE 
+
+Chapter 57 
+
+ 
+
+ 
+
+EROSION AND SEDIMENT CONTROL* 
+
+Editor’s Note:  Ord. No. 08-01, adopted January 26, 2008, amended Ch. 57, in its entirety, to read as 
+
+  
+
+__________  
+* 
+herein set out.  
+__________  
+ 
+ 
+
+§ 57-1. Title. 
+§ 57-2. Purpose. 
+§ 57-3. Authorization. 
+§ 57-4. Definitions. 
+§ 57-5. Local Erosion and Sediment Control Program. 
+§ 57-6. Regulated Land-Disturbing Activities. 
+§ 57-7. Action on Erosion and Sediment Control Plans Prior to Land-Disturbing Activity. 
+§ 57-8. Issuance of Land-Disturbing Permit and Fees. 
+§ 57-9. Monitoring, Reports and Inspections. 
+§ 57-9.1. Adherence to Approved Plans and Specifications. 
+§ 57-10. Administrative Appeal; Judicial Review. 
+§ 57-11. Penalties, Injunctions, and Other Legal Actions. 
+§ 57-12. Severability. 
+§ 57-13. Conflict of Chapter. 
+
+This chapter shall be known as the "Erosion and Sediment Control Chapter of Arlington County, Virginia."  
+
+ 
+§ 57-1. Title.  
+ 
+
+(6-27-76; Ord. No. 08-01, 1-26-08) 
+ 
+§ 57-2. Purpose.  
+ 
+
+The  purpose  of  this  chapter  is  to  conserve  the  land,  water,  air  and  other  natural  resources  of  Arlington 
+County and promote the public health and welfare of the people in Arlington County by establishing requirements 
+for the control of erosion and sedimentation, and by establishing procedures whereby these requirements shall be 
+administered and enforced.  
+(6-27-76; Ord. No. 08-01, 1-26-08) 
+ 
+§ 57-3. Authorization.  
+ 
+
+This chapter is authorized by the Code of Virginia, Title 62.1, Chapter 3.1, Article 15:51 et. seq., known as 
+the  "Erosion  and  Sediment  Control  Law."  This  article  provides  for  a  comprehensive  statewide  program  with 
+standards and guidelines to control soil erosion and sedimentation which is implemented on the local level.  
+(6-27-76; Ord. No. 92-16, 5-1-92; Ord. No. 08-01, 1-26-08; Ord. No. 14-05, 5-10-14, effective 7-1-14) 
+ 
+§ 57-4. Definitions.  
+ 
+
+The following words and terms, when used in this chapter, shall have the following meanings unless the 
+
+context clearly indicates otherwise: 
+
+ 
+“Administrator” means the County Manager or his designee. 
+
+ 
+ 
+ 
+“Agreement  in  lieu  of  plan”  means  a  contract  between  the  plan  approving  authority  and  the  owner  that 
+specifies  conservation  measures  that  must  be  implemented  in  the  construction  of  or  addition  to  a  single-family 
+
+Code Updated 7-2018 
+
+ARLINGTON COUNTY CODE                                                           EROSION AND SEDIMENT CONTROL 
+
+“County Manager” means the County Manager of Arlington County or his or her designee or authorized 
+
+“Applicant” means any person submitting an erosion and sediment control plan for approval or requesting 
+
+“Common plan of development or sale”means a contiguous area where separate and distinct construction 
+
+residence; this contract may be executed by the plan-approving authority in lieu of a formal site plan. 
+ 
+ 
+the issuance of a permit, when required, authorizing land-disturbing activities to commence. 
+ 
+ 
+activities may be taking place at different times on different schedules. 
+ 
+ 
+agent or representative. 
+ 
+ 
+ 
+“Erosion, and sediment control plan” or “plan” means a document containing material for the conservation 
+of soil and water resources of a unit or group of units of land. It may include appropriate maps and appropriate soil 
+and  water  plan  inventory  and  management  information  with  needed  interpretations  and  a  record  of  decisions 
+contributing to conservation treatment. The plan shall contain all major conservation decisions to assure that entire 
+unit or units of land will be treated so as to achieve the conservation objectives. 
+ 
+ 
+ 
+“Land-disturbing  activity”  means  any  man-made  change  to  the  land  surface  which  may  result  in  soil 
+ 
+erosion from water or wind and the movement of sediments into state waters or onto lands in the state, including, but 
+not limited to, clearing, grading, excavating, transporting and filling of land, except that the term shall not include:  
+ 
+ 
+ 
+
+“Governing body” means the County Board of Arlington County. 
+
+Individual service connections;  
+
+(1) 
+
+(2) 
+
+Installation,  maintenance,  or  repair  of  any  underground  public  utility  lines  when  such  activity 
+occurs on an existing hard-surfaced road, street, or sidewalk provided such land-disturbing activity 
+is confined to the area of the road, street, or sidewalk which is hard-surfaced;  
+
+(3) 
+
+(4)  
+
+(5)  
+
+(6) 
+
+(7) 
+
+(8) 
+
+(9) 
+
+Septic tank lines or drainage fields unless included in an overall plan for land-disturbing activity 
+relating to construction of the building to be served by the septic tank system;  
+
+Surface or deep mining; 
+
+Exploration or drilling for oil and gas including well-site, roads, feeder lines and off-site disposal 
+areas;  
+
+Installation  of  fence  and  sign  posts  or  telephone  and  electric  poles  and  other  kinds  of  posts  or 
+poles;  
+
+Shoreline  erosion  control  projects  on  tidal  waters  when  all  of  the  land-disturbing  activities  are 
+within the regulatory authority of and approved by local  wetland boards, the Marine  Resources 
+Commission or the United States Army Corps of Engineers; however, any associated land that is 
+disturbed  outside  of  this  exempted  area  shall  remain  subject  to  this  article  and  the  regulations 
+adopted pursuant thereto;  
+
+Such  minor  land-disturbing  activities  as  home  gardens  and  individual  landscaping,  repairs,  and 
+maintenance work of areas which are less than two thousand five hundred (2,500) square feet and 
+for which no building permit is required;  
+
+Emergency  work  to  protect  life,  limb,  or  property,  and  emergency  repairs;  provided  that  if  the 
+land-disturbing activity would have required an approved erosion and sediment control plan, if the 
+activity  were  not  an  emergency,  then  the  land  area  disturbed  shall  be  shaped  and  stabilized  in 
+accordance with the requirement of the local erosion and sediment control program;  
+
+(10) 
+
+Livestock feed lot operations, tilling, planting, or harvesting of agricultural, horticultural, forestry, 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Code Updated 7-2018 
+
+ARLINGTON COUNTY CODE                                                           EROSION AND SEDIMENT CONTROL 
+
+or  forest  crops,  including  engineering  operations  as  follows:  construction  of  terraces,  terrace 
+outlets,  check  dams,  desilting  basins,  dikes,  ponds,  ditches,  strip  cropping,  lister  furrowing, 
+contour cultivating, contour furrowing, to reforest or convert to bona fide agriculture or improved 
+pasture use, land drainage and land irrigation;  
+
+Repair or rebuilding of tracks, right-of-ways, bridges, communication facilities, and other related 
+structures and facilities of a railroad company;  
+
+Preparation for single-family residences separately built where the disturbed site area is less than 
+two thousand five hundred (2,500) square feet in size, unless in conjunction with common plan of 
+development or sale;  
+
+Disturbed  land  areas  for  commercial  or  noncommercial  uses  of  less  than  two  thousand  five 
+hundred (2,500) square feet in size, unless in conjunction with common plan of development or 
+sale;  
+
+ 
+
+ 
+
+ 
+
+ 
+
+(11) 
+
+(12) 
+
+(13) 
+
+(14) 
+
+Agricultural  engineering  operations  including,  but  not  limited  to,  the  construction  of  terraces, 
+terrace  outlets,  check  dams,  desilting  basins,  dikes,  ponds  not  required  to  comply  with  the 
+provisions  of  the  Dam  Safety  Act,  Article  2  (§  10.1-604  et  seq.)  of  Chapter  6  of  the  Code  of 
+Virginia,  ditches,  strip  cropping,  lister  furrowing,  contour  cultivating,  contour  furrowing,  land 
+drainage and land irrigation. 
+
+ 
+“Land-disturbing permit” means a permit issued by Arlington County for any land-disturbing activity that 
+ 
+requires the submission and review of an approved plan by the plan approving authority under the provisions of this 
+chapter.  
+ 
+“Local erosion and sediment control program” or “local control program” means an outline of the various 
+ 
+methods  employed  by  Arlington  County  to  regulate  land-disturbing  activities  and  thereby  minimize  erosion  and 
+sedimentation  in  compliance  with  the  state  program  and  including,  without  limitation,  such  items  as  local 
+ordinances, policies, and guidelines, technical materials, inspection, enforcement, and evaluation. 
+ 
+“Natural  channel  design  concepts”  means  the  utilization  of  engineering  analysis  and  fluvial  geomorphic 
+ 
+processes  to  create,  rehabilitate,  restore,  or  stabilize  an  open  conveyance  system  for  the  purpose  of  creating  or 
+recreating  a  stream  that  conveys  its  bankfull  storm  event  within  its  banks  and  allows  larger  flows  to  access  its 
+bankfull bench and its floodplain. 
+ 
+“Owner” means the owner or owners of the freehold of the premises or lesser estate therein, a mortgagee or 
+ 
+vendee in possession, assignee of rents, receiver, executor, trustee, lessee, or other person, firm or corporation in 
+control of a property. 
+ 
+ 
+location. 
+ 
+ 
+the person who certifies that the approved erosion and sediment control program will be followed. 
+ 
+“Person” means any individual, partnership, firm, association, joint venture, public or private corporation, 
+ 
+trust,  estate,  commission,  board,  public  or  private  institution,  utility,  cooperative,  county,  city,  town,  or  other 
+political subdivision of this state, any interstate body, or any other legal entity. 
+ 
+“Plan approving authority” means the Arlington County Department of Environmental Services which is 
+ 
+responsible for determining the adequacy of a plan submitted for land-disturbing activities on a unit or units of land 
+and which is responsible for inspecting land-disturbing activity to ensure compliance with the approved plan. 
+ 
+ 
+storm event. 
+
+“Peak  flow  rate”  means  the  maximum  instantaneous  flow  from  a  given  storm  condition  at  a  particular 
+
+“Runoff volume” means the volume of water that runs off the land development project from a prescribed 
+
+“Permittee” means the person to whom the local permit authorizing land-disturbing activities is issued or 
+
+Code Updated 7-2018 
+
+ARLINGTON COUNTY CODE                                                           EROSION AND SEDIMENT CONTROL 
+
+B.  
+
+A.  
+
+“Subdivision” shall have the meaning in the definition provided in Chapter 23, Subdivisions, of the Code of 
+
+“Water quality volume” means the volume equal to the first one-half (1/2) inch of runoff multiplied by the 
+
+“Standards”  means  the  criteria,  guidelines,  techniques,  and  methods  for  the  control  of  erosion  and 
+
+“State waters” means all waters on the surface and under the ground wholly or partially within or bordering 
+
+ 
+ 
+sedimentation. 
+ 
+“State  erosion  and  sediment  control  program”  or  “state  program”  means  the  program  adopted  by  the 
+ 
+Commonwealth of Virginia consisting of conservation standards, guidelines, and criteria to minimize erosion and 
+sedimentation. 
+ 
+ 
+the Commonwealth of Virginia or within its jurisdiction. 
+ 
+ 
+Arlington County, Virginia. 
+ 
+ 
+impervious surface of the land development project. 
+(6-27-76; 7-30-77; Ord. No. 82-11, 4-25-82; Ord. No. 92-16, 5-1-92; Ord. No. 94-17, 6-4-94; Ord. No. 98-25, 10-
+17-99; Ord. No. 04-25, 10-2-04; Ord. No. 08-01, 1-26-08; Ord. No. 14-05, 5-10-14, effective 7-1-14) 
+ 
+§ 57-5. Local Erosion and Sediment Control Program. 
+ 
+ 
+This chapter and the current  edition of the "Virginia Erosion and Sediment Control Handbook" 
+shall  be  an  integral  part  of  the  Arlington  County  erosion  and  sediment  control  program  and  shall  comprise  the 
+Arlington County Erosion and Sediment Control Handbook. 
+ 
+ 
+The  Arlington  County  Board  hereby  adopts  the  Virginia  Erosion  and  Sediment  Control 
+Regulations (Section 4VAC50-30, as amended) for controlling erosion and sediment from land-disturbing activities 
+as setting the minimum requirements for controlling erosion and sedimentation from land-disturbing activities.  In 
+addition  to  these  minimum  requirements,  the  relevant  requirements  of  the  Stormwater  Management  Ordinance, 
+Chapter 60 of the Code of Arlington County, Virginia, also apply. 
+ 
+ 
+requirements of the most recent version of Minimum Standard 19 contained in the Virginia Erosion and Sediment 
+Control Regulations, any land-disturbing activity that provides for stormwater management intended to address any 
+flow rate capacity and velocity requirements for natural or manmade channels shall satisfy the flow rate capacity and 
+velocity requirements for natural or manmade channels if the practices are designed to (i) detain the water quality 
+volume and to release it over forty-eight (48) hours; (ii) detain and release over a twenty-four (24) hour period the 
+expected rainfall resulting from the one (1) year, twenty-four (24) hour storm; and (iii) reduce the allowable peak 
+flow rate resulting from the one and one-half (1.5), two (2), and ten (10) year, twenty-four (24) hour storms to a 
+level that is less than or equal to the peak flow rate from the site assuming it was in a good forested condition, 
+achieved through multiplication of the forested peak flow rate by a reduction factor that is equal to the runoff 
+volume from the site when it was in a good forested condition divided by the runoff volume from the site in its 
+proposed condition, and shall be exempt from any flow rate capacity and velocity requirements for natural or 
+manmade channels as defined herein or other County regulation. For plans approved on or after July 1, 2014, the 
+flow requirements of this subsection shall be satisfied by compliance with water quanity requirements in the 
+Stormwater Management Act (§ 62.1-44.15:24 et. seq.) and attendant regulations, unless such land-disturbing 
+activities are in accordance with the grandfathering provisions of the Virginia Stormwater Management (VSMP) 
+Program.  
+ 
+ 
+The  "Virginia  Erosion  and  Sediment  Control  Handbook,"  current  edition,  shall  be  used  by  an 
+applicant making a submittal under the provisions of this chapter in preparing the erosion and sediment control plan. 
+The  plan  approving  authority,  in  considering  the  adequacy  of  such  submitted  plan,  shall  be  guided  by  the  same 
+guidelines and standards.  
+ 
+ 
+In  accordance  with  §  62.1-44.15:52  of  the  Code  of  Virginia,  stream  restoration  and  relocation 
+projects that incorporate natural channel design concepts are not man-made channels and shall be exempt from any 
+
+In accordance with § 62.1-44.15:52 of the Code of Virginia, and as an alternative to the 
+
+D.  
+
+C. 
+
+E. 
+
+Code Updated 7-2018 
+
+ARLINGTON COUNTY CODE                                                           EROSION AND SEDIMENT CONTROL 
+
+E. 
+
+C.  
+
+B.  
+
+A.  
+
+D.  
+
+State Water Control Board approval of linear utility and railroad project specifications. 
+
+Projects  undertaken  by  state  agencies  in  accordance  with  Section 62.1-44.15:56 of  the  Code  of 
+
+flow rate capacity and velocity requirements for natural or man-made channels as set forth herein or applicable state 
+law. 
+(6-27-76; Ord. No. 82-11, 4-25-82; Ord. No. 92-16, 5-1-92; Ord. No. 94-17, 6-4-94; Ord. No. 08-01, 1-26-08; Ord. 
+No. 14-05, 5-10-14, effective 7-1-14) 
+ 
+§ 57-6. Regulated Land-Disturbing Activities. 
+ 
+ 
+Except  as  provided  in  subsections  B,  C  and  E,  no  person  shall  engage  in  any  land-disturbing 
+activity until he has submitted to the plan approving authority an erosion and sediment control plan for such land-
+disturbing activity and until that plan has been reviewed and approved by the plan approving authority.  Where the 
+land-disturbing activity results from the construction of or addition to a single-family residence, an agreement in lieu 
+of a plan may be substituted for an erosion and sediment control plan if executed by the plan approving authority. 
+ 
+ 
+Virginia shall be deemed not to be in violation of this chapter for land-disturbing activities. 
+ 
+ 
+Any  person  whose  land-disturbing  activities  involve  lands  which  extend  into  the  jurisdiction  of 
+another local erosion and sediment control program may, at the request of one or all of the jurisdictions, submit a 
+plan to the Virginia Department of Environmental Quality for review and approval, rather than submission to each 
+jurisdiction concerned. 
+ 
+ 
+Whenever  a  land-disturbing  activity  is  proposed  to  be  conducted  by  a  contractor  performing 
+construction  work  pursuant  to  a  construction  contract,  the  preparation,  submission,  and  approval  of  the  required 
+erosion and sediment control plan shall be the responsibility of the owner of the land.  
+ 
+ 
+ 
+ 
+person engaging in the creation and operation of wetland mitigation or stream restoration bank or banks, in multiple 
+jurisdictions, which have been approved and are operated in accordance with applicable federal and state guidance, 
+laws, or regulations for the establishment, use, and operation of wetland mitigation or stream restoration banks, 
+pursuant to a permit issued by the Department of Environmental Quality, the Marine Resources Commission, or the 
+U.S. Army Corps of Engineers, may, at the option of that person, file general erosion and sediment control 
+specifications for wetland mitigation banks annually with the Virginia Department of Environmental Quality for 
+review and approval consistent with guidelines established by the State Water Control Board. 
+(6-27-76;  Ord.  No.  82-11,  4-25-82;  Ord.  No.  94-17,  6-4-94;  Ord.  No.  08-01,  1-26-08;  Ord.  No.  14-05,  5-10-14, 
+effective 7-1-14) 
+ 
+§ 57-7. Action on Erosion and Sediment Control Plans Prior to Land-Disturbing Activity. 
+ 
+ 
+Within 60 days, the plan approving authority shall review and approve any erosion and sediment 
+control plan submitted to it if it determines that the plan meets the standards of the local control program and if the 
+person responsible for carrying out the plan certifies that he will properly perform the erosion and sediment control 
+measures included in the plan and will comply with the provisions of this chapter. 
+ 
+ 
+When a plan is determined to be inadequate, written notice of disapproval stating the specific 
+reasons for its disapproval shall be communicated to the applicant within 45 days. The notice shall specify the 
+modifications, terms, and conditions that will permit approval of the plan.  If no action is taken by the plan 
+approving authority within the time specified above, the plan shall be deemed approved and the applicant shall be 
+authorized to proceed with the proposed activity.  The plan approving authority shall act on any plan that has been 
+previously disapproved within 45 days after the plan has been revised, resubmitted for approval, and deemed 
+adequate.  
+ 
+ 
+ 
+  
+
+Where, upon inspection of the site, the plan approving authority has found the implementation of 
+
+The plan approving authority may require changes to an approved plan in the following cases: 
+
+In accordance with the procedure set forth by § 62.1-44.15:55E of the Code of Virginia, any 
+
+A.  
+
+C.  
+
+B.  
+
+F.  
+
+1. 
+
+Code Updated 7-2018 
+
+ARLINGTON COUNTY CODE                                                           EROSION AND SEDIMENT CONTROL 
+
+the plan to be inadequate to accomplish the erosion and sediment control objectives of the plan; or 
+
+ 
+  
+
+2. 
+
+Where the person responsible for carrying out the approved plan finds that because of  changed 
+circumstances  or  for  other  reasons  the  approved  plan  cannot  be  effectively  carried  out,  the 
+proposed amendments to the plan, consistent with the requirements of this chapter, are agreed to 
+by the plan approving authority and the person responsible for carrying out the plan.  
+
+D. 
+
+B.  
+
+A.  
+
+ 
+ 
+In addition, as a prerequisite to engaging in the land-disturbing activities shown on the approved 
+plan, the person responsible for carrying out the plan shall provide the name of an individual holding a certificate of 
+competence to the program authority, as provided by § 62.1-44.15:52 of the Code of Virginia, who will be in charge 
+of and responsible for carrying out the land-disturbing activity.  However, any plan approving authority may waive 
+the  certificate  of  competence  requirement  for  an  agreement  in  lieu  of  a  plan  for  construction  of  a  single  family 
+residence. If a violation occurs during the land-disturbing activity, then the person reesponsible for carrying out the 
+agreement in lieu of a plan shall correct the violation and provide the name of an individual holding a certificate of 
+competence, as provided by § 62.1-44.15:52 of the Code of Virginia. Failure to provide the name of an individual 
+holding  a  certifcate  of  competence  prior  to  engaging  in  land-disturbing  actiities  may  result  in  revocation  of  the 
+approval of the plan and the person responsible for carrying out the plan shall be subject to the penalties provided 
+herein. 
+ 
+(6-27-76;  Ord.  No.  92-16,  5-1-92;  Ord.  No.  94-17,  6-4-94;  Ord.  No.  08-01,  1-36-08;  Ord.  No.  14-05,  5-10-14, 
+effective 7-1-14) 
+ 
+§ 57-8. Issuance of Land-Disturbing Permit and Fees. 
+ 
+ 
+chapter, until he has acquired a land-disturbing permit from the plan approving authority. 
+ 
+ 
+No  grading,  building,  or  other  permits  for  land-disturbing  activities  may  be  issued  unless  the 
+applicant has an approved erosion and sediment control plan as required by this chapter and certification that the 
+plan will be followed, and evidence of Virginia stormwater management state permit coverage, if applicable. 
+ 
+  
+An erosion and sediment control fee for reviewing plans and performing field inspections shall be 
+collected at the time of building permit application according to the Arlington County Plan and Permit Review Fee 
+Schedule adopted by the County Board.  
+ 
+ (6-27-76; Ord. No. 82-11, 4-25-82; Ord. No. 90-5, 7-1-90; Ord. No. 92-16, 5-1-92; Ord. No. 94-17, 6-4-94; Ord. 
+No. 01-9, 4-21-01; Ord. No. 07-07, 4-21-07, effective 7-1-07; Ord. No. 08-01, 1-26-08; Ord. No. 09-14, 4-28-09; 
+effective 7-1-09; Ord. No. 14-05, 5-10-14, effective 7-1-14; Ord. No. 18-06, 4-21-18, effective 7-1-18) 
+ 
+§ 57-9. Monitoring, Reports and Inspections.  
+ 
+
+No  person  shall  engage  in  any  regulated  land-disturbing  activity,  as  defined  in  §  58-6  of  this 
+
+The plan approving authority (i) shall periodically inspect the land-disturbing activity and require that an 
+individual holding a certificate of competence as provided by 62.1-44.15:52 will be responsible for carrying out the 
+land-disturbing activity and (ii) may require that the person responsible for carrying out the erosion and sediment 
+control  plan  furnish  periodic  monitoring  reports  of  the  land-disturbing  activity  to  ensure  compliance  with  the 
+approved plan and to determine whether the measures required in that plan are effective in controlling erosion and 
+sediment  resulting  from  the  land-disturbing  activity.  However,  the  plan  approving  authority  may  waive  the 
+certificate of competence requirement for an agreement in lieu of a plan for construction of or addition to a single 
+family residence.   
+
+ 
+The right-of-entry to conduct such inspections shall be expressly reserved in the permit. The permit holder, 
+or his designee, shall be given notice of the inspection.  The owner, permittee, or person responsible for carrying out 
+the plan shall be given notice of the inspection.   
+
+  
+If the plan approving authority determines that the permit holder has failed to comply with the plan, the 
+plan approving authority  shall immediately  serve a notice  to comply or notice of violation upon the permittee or 
+
+C. 
+
+Code Updated 7-2018 
+
+ARLINGTON COUNTY CODE                                                           EROSION AND SEDIMENT CONTROL 
+
+person responsible  for carrying out  the plan by registered or certified  mail to  the address  specified in  the permit 
+application  or  in  the  plan  certification,  or  by  delivery  at  the  site  of  the  land-disturbing  activities  to  the  agent  or 
+employee  supervising  such  activities.  Such  notice  shall  set  forth  specifically  the  measures  needed  to  come  into 
+compliance with such plan and shall specify the time within which such measures shall be completed. If the permit 
+holder fails to comply within the time specified, his permit may be revoked; furthermore, he shall be deemed to be 
+in violation of this chapter and the plan reviewing authority may pursue enforcement as provided by this chapter. 
+(6-27-76; Ord. No. 87-4, 1-24-87; Ord. No. 92-16, 5-1-92; Ord. No. 94-17, 6-4-94; Ord. No. 08-01, 1-26-08; Ord. 
+No. 14-05, 5-10-14, effective 7-1-14) 
+ 
+§ 57-9.1. Stop Work Orders.  
+ 
+
+Upon issuance of an inspection report denoting  a violation of the terms of the permit or any applicable law, 
+the County Manager or his designee, in conjunction with or subsequent to a notice to comply, as specified in § 57-9 
+above, may issue an order requiring that all or part of the land-disturbing activities permitted on the site be stopped 
+until the specified corrective measures have been taken, or, if land-disturbing activities have commenced without an 
+approved  plan,  as  required  by  this  chapter,  then  all  of  the  land-disturbing  activities  shall  be  stopped  until  an 
+approved plan or any required permits are obtained. Where the alleged noncompliance is causing or is in imminent 
+danger  of  causing  harmful  erosion  of  lands  or  sediment  deposits  in  waters  within  the  watersheds  of  the 
+Commonwealth, or where the land-disturbing activities have commenced without an approved plan or any required 
+permits,  such  an  order  may  be  issued  without  regard  to  whether  the  permit  holder  has  been  issued  a  notice  to 
+comply, as specified in § 57-9 above. Otherwise, such an order may be issued only after the permit holder has failed 
+to comply with such a notice to comply, as specified in § 57-9 above. The order shall be served in the same manner 
+as a notice to comply, as specified in § 57-9 above, and shall remain in effect for a period of seven (7) days from the 
+date of service pending application by the enforcing authority or permit holder for appropriate relief to the Circuit 
+Court of Arlington County. The order for disturbance without an approved plan or permits shall be served upon the 
+owner by registered or certified mail to the address specified in the land records of Arlington County, shall be posted 
+on  the  site  where  the  disturbance  is  occurring,  and  shall  remain  in  effect  until  such  time  as  permits  and  plan 
+approvals are secured, except in such situations where an agricultural exemption applies.  If the alleged violator has 
+not obtained an approved erosion and sediment control plan or any required permits within seven days from the date 
+of the service of the order, the Virginia Department of Environmental Quality or the County Manager or designee 
+may  issue  a  subsequent  order  to  the  owner  requiring  that  all  construction  and  other  work  on  the  site,  other  than 
+corrective  measures,  be  stopped  until  an  approved  sediment  control  plan  and  any  required  permits  have  been 
+obtained.    The  subsequent  order  shall  be  served  upon  the  owner  by  registered  or  certified  mail  to  the  address 
+specified in the permit application or the land records of the locality in which the site is located.  The owner may 
+appeal the issuance of any order to the Circuit Court of Arlington County or other appropriate court.  Any person 
+violating or failing,  neglecting or refusing to obey an order issued by  the Virginia Department of Environmental 
+Quality  or  the  County  Manager  or  designee  may  be  compelled  in  a  proceeding  instituted  in  the  Circuit  Court  of 
+Arlington  County  or  other  appropriate  court  to  obey  same  and  to  comply  therewith  by  injunction,  mandamus  or 
+other appropriate remedy.  Upon completion and approval of corrective action or obtaining an approved plan or any 
+required permits, the order shall immediately be lifted. Nothing in this section shall prevent the County Manager or 
+designee from taking any other permissible action.  
+(Ord. No. 92-16, 5-1-92; Ord. No. 94-17, 6-4-94; Ord. No. 08-01, 1-26-08; Ord. No. 14-05, 5-10-14, effective 7-1-
+14) 
+ 
+§ 57-10. Administrative Appeal; Judicial Review. 
+ 
+ 
+Final decisions of the plan approving authority under this chapter shall be subject to review by the 
+County  Manager  provided  written  request  for  such  review  is  filed  within  thirty  (30)  days  from  the  date  of  any 
+written  decision  by  the  plan  approving  authority  which  adversely  affects  the  rights,  duties,  or  privileges  of  the 
+person engaging in or proposing to engage in land-disturbing activities. 
+ 
+ 
+Final decisions of the County Manager under this chapter shall be subject to review by the Circuit 
+Court  of  Arlington  County,  provided  an  appeal  is  filed  within  thirty  (30)  days  from  the  date  of  the  final  written 
+decision which adversely affects the rights, duties, or privileges of the person engaging in or proposing to engage in 
+land-disturbing activities.  
+(6-27-76; 10-23-76; Ord. No. 92-16, 5-1-92; Ord. No. 08-01, 1-26-08) 
+
+A.  
+
+B.  
+
+Code Updated 7-2018 
+
+ARLINGTON COUNTY CODE                                                           EROSION AND SEDIMENT CONTROL 
+
+A. 
+
+C.  
+
+B.  
+
+The governing body may apply to the Circuit Court of Arlington County for injunctive relief to 
+
+In additional to the civil penalties provided in this chapter, any person who violates any provision 
+
+ 
+§ 57-11. Penalties, Injunctions, and Other Legal Actions. 
+ 
+ 
+A civil penalty of one hundred dollars ($100.00) shall apply to any person who violates (i) any 
+condition  of  a  permit  or  (ii)  any  provisions  of  this  chapter,  except  the  civil  penalty  for  commencement  of  land-
+disturbing activities without an approved plan shall be one thousand dollars ($1,000.00). Each day any violation of 
+the provisions of this chapter is found to have existed shall constitute a separate offense. In no event shall a series of 
+violations result in civil penalties which exceed a total of three thousand dollars ($3,000.00) arising from the same 
+operative set of facts, except that a series of violations arising from the commencement of land-disturbing activities 
+without an approved plan for any site shall not result in civil penalties which exceed a total of ten thousand dollars 
+($10,000.00). The Administrator may issue a summons for the collection of the civil penalty. 
+ 
+  
+enjoin a violation or a threatened violation of this chapter. 
+ 
+ 
+of this chapter may be liable to plan approving authority in a civil action for damages. 
+ 
+ 
+Without limiting the remedies which may be obtained under this section, any person violating or 
+failing, neglecting or refusing to obey any injunction, mandamus or other remedy obtained pursuant to this chapter 
+shall be subject, in the discretion of the court, to a civil penalty not to exceed two thousand dollars ($2,000.00) for 
+each  violation.  A  civil  action  for  such  violation  or  failure  may  be  brought  by  the  County.  Any  civil  penalties 
+assessed by a court shall be paid into the treasury of the County. 
+ 
+ 
+With the consent of any person who has violated or failed, neglected or refused to obey (i) any 
+condition of a permit or (ii) any provisions of this chapter, the Administrator may provide, in an order issued against 
+such person, for the payment of civil charges for violations in specific sums, not to exceed the limit specified in 
+subsection  D  of  this  section.  Such  civil  charges  shall  be  instead  of  any  appropriate  civil  penalty  which  could  be 
+imposed under subsection A or D. 
+(6-27-76; Ord. No. 92-16, 5-1-92; Ord. No. 94-17, 6-4-94; Ord. No. 98-25, 10-17-99; Ord. No. 01-16, 7-28-01; Ord. 
+No. 08-01, 1-26-08; Ord. No. 14-05, 5-10-14, effective 7-1-14) 
+ 
+§ 57-12. Severability.  
+ 
+
+If  any  provision  of  this  chapter  is  held  to  be  unconstitutional  or  invalid,  such  unconstitutionality  or 
+
+D.  
+
+E.  
+
+invalidity shall not affect the remaining provisions.  
+(6-27-76; Ord. No. 08-01, 1-26-08) 
+ 
+§ 57-13. Conflict of Chapter.  
+ 
+
+In  any  case  where  a  provision  of  this chapter  is  found  to  be  in  conflict  with  any  other  provision  of  the 
+Arlington  County  Code  existing  on  the  effective  date  of  this  chapter,  the  provision  which  establishes  the  more 
+stringent standard for the promotion and protection of the health and safety of the people shall prevail. In any case 
+where a provision of this chapter is found to be in conflict with any other provision of the Arlington County Code 
+existing  on  the  effective  date  of  this  chapter  which  establishes  a  less  stringent  standard  for  the  promotion  and 
+protection of the health and safety of the people, the provisions of this chapter shall be deemed to prevail, and such 
+other provisions are hereby declared to be repealed to the extent that they may be found in conflict with this chapter.  
+(6-27-76; Ord. No. 08-01, 1-26-08) 
+
+Code Updated 7-2018 
+
+

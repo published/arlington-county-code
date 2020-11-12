@@ -1,0 +1,4981 @@
+ 
+
+  
+ 
+
+ 
+
+ 
+ 
+
+ARLINGTON COUNTY CODE 
+
+Chapter 59 
+
+ 
+
+FAMILY DAY CARE HOMES 
+
+§ 59-1. Definitions. 
+§ 59-2. Authority to Regulate. 
+§ 59-3. Regulated Service. 
+§ 59-4. License Required, Posting of License. 
+§ 59-5. Application for License. 
+§ 59-6. Procedures of License. 
+§ 59-7. Issuance of the Initial License. 
+§ 59-8. Types of Licenses. 
+§ 59-9. License Conditions. 
+§ 59-10. Requirements for Changes in Operation. 
+§ 59-11. Renewal of License. 
+§ 59-12. Denial of Application. 
+§ 59-13. Suspension of License. 
+§ 59-14. Revocation of License. 
+§ 59-15. Inspections. 
+§ 59-16. Enforcement. 
+§ 59-17. Hearing and Appeal Process. 
+§ 59-18. Deferred Compliance. 
+§ 59-19. Conflict of Chapter. 
+§ 59-20. Penalties. 
+§ 59-21. Severability. 
+§ 59-22. Operational Responsibilities. 
+§ 59-23. Capacity. 
+§ 59-24. Records and Reports. 
+§ 59-25. General Qualifications for Caregivers and Household Members. 
+§ 59-26. Caregiver Orientation. 
+§ 59-27. Caregiver Training. 
+§ 59-28. Caregiver and Household Member Health Requirements. 
+§ 59-29. Children’s Health Requirements. 
+§ 59-30. Physical Environment. 
+§ 59-31. Emergency Provisions. 
+§ 59-32. First Aid and Emergency Supplies. 
+§ 59-33. Safety. 
+§ 59-34. Play Space, Equipment, and Materials. 
+§ 59-35. Provider-Owned Outdoor Play Area and Equipment. 
+§ 59-36. Health Procedures. 
+§ 59-37. Supervision of Children. 
+§ 59-38. Staff-to-Child Ratios. 
+§ 59-39. General Requirements for Programs. 
+§ 59-40. Parental Notification. 
+§ 59-41. Behavior Management. 
+§ 59-42. Nutrition and Food Services. 
+§ 59-43. Infant Feeding. 
+§ 59-44. Infant and Toddler Equipment. 
+§ 59-45. Cribs, Cots, Rest Mats, and Beds. 
+§ 59-46. Linens. 
+§ 59-47. Sleeping and Resting Requirements. 
+
+59-1 
+
+Code Updated March 2019 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-48. Medication. 
+§ 59-49. Topical Skin Products. 
+§ 59-50. Smoking and Prohibited Substances. 
+§ 59-51. Swimming and Wading Activities. 
+§ 59-52. Drowning Hazards. 
+§ 59-53. Transportation and Field Trips. 
+§ 59-54. Animals and Pets. 
+§ 59-55. Nighttime Care. 
+
+ 
+
+ 
+
+The  following  words  and  terms,  when  used  in  this  chapter,  shall  have  the  following  meanings  unless  the 
+
+§ 59-1. Definitions. 
+ 
+ 
+context clearly indicates otherwise: 
+ 
+“Accessible” means capable of being entered, reached, or used.  
+ 
+“Adult” means any individual 18 years of age or older.  
+ 
+“Age-appropriate” means suitable to the chronological age and individual needs of a child. 
+ 
+“Assistant” means an individual who helps the provider or substitute provider in the care, protection, supervision, 
+education, and guidance to children in the home. 
+ 
+“Attendance” means the actual presence of an enrolled child. 
+ 
+“Body fluids” means urine, feces, vomit, blood, saliva, nasal discharge, and tissue discharge. 
+ 
+“Caregiver” means an individual who provides care, protection, supervision, and guidance to children in the home 
+and includes the provider, substitute provider, and assistant. 
+ 
+“Child” means any person under eighteen (18) years of age. 
+ 
+“Child day program” means a regularly operating service arrangement for children where, during the absence of a 
+parent or guardian, a person or organization has agreed to assume responsibility for the supervision, protection, well-
+being, and education of a child under the age of 13 for less than a 24-hour period. 
+ 
+“Child with special needs” means a child with developmental disabilities, intellectual disabilities, emotional 
+disturbance, sensory or motor impairment, or significant chronic illness who requires special health surveillance or 
+specialized programs, interventions, technologies, or facilities. 
+ 
+“Cleaned” means treated in such a way as to remove dirt and debris by scrubbing and washing with soap and water 
+or detergent solution and rinsing with water. 
+ 
+“Communicable disease” means a disease caused by a microorganism (bacterium, virus, fungus, or parasite) that can 
+be transmitted from person to person via an infected body fluid or respiratory spray, with or without an intermediary 
+agent (such as a louse, mosquito) or environmental object (such as a table surface).  Some communicable diseases 
+are reportable to the local health authority. 
+ 
+“Corrective action plan” means a written plan listing non-compliance that details corrective actions that the licensee 
+will take within an established period of time to address violations or actions to prevent the recurrence of violations. 
+ 
+“County  Manager”  means  the  County  Manager  of  Arlington  County  in  his/her  role  as  the  local  board  of  public 
+welfare or any of his/her designees acting in his/her role as the local board of public welfare. 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-2 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+“Department” means the Arlington County Department of Human Services. 
+ 
+“Department's representative” means an employee or designee of the Arlington County Department of Human 
+Services, acting as the authorized agent of the County Manager. 
+ 
+“Evacuation” means movement of occupants out of the building to a safe area near the building. 
+ 
+“Family day care home” means a child day program offered in the residence of the provider for one (1) through 12 
+children  under  the  age  of  13,  exclusive  of  the  provider’s  own  children  and  any  children  who  reside  in  the  home, 
+when at least one (1) child receives care for compensation.  A family day care home where the children in care are 
+all related to the provider by blood, adoption, or marriage shall not be required to be licensed. 
+ 
+“Good character and reputation” means knowledgeable and objective people agree that the individual (i) maintains 
+business, professional, family, and community relationships that are characterized by honesty, fairness, and 
+truthfulness; and (ii) demonstrates a concern for the well-being of others to the extent that the individual is 
+considered suitable to be entrusted with the care, guidance, and protection of children. Relatives by blood or 
+marriage, and people who are not knowledgeable of the individual, such as recent acquaintances, shall not be 
+considered objective references. 
+ 
+“Homeless child” means a child who lacks a fixed, regular, and adequate nighttime residence and who is: 
+
+ 
+1. Living in a car, park, public space, abandoned building, substandard housing, bus or train station, or 
+similar setting; 
+
+2. Sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; 
+sometimes referred to as doubled-up; 
+
+3. Living in motels, hotels, or camping grounds due to lack of alternative adequate accommodations; 
+
+4. Living in congregate, temporary, emergency, or transitional shelters; 
+
+5. Awaiting or in foster care placement; 
+
+6. Abandoned in a hospital; 
+
+7. A migratory child who qualifies as homeless because he/she is living in circumstances described in the 
+federal Elementary and Secondary Education Act of 1965, P.L. 89-10 (20 USC § 6399); and 
+
+8. Living in a primary nighttime residence that is a public or private place not designed for, or ordinarily 
+used as, a regular sleeping accommodation for human beings. 
+
+“Inaccessible" means not capable of being entered, reached, or used. 
+
+ 
+
+“Infant” means a child from birth through 23 months of age. 
+ 
+"Lockdown" means a situation where children are isolated from a security threat and access within and to the home 
+is restricted. 
+
+“Nighttime care” means care provided between 7 p.m. and 6 a.m. 
+ 
+“Parent” means the biological, foster or adoptive parent, legal guardian, or any individual with responsibility for, 
+or custody of, a child enrolled in or in the process of being enrolled in a family day care home. 
+ 
+“Physician” means an individual licensed to practice medicine in any of the 50 states or the District of Columbia. 
+ 
+“Preschool” means children from three (3) years up to the age of eligibility to attend public school, age five (5) by 
+September 30 of that same year. 
+
+Code Updated March 2019 
+ 
+ 
+
+59-3 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+“Programmatic experience” means time spent working directly with children in a group that is located away from 
+the child's home. Work time shall be computed on t h e  basis o f  full-time work experience during the period 
+prescribed or equivalent  work  time  over  a  longer  period.  Experience  settings  may  include a  child  day  program, 
+family  day  c a r e   home,  child  day  center,  boys and girls club, field placement, elementary school, or a faith-based 
+organization. 
+ 
+“Provider” means an individual who is issued the family day care home license by the Department of Human 
+Services and who has primary responsibility in providing care, protection, supervision, education, and guidance of 
+children in the family day care home. 
+ 
+
+“Relocation” means movement of occupants of the building to a safe location away from the vicinity of the 
+building. 
+ 
+“Residence” means principal legal dwelling or abode that is occupied for living purposes by the provider and 
+contains the facilities necessary for sleeping, eating, cooking, and family living. 
+ 
+“Sanitized”  means  treated  in  such  a  way  as  to  remove  bacteria  and  viruses from inanimate surfaces through 
+first cleaning and secondly using a solution of one tablespoon of bleach mixed with one gallon of water and 
+prepared fresh daily or using a sanitizing solution approved by the U.S. Environmental Protection Agency.   The 
+surface of the item is sprayed or dipped into the sanitizing solution and then allowed to air dry for a minimum of two 
+(2) minutes or according to the sanitizing solution instructions. 
+
+ 
+
+“School age” means eligible to attend public school, age five (5) or older by September 30 of that same year. 
+
+ 
+
+“Serious injury” means a wound or other specific damage to the body that requires medical attention beyond basic 
+first aid, such as unconsciousness; broken bones; dislocation; deep cut requiring stitches; poisoning; concussion; 
+and a foreign object lodged in eye, nose, ear, or other body orifice. 
+
+ 
+
+“Shaken baby syndrome” or “abusive head trauma” means a traumatic injury that is inflicted upon the brain of an 
+infant or young child.  The injury can occur during violent shaking, causing the child’s head to whip back and 
+forth, the brain to move about, and blood vessels in the skull to stretch and tear. 
+ 
+“Shelter-in-place” means movement of occupants of the building to designated protected spaces within the building. 
+ 
+“Staff” means administrative, activity, and service personnel including the licensee when the licensee is an 
+individual who works in the family day care home, and any persons counted in the staff-to-child ratios or any 
+persons working with a child without sight and sound supervision of a staff member. 
+ 
+“Substitute provider” means an individual who meets the qualifications of a provider; is designated by the 
+provider; and who provides care, protection, supervision, education, and guidance for children in the family day 
+care home when the provider is absent from the home for more than two hours. 
+
+ 
+
+“Time out” means a discipline technique in which a child is moved for a brief time away from the stimulation and 
+reinforcement of ongoing activities and other children in the group to allow the child who is losing self-control to 
+regain composure. 
+ 
+“Toddler” means a child who is two (2) years-old. 
+ 
+“Violation” means a breach or infraction of a licensing law or rule. Violation is sometimes referred to as 
+noncompliance. 
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-4 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-2. Authority to Regulate. 
+ 
+
+A.  It is hereby declared to be the policy of the County of Arlington to protect the public health, safety and 
+
+general welfare by providing for the licensing and regulation of family day care homes in order to 
+adequately protect the children of Arlington County. To do so, the County adopts the following regulations 
+to safeguard the children and families in the County of Arlington pursuant to its authority under Section 
+15.2-741 of the Code of Virginia.    
+ 
+
+B.  Nothing in this chapter shall be construed to contradict or negate any provisions of the Arlington County 
+
+Code or the Code of Virginia which may apply to family day care homes. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-3. Regulated Service. 
+ 
+
+A.  All family day care homes in Arlington County are subject to the regulations of this chapter. 
+
+ 
+
+B.  The County of Arlington has the right to inspect, monitor, and enforce the regulations of this chapter. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-4. License Required, Posting of License.  
+ 
+
+It shall be unlawful to operate a family day care home as defined herein in which more one (1) through 12 
+children are received, without a valid license issued pursuant to this chapter. Such license shall be posted in a visible 
+location within the licensed premises where it can be easily seen by parents and other visitors of the home. 
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-5. Application for License. 
+ 
+
+A.  Any person who intends to operate or maintain a family day care home for one (1) through 12 children and 
+any  person  who  operates  or  maintains  a  family  day  care  home  for  one  (1)  through  12  children  on  the 
+effective  date  of  this  chapter  must  submit  an  application  (on  forms  provided  by  the  Department)  to  the 
+Department  for  a  license  in  the  name  of  the  person  for  the  specified  structure  to  which  the  application 
+relates. The application must identify the owner with responsibility for and authority over the operation of 
+the family day care home.  No license issued pursuant to this chapter shall be transferable. 
+
+ 
+
+B.  Any person who intends to provide a family day care home in which one (1) through 12 children are to be 
+received  shall  file  an  application  for  a  license  at  least  two  (2)  months  in  advance  of  the  planned  opening 
+date. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-6. Procedures for License.  
+ 
+
+A.  Upon  receipt  of  the  application,  the  Department  will  begin  an  inquiry  into  the  activities,  services  and 
+
+facilities of the applicant, and of the applicant’s character and reputation.  
+ 
+
+B.  The  applicant  must  afford  the  representative  of  the  Department  to  make  a  pre-licensing  inspection  of  the 
+facilities  and  to  interview  the  applicant  and  his/her  agents,  household  members,  and  employees  for  the 
+purpose of determining whether the applicant can proceed through the licensing process. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-5 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+§ 59-7. Issuance of the Initial License. 
+ 
+
+Upon  completion  of  the  inspection,  the  County  Manager  shall  grant  a  license  in  writing  to  any  applicant 
+thereof  upon  production  of  evidence  satisfactory  to  him/her  that  the  applicant,  his/her  facilities,  services  and 
+activities are in compliance with the provisions of this chapter, the Arlington County Code, the Code of Virginia and 
+the standards and policies prescribed hereunder. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-8. Types of Licenses. 
+ 
+
+A.  Conditional license: A license issued to a new family day care home to allow for the licensee to demonstrate 
+
+compliance with sections of the regulations which could not be determined during the initial inspection. 
+ 
+
+1.  The conditional license will be issued for a period of six (6) months to allow time for all requirements 
+
+2. 
+
+3. 
+
+to be met, including staffing, training, and record-keeping.  
+ 
+If at the end of the six (6) month conditional period, the licensee is in full compliance with the 
+regulations of this chapter, a regular license will be issued. 
+ 
+If at the end of the six (6) month conditional period, the licensee is not in full compliance with the 
+regulations of this chapter, a regular license will not be issued and the licensee will be notified in 
+writing. 
+ 
+
+B.  Regular license: A license issued to a family day care home whose program, facilities, and operations fully 
+
+comply with regulations of this chapter. 
+ 
+
+1.  A regular license will be issued for a period of one (1) year. 
+
+ 
+
+C.  Provisional license: A license issued to an operating family day care home at the time of renewal, when the 
+
+licensee is temporarily unable to comply with the regulations of this chapter.  There cannot be any serious 
+risk to the health, safety and well-being of children, and the licensee must agree to operate under conditions 
+as stated in a correction action plan. 
+ 
+1.  The provisional license will be issued for a period of up to six (6) months.  An extension beyond this 
+
+2. 
+
+3. 
+
+time period requires Department approval. 
+ 
+If, at the end of the six (6) month provisional period, the licensee is in full compliance with the 
+regulations of this chapter, a regular license will be issued. 
+ 
+If, at the end of the six (6) month provisional period, the licensee is not in full compliance with the 
+regulations of this chapter and an extension is not granted, a regular license will not be issued and the 
+licensee will be notified in writing. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-6 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-9. License Conditions.  
+ 
+
+Each  license  issued  pursuant  to  this  chapter  shall  set  forth  the  conditions  under  which  the  license  may 
+operate.  Said  conditions  shall  include,  but  not  be  limited  to,  the  name(s)  of  the  operator(s)  of  the  family  day  care 
+home, the maximum number and age range of children to be served, and the period of time for which the license is 
+effective.  Each  provisional  or  conditional  license  issued  pursuant  to  this  chapter  shall  be  accompanied  by  a  letter 
+from the County Manager or his/her designee stating the reason(s) for its being provisional or conditional. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-10. Requirements for Changes in Operation. 
+ 
+A.  The licensee shall inform the Department, in writing, of any of the following changes in operation no less than 
+
+10 days before implementation of the change(s): 
+ 
+
+1.  A change in location, name, and/or telephone number of the family day care home; 
+
+ 
+
+2.  An extended absence of the provider from the family day care home that exceeds two (2) weeks; or 
+
+ 
+
+3.  Renovations or alterations of the premises that substantially changes the indoor or outdoor space of the 
+
+family day care home. 
+ 
+
+B.  The licensee shall submit a written request to the Department to modify conditions of the license to include: 
+
+ 
+
+1.  Change in hours of operation; 
+
+ 
+
+2.  Change in license capacity; 
+
+ 
+
+3.  Change in age range of children; or 
+
+ 
+
+4.  Any other condition to be modified. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-11. Renewal of License.  
+ 
+A.  Every regular license shall be renewed annually prior to the expiration of the license.  
+
+ 
+
+B.  Licensees desiring renewal must notify the Department prior to the license expiration. The facilities and records 
+
+of each applicant for a renewal of a license may be inspected or examined by the Department to determine 
+whether the applicant is in compliance with this chapter, the Arlington County Code, and the Code of Virginia.  
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-12. Denial of Application. 
+ 
+A. 
+
+The Department may deny an application for a new or renewed license if: 
+ 
+1.  The activities, services and facilities of the applicant are in violation of any provision of this chapter, 
+
+the Arlington County Code, or the Code of Virginia;  
+ 
+
+2.  An evaluation of the application reveals that the applicant misrepresented or reported false 
+
+information; 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-7 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+3.  An evaluation of background checks indicates that any staff member or adult household member has 
+
+been charged or found guilty of a barrier crime as defined in the Code of Virginia or is the subject of a 
+founded complaint of child abuse or neglect; 
+ 
+
+4.  The applicant has a history of regulatory violations which demonstrates an inability to provide for the 
+
+health, safety and welfare of children; or 
+ 
+
+5.  The Department concludes  that the applicant cannot provide for the  health, safety and  welfare of the 
+children  in  care  based  on  other  pertinent  information  received  by  the  Department  which  creates 
+reasonable doubt as to the applicant’s ability to provide care to children. 
+
+Upon  the  denial  of  the  application  for  a  new  or  renewed  license  under  this  chapter,  the  Department  shall 
+notify the applicant that the application is denied, stating: 
+
+1.  The reason(s) for the denial; 
+
+ 
+
+2.  The regulatory standard(s) with which the applicant failed to comply that is the basis for the denial; 
+
+ 
+B. 
+
+ 
+
+and 
+ 
+
+3.  The applicant has the right to appeal the denial in accordance with the appeals process as established in 
+
+§ 59-17. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-13. Suspension of License. 
+ 
+A. 
+
+The Department may suspend a license upon determining that: 
+ 
+1.  The licensee is in violation of any provision of this chapter, the Arlington County Code, or the Code of 
+
+Virginia; or 
+ 
+
+2.  The life, health, safety, or welfare of children is in imminent danger. 
+
+ 
+
+B. 
+
+Upon the suspension of the license, the Department shall notify the licensee in writing of the suspension, 
+stating: 
+ 
+1.  The effective date and period of the suspension; 
+
+ 
+
+2.  Reason(s) for the suspension;  
+
+ 
+
+3.  The regulatory violation(s) which is the basis for the suspension;  
+
+ 
+
+4.  That the licensee must stop providing care on the effective date of the suspension; and 
+
+ 
+
+5.  The licensee’s right to appeal the suspension in accordance with the appeals process as established in § 
+
+59-17. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+ 
+ 
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-8 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-14. Revocation of License.  
+ 
+A.  The Department may revoke a license upon determining that: 
+
+ 
+
+1.  The licensee is in violation of any provision of this chapter, the Arlington County Code, or the 
+
+Code of Virginia; 
+ 
+
+2.  The life, health, safety, and welfare of children is in imminent danger; 
+
+ 
+
+3.  The licensee misrepresented or offered false information on any form or report required by the 
+
+Department;  
+ 
+
+4.  The terms or conditions of an intermediate sanction have been violated; or 
+
+ 
+
+5.  Violations required to be corrected during a suspension have not been corrected at the end of the 
+
+suspension period. 
+ 
+
+B.  Upon the revocation of the license, the Department shall notify the licensee in writing of the revocation, stating: 
+
+ 
+
+1.  The effective date and period of the revocation; 
+
+ 
+
+2.  Reason(s) for the revocation;  
+
+ 
+
+3.  The regulatory violation(s) which is the basis for the revocation;  
+
+ 
+
+4.  That the licensee must stop providing care on the effective date of the revocation; and 
+
+ 
+
+5.  The licensee’s right to appeal the revocation in accordance with the appeals process as established 
+
+in § 59-17. 
+ 
+
+C.  An applicant may reapply for a license after six (6) months from the date of revocation. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-15. Inspections. 
+ 
+A.  Family day care homes will be inspected for initial licensing, renewal purposes, routine monitoring and when 
+
+complaints/allegations are made against the home. It is the duty of every licensee to give the right of entrance to 
+and inspection of the premises to representatives of the Department, to keep and maintain such records as the 
+Department may prescribe, to permit inspection to these records, and to report to the Department such facts as 
+may be required. 
+ 
+
+B.  The Department may conduct a follow-up inspection any time a family day care home is cited for any violation. 
+
+ 
+
+C.  Family day care home inspections will be conducted in an unannounced manner. 
+
+ 
+
+D.  A report of inspection findings will be provided to the family day care home following the completion of any 
+
+inspection. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-9 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-16. Enforcement. 
+ 
+A.  If an inspection or investigation reveals a violation of any provision of this chapter, the Arlington County Code, 
+
+or the Code of Virginia, the Department may undertake enforcement actions. 
+ 
+
+B.  Enforcement actions may include, but are not limited to: 
+
+ 
+
+1. 
+
+Issuance of written inspection reports which include corrective action plans, requests to submit a 
+corrective action plan to the Department, and notices of intention to initiate enforcement through the 
+denial, suspension, or revocation of a license; 
+ 
+
+2.  Meetings or telephone conferences between the Department and the licensee to discuss corrective 
+
+3. 
+
+action plans; 
+ 
+Intermediate sanctions such as: 
+ 
+
+a. Reduction of capacity; 
+
+ 
+
+b. Prohibition on new admissions; 
+
+ 
+
+c. Mandated training; 
+
+ 
+
+d. Requiring the licensee to contact parents/guardians about health and safety violations; 
+
+ 
+
+4.  Denial of application for a new or renewed license; 
+
+ 
+
+5.  Suspension of a license 
+
+ 
+
+a. A license may be temporarily suspended without a hearing upon written notification to the 
+licensee by the Department upon finding that the public life, health, safety or welfare of a 
+child is in imminent danger; or 
+ 
+
+6.  Revocation of a license. 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-17. Hearing and Appeal Process. 
+ 
+A.  A hearing shall be held when the licensee requests a hearing to contest: 
+
+ 
+
+1.  The denial of an application for a new or renewed license; 
+
+ 
+
+2.  A suspension or revocation of a license; or 
+
+ 
+
+3.  Any other action that adversely impacts the licensee. 
+
+ 
+
+B.  All hearing requests shall be submitted in writing to the County Manager or his/her designee and shall state the 
+
+name and address of the licensee and the effective date and nature of the action being appealed. 
+ 
+
+C.  The written hearing request shall be submitted to the County Manager or his/her designee within five (5) 
+
+business days of receipt of written notice of enforcement action. 
+ 
+
+59-10 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+D.  The County Manager or his/her designee shall notify the appellant of the time, date, and place of the hearing 
+
+within five (5) business days of receipt of the written hearing request.  The County Manager or his/her designee 
+will meet with the appellant at a mutually agreeable time.  Meeting attendees may include: 
+ 
+
+1.  Representatives of Arlington County Government; 
+
+ 
+
+2.  Witnesses for both parties. Witnesses will be present only while providing testimony; or 
+
+ 
+
+3.  Legal counsel.   
+
+ 
+
+a.  If legal counsel represents the licensee, legal counsel must also represent Arlington County 
+
+Government. 
+ 
+
+b.  If legal counsel will be in attendance, the licensee shall notify the County Manager or his/her 
+
+designee at least three (3) business days prior to the hearing. 
+ 
+
+E.  The County Manager or his/her designee shall render a hearing decision to the licensee within five (5) business 
+
+days from the date of the hearing.  The decision will either uphold or overturn the adverse action. 
+ 
+
+1.  The decision of the County Manager or his/her designee is final and subject to no further appeal. 
+
+ 
+
+F.  Any step in the appeal process may be waived if mutually agreed upon by the appellant and the County 
+
+Manager or his/her designee. 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-18. Deferred Compliance.  
+ 
+
+The owner or operators of any facility required to be licensed by this chapter, operating in the County as of 
+the effective date of this chapter, may apply for and be granted a time period not to exceed six (6) months in order to 
+comply  with  the  licensing  requirement  prescribed  hereunder  which  were  not  in  effect  on  the  date  of  enactment  or 
+this chapter. All other provisions of this chapter become effective upon the effective date of this chapter. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-19. Conflict of Chapter.  
+
+ 
+The provisions of this chapter are meant to complement and be read in harmony with all other provisions of 
+the Arlington County Code.  In any case where a provision of this chapter is found to be in conflict with any other 
+provision  of  the  Arlington  County  Code  existing  on  the  effective  date  of  this  chapter,  the  provision  which 
+establishes the higher standard for the promotion and protection of the health and safety of the people shall prevail.  
+It  shall  not  be  considered  a  conflict  if  the  provider  needs  to  comply  with  other  requirements  in  order  to  obtain 
+permits, licenses, or certificates other than a child care license from Arlington County Government, such as but not 
+limited  to:  building  permits,  sign  permits,  certificates  of  occupancy,  use  permits,  business,  professional  and 
+occupational licenses, etc. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-20. Penalties.  
+ 
+
+Any person who operates a family day care home in which one (1) through 12 children are received 
+without a valid license issued pursuant to this chapter after receipt of notice from the County Manager that a 
+violation of this chapter exists without having corrected such violation shall be guilty of a misdemeanor and upon 
+
+Code Updated March 2019 
+ 
+ 
+
+59-11 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+Should any clause, sentence, paragraph or part of this chapter or the application thereof to any person or 
+
+conviction thereof shall be punished by a fine not to exceed $300.00, or by imprisonment in jail not to exceed 30 
+days, or both. Each day of violation shall constitute a separate offense. 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-21. Severability.  
+ 
+ 
+circumstance be adjudged by a court of competent jurisdiction to be unconstitutional or invalid, said judgment shall 
+not affect, impair or invalidate the remainder of the chapter or the application of such provisions to other persons or 
+circumstances, but shall be confined in its application to the clause, sentence, paragraph or part thereof, directly 
+involved in the controversy in which said judgment shall have been rendered, and the person or circumstance 
+involved. 
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-22. Operational Responsibilities. 
+
+ 
+
+A.  The provider shall ensure compliance with this chapter and the terms of the  current  license  issued  by  the 
+
+Department  and  with  relevant  federal,  state  or local laws, and other relevant regulations. 
+
+ 
+
+B.  The provider shall ensure compliance with the home's policies that have been disclosed to the parents. 
+ 
+C.  The provider shall be of good character and reputation. Character and reputation investigation includes 
+
+documentation of completion of required background checks, including: 
+
+ 
+1.  A satisfactory sworn statement or affirmation prior to the first day of employment; 
+
+ 
+
+2.  A satisfactory national criminal background check prior to employment; and 
+
+ 
+
+3.  A satisfactory central registry search within 30 days of employment. 
+
+ 
+D.  The provider shall submit documentation of satisfactory background checks for all caregivers and household 
+
+members residing in the family day care home, as required by § 59-25.A.1 and § 59-25.D.  
+ 
+
+E.  The provider shall ensure that the home's activities, services, and facilities are conducive to the welfare of 
+
+children in care. 
+
+ 
+
+F.  The provider shall be responsible for the family day care home's day-to-day operation. 
+
+ 
+
+G.  The provider shall post, with parental approval, a current list of all children’s allergies, sensitivities, and dietary 
+
+restrictions. 
+
+ 
+
+H.  The provider shall ensure that any advertising is not misleading or deceptive as required by § 63.2-1713 of the 
+
+Code of Virginia. 
+
+ 
+I.  The provider shall ensure that the total number of children receiving care at any one time does not exceed the 
+
+maximum licensed capacity of the family day care home. 
+
+ 
+J.  The provider shall establish and follow written procedures for prevention of shaken baby syndrome or 
+
+abusive head trauma, including coping with crying babies, safe sleeping practices, and sudden infant 
+
+death syndrome awareness. 
+
+ 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-12 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+K.  The provider shall establish and follow a written plan for behavior management that will include how caregivers 
+
+will address challenging behaviors. 
+ 
+
+L.  The provider shall establish and follow a written emergency preparedness and response plan that: 
+
+ 
+1. 
+
+Includes emergency evacuation, emergency relocation, shelter-in-place, and lockdown procedures; 
+ 
+
+2.  Addresses the most likely to occur scenarios, including fire, severe storms, flooding, tornadoes, loss of 
+utilities, earthquakes, intruders, violence on or near the premises, chemical spills, and facility damage 
+and other situations that may require evacuation, shelter-in-place, or lockdown; and 
+
+ 
+
+3. 
+
+Includes provisions for a responsible person who is 18 years of age or older and is able to provide 
+emergency backup care until the children can be picked up by their parents. 
+
+ 
+M.  The provider shall establish and follow written medication procedures that shall: 
+
+ 
+
+1. 
+
+Include any general restrictions for the administration of medication; 
+ 
+
+2.  For nonprescription medication, be consistent with the manufacturer’s instructions for age, duration 
+
+and dosage; 
+ 
+Include duration of the parent’s authorization for medication, provided that it shall expire or be 
+renewed after 10 work days.  Long-term prescription and over-the-counter medication may be allowed 
+with written authorization from the child’s physician and parent; and 
+ 
+Include methods to prevent the use of outdated medication. 
+ 
+
+3. 
+
+4. 
+
+N.  The provider shall have liability and fire insurance of at least $100,000 per occurrence and $300,000 aggregate 
+
+in force on the family day care home operation to protect themselves and the children served.  A copy of the 
+insurance policy shall be made available to the County Manager or his/her designee upon request. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-23. Capacity. 
+ 
+A.  When at least one (1) child receives care for compensation, all children, exclusive of the provider's own children 
+
+and children who reside in the home, who are in the care and supervision of a provider, count in the licensed 
+capacity. 
+ 
+
+B.  The Department will establish the family day care home’s maximum capacity based on the following factors: 
+
+ 
+1.  The availability of space that allows each child free movement and active play indoors and outdoors; 
+
+or 
+
+ 
+
+2.  The provider’s responsibility to care for another individual who may require special attention or care, 
+
+including but not limited to an elderly resident or a child with a serious physical, emotional, or 
+behavioral condition. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+ 
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-13 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-24. Records and Reports. 
+ 
+A.  General Recordkeeping. 
+
+ 
+
+ 
+
+1.  Each provider shall meet the following recordkeeping requirements: 
+
+a.  Records required by this regulation may be kept as hard copy or electronically and shall be 
+
+maintained in the family day care home and made accessible to the Department’s 
+representative. 
+
+ 
+b.  The provider shall maintain a written record of daily attendance that documents the arrival 
+
+and departure of each child in care as it occurs. 
+
+ 
+c. 
+
+Information contained in a child’s record shall be privileged and confidential. The provider 
+shall not distribute or release information in a child’s record to any unauthorized person 
+without the written consent of the child’s parent. 
+
+ 
+d.  Children’s records shall be made available to a child’s parent upon request, unless otherwise 
+
+ordered by the court. 
+
+ 
+e.  Records and reports on children, caregivers, and household members required by this chapter 
+shall be maintained and made accessible to the Department’s representative for two (2) years 
+from the date of termination of services for a child, date of separation from employment for 
+caregivers, or date of termination of residence for a household member, unless specified 
+otherwise. 
+
+ 
+
+B.  Reports to the Department. 
+
+ 
+
+1.  The provider shall inform the Department’s representative as soon as possible but not to exceed one (1) 
+
+business day of the circumstances surrounding the following incidents: 
+ 
+
+a.  Lost or missing child when local authorities have been contacted for help; 
+
+ 
+
+ 
+
+b.  Death of a child while under the family day care home’s supervision; and 
+
+c.  The suspension or termination of all child care services for more than 24 hours as a result of 
+
+any emergency situation and any plans to resume child care. 
+
+ 
+2.  The provider shall inform the Department’s representative as soon as practicable, but not to exceed two 
+
+(2) business days, of any serious injury to a child while under the family day care home’s supervision. 
+ 
+
+3.  A written report shall be completed and submitted to the Department within five (5) business days of 
+
+the date the incident occurred. 
+ 
+
+C.  Reports of Suspected Child Abuse or Neglect. 
+
+ 
+
+A caregiver shall immediately call the Department (703-228-1500) or call the toll-free number of the Child 
+Abuse and Neglect hotline (1-800-552-7096/TDD) whenever there is reason to suspect that a child has been 
+or is being subjected to any kind of child abuse or neglect by any person. 
+
+ 
+D.  Reports of Suspected Disease Outbreaks. 
+
+ 
+
+The provider shall immediately make or cause to be made a report of an outbreak of disease as defined by 
+the Virginia Board of Health.  Such report shall be made by rapid means to the local health department 
+(703-228-5266) or to the Commissioner of the Virginia Department of Health. 
+
+Code Updated March 2019 
+ 
+ 
+
+59-14 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+E.  Children’s Records. 
+
+ 
+
+1.  The provider shall maintain an up-to-date record at the family day care home for each enrolled child. 
+
+ 
+
+2.  A child’s record shall contain the following information: 
+
+ 
+
+a.  Name, sex, address, and birth date of the child; 
+
+ 
+
+b.  Emergency care information including: 
+
+ 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+vii. 
+
+viii. 
+
+ix. 
+
+x. 
+
+Name, home address, and telephone number of each parent who has custody; 
+
+ 
+
+Name, address, and telephone number of each custodial parent’s place of 
+employment; 
+ 
+Name and telephone number of the child’s physician; 
+ 
+Name, address, and telephone number of two (2) designated people to contact in case 
+of an emergency if the parent cannot be reached; 
+ 
+Information on allergies and intolerance to medication, or any other substances, and 
+actions to take in an emergency situation; 
+ 
+A written care plan for each child with a diagnosed food allergy, to include 
+instructions from a physician regarding the food to which the child is allergic and the 
+steps to be taken in the event of a suspected or confirmed allergic reaction; 
+ 
+Name and policy number of the child’s medical insurance, if applicable; 
+ 
+Names of persons other than the custodial parents who are authorized to pick up the 
+child; 
+ 
+Appropriate legal paperwork when a custodial parent does not authorize the provider 
+to release the child to the non-custodial parent; and 
+ 
+Chronic physical problems, pertinent development information, and any special 
+accommodations needed; 
+
+c.  First and last dates of attendance; 
+
+ 
+
+d.  Parent’s signed acknowledgment of the receipt of required written information for parents; 
+
+e.  Proof of the child’s age and identity and the names and addresses of previously attended child 
+
+day care and schools; 
+
+f.  Written authorization for emergency medical care should an emergency occur and the parent 
+cannot be located immediately unless the parent presents a written objection to provision of 
+medical treatment on religious or other grounds; 
+
+g.  Written authorization if a caregiver is to administer prescription or nonprescription 
+
+medication to the child; 
+
+h.  Written authorization if the child is to participate in swimming or wading activities; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-15 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+i.  Written authorization if the child is taken off the premises of the family day care home; 
+
+j.  Special instructions to the provider including exception to an infant’s sleeping position, 
+
+recommendations for the care and activities of a child with special needs, and exception to an 
+infant’s being fed on demand; 
+
+k.  Record of any accidents or injuries sustained by the child while at the family day care home; 
+
+l.  Documentation of the review of the child’s emergency contact information; 
+
+m.  Immunization records for the child; and 
+
+n.  Results of the health examination for the child. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+F.  Caregiver Records. 
+
+ 
+
+1.  The provider shall maintain a record for each caregiver. 
+
+ 
+
+2.  Assistants’ and substitute providers’ records shall contain the following: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a.  Name; 
+
+ 
+
+b.  Address; 
+
+c.  Verification of age; 
+
+d.  Job title; 
+
+e.  Date of employment or volunteering; 
+
+f.  Name, address, and telephone number of a person to be notified in an emergency; 
+
+g.  For assistants and substitute providers who are not the spouse, parent, sibling, or child of the 
+provider and are hired after July 1, 2019, documentation that two (2) or more references as to 
+character and reputation as well as competency were checked before employment.  If a 
+reference check is taken over the telephone, documentation shall include: 
+
+i. 
+
+ii. 
+
+Dates of contact, 
+ 
+Names of persons contacted, 
+
+iii. 
+
+Firms contacted, 
+
+iv. 
+
+Results, and 
+
+v. 
+
+Signature of person making call; 
+
+ 
+h.  Documentation of satisfactory background checks; 
+
+ 
+
+i.  Documentation of tuberculosis screening; and 
+
+j.  Documentation of the education and training. 
+
+ 
+3.  Substitute providers’ records shall also contain documentation of the time of arrivals and departures; 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-16 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+4.  Providers’ records shall contain the following:  
+ 
+
+a.  Documentation of satisfactory background checks; 
+
+ 
+
+b.  Documentation of tuberculosis screening; and 
+
+ 
+
+ 
+
+c.  Documentation of the education and training. 
+
+G.  Written Information for Parents. 
+
+ 
+
+1.  The provider shall provide parents with the following written information prior to the child’s first day of 
+
+attendance. The provider shall obtain the parent’s written acknowledgement of the receipt of the 
+information in this section. 
+
+ 
+
+ 
+
+a.  Operating information including the hours and days of operation, holidays or other times 
+
+closed, and the telephone number where a message can be left for a caregiver; 
+
+b.  Schedule of fees and payment plans; 
+
+c.  Check in and check out procedures; 
+
+d.  Policies for the administration of medications; 
+
+e.  Requirement for the family day care home to notify the parent when the child becomes ill and 
+for the parent to arrange to have the child picked up as soon as possible if so requested by the 
+family day care home; 
+
+f.  Requirement for the parent to inform the family day care home within 24 hours or the next 
+
+business day after his/her child or any member of the immediate household has developed any 
+reportable communicable disease, as defined by the State Board of Health, except for life-
+threatening diseases, which must be reported immediately; 
+
+g.  Requirement for the child to be adequately immunized; 
+
+h.  Requirement for paid caregivers to report suspected child abuse or neglect according to § 
+
+63.2-1509 of the Code of the Virginia;  
+
+i.  Custodial parent’s right to be admitted to the family day care home any time the child is in 
+
+care as required by § 63.2-1813 of the Code of the Virginia;  
+
+j.  Policies for the provision of food; 
+
+k.  Presence of a pet or animal in the home; 
+
+l.  Discipline policies including acceptable and unacceptable discipline measures; 
+
+m.  Amount of time per week that an adult assistant or substitute provider instead of the provider 
+
+is scheduled to care for the child and the name of the adult assistant or substitute provider; 
+
+n.  Provisions of the family day care home’s emergency preparedness and response plan; 
+
+o.  Parental notifications required in § 59-40; 
+
+p.  Policies for termination of care; and 
+
+59-17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+q.  Address of the website of the Department, with a note that a copy of this chapter and 
+
+additional information about the family day care home may be obtained from the 
+Department’s website. 
+ 
+
+H.  Verification of Child’s Age and Identity. 
+
+ 
+
+1.  The provider shall verify and document each child’s age, identity, and previous child care/school 
+
+attendance within seven (7) business days of the child’s first day of attendance at the family day care 
+home.   
+ 
+
+a.  The provider shall verify the identity and age of a child by viewing one of the following: 
+
+ 
+
+i. 
+
+ii. 
+
+Certified birth certificate; 
+ 
+Birth registration card; 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii. 
+
+Notification of birth, i.e., hospital, physician, or midwife record; 
+
+iv. 
+
+Passport; 
+
+v. 
+
+vi. 
+
+vii. 
+
+Copy of the placement agreement or other proof of the child’s identity from a child 
+placing agency; 
+
+Original or copy of a record or report card from a public school in Virginia; 
+
+Signed statement on letterhead stationery from a public-school principal or other 
+designated official that assures the child is or was enrolled in the school; or 
+
+viii. 
+
+Child identification card issued by the Virginia Department of Motor Vehicles. 
+
+b.  The provider shall document in the child’s record: 
+
+ 
+
+i. 
+
+ii. 
+
+The method of verification of the child’s age and identity; and 
+ 
+The names and locations of the previous child care programs and schools the child 
+has attended. 
+
+c.  The proof of identity, if reproduced or retained by the provider, shall be destroyed two (2) 
+
+years after termination of services to the child. All reasonable steps to destroy such documents 
+shall be made, such as by: 
+
+i. 
+
+ii. 
+
+iii. 
+
+Shredding; 
+ 
+Erasing; or 
+
+Otherwise modifying the social security numbers in those records to make them 
+unreadable or indecipherable by any means. 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-18 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-25. General Qualifications for Caregivers and Household Members. 
+ 
+A.  Caregiver Qualifications. 
+
+Caregivers shall: 
+
+ 
+
+1. 
+
+ 
+Meet the requirements of a satisfactory background check, including a satisfactory sworn 
+statement or affirmation prior to employment, a satisfactory central registry search within 30 days 
+of employment, and a satisfactory national criminal background check prior to employment.  All 
+required background checks for caregivers must be updated every five (5) years. 
+ 
+a.  A satisfactory sworn statement or affirmation is: 
+
+ 
+
+i.  A fully completed original that states that the individual does not have an offense; 
+
+and 
+ 
+
+ii.  There is no other knowledge that the individual has an unsatisfactory background; 
+
+ 
+
+b.  A satisfactory central registry search is one in which: 
+
+i.  A copy of the child protective services check form is returned indicating that, as of 
+
+the date on the reply, the individual whose name was searched is not identified in 
+the central registry as an involved caregiver with a founded disposition of child 
+abuse/neglect; and 
+ 
+
+ii.  There is no other knowledge that the individual has a founded disposition in 
+
+Virginia or in any other state in which the individual has resided in the last five (5) 
+years; 
+ 
+
+c.  A satisfactory national criminal background check is one in which: 
+
+ 
+
+i.  A letter is received from the Office of Background Investigations with a finding of 
+
+"eligible"; and 
+ 
+
+ii.  There is no other knowledge that the individual has an offense in Virginia or 
+
+elsewhere; 
+ 
+
+Be of good character and reputation; 
+
+Be physically and mentally capable of carrying out assigned responsibilities; 
+
+Have an understanding of the problems of childhood and sympathy for them; 
+
+Be able to give the child the affection and security that the child needs. The provider’s motivation 
+in taking a child shall include a desire to contribute to the child’s development and not be limited 
+to meeting the provider’s own needs; 
+
+Be able to communicate in English as necessary to: 
+ 
+a.  Carry out assigned job responsibilities, and 
+b.  Communicate effectively with emergency responders; 
+
+Have current certification in cardiopulmonary resuscitation (CPR) as appropriate to the age of the 
+children in care from an organization such as the American Red Cross, American Heart 
+Association, American Safety and Health Institute, or National Safety Council. The training shall 
+
+59-19 
+
+ 
+
+ 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+ 
+7. 
+
+ 
+
+ 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+8. 
+
+ 
+9. 
+
+include an in-person competency demonstration. 
+
+Have current certification in first aid from an organization such as the American Red Cross, 
+American Heart Association, American Safety and Health Institute, or National Safety Council, 
+unless a caregiver is a registered nurse or licensed practical nurse with a current license from the 
+Board of Nursing; and 
+
+Caregivers who drive a vehicle transporting children shall submit a current driving record that 
+discloses any moving traffic violation that occurred five (5) years prior to or during employment or 
+assignment as a driver. 
+
+ 
+
+ 
+B.  Provider and Substitute Provider Qualifications. 
+ 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+ 
+
+ 
+
+Providers and substitute providers shall be 18 years of age or older. 
+
+Providers licensed after and substitute providers employed after July 1, 2019 shall have three (3) 
+months of programmatic experience. 
+
+Use of a substitute provider shall be limited to no more than a total of 240 hours per calendar year. 
+
+A substitute provider shall record and sign the time of arrivals and departures on each day that the 
+substitute provider works. 
+
+ 
+C.  Assistant Qualifications. 
+ 
+
+ 
+
+1. 
+
+2. 
+
+ 
+3. 
+
+Assistants shall be 18 years of age or older. 
+
+An assistant 18 years of age or older shall not be left alone with children in care for more than two 
+(2) hours per day. 
+
+An assistant 18 years of age or older who meets the requirements for a substitute provider may act 
+as the substitute provider when the provider is absent from the home for more than two (2) hours. 
+
+ 
+D.  Household Member Qualifications. 
+ 
+
+1. 
+ 
+
+Individuals 14 years of age and older who reside in the family day care home shall:  
+
+a.  Meet the requirements of a satisfactory central registry search, as defined in § 59-25.A.1.b; 
+
+and 
+ 
+
+b.  Be of good character and reputation. 
+ 
+
+2. 
+
+In addition to meeting the requirements in § 59-25.D.1, individuals 18 years of age and older who reside in 
+the family day care home shall also: 
+ 
+
+a.  Meet the requirements of a satisfactory sworn statement or affirmation, as defined in § 59-
+
+25.A.1.a; and 
+ 
+
+b.  Meet the requirements of a satisfactory national criminal background check, as defined in § 
+
+59-25.A.1.c. 
+ 
+
+3.  Household members’ background checks must be conducted every (5) five years. 
+
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-20 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+4.  When a minor who resides in the family day care home turns 18 years of age, the provider is responsible 
+for making sure that the 18-year-old complies with all background check requirements for individuals 18 
+years of age and older within 30 days of turning 18.  
+  
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-26. Caregiver Orientation. 
+ 
+A.  Caregivers shall complete orientation training in areas relevant to their job responsibilities. 
+
+ 
+
+B.  Orientation shall be completed within 90 business days of employment. 
+
+ 
+
+C.  Orientation shall include all topics within this section. 
+
+ 
+
+D.  The provider shall orient the substitute provider and assistants on the following topics prior to working alone 
+
+with children and within seven (7) days of the date of hire: 
+
+ 
+1.  Job responsibilities; 
+
+ 
+
+2.  Requirements for parental notifications listed in § 59-40; 
+ 
+3.  Standards in this chapter that relate to the substitute provider’s or assistant’s responsibilities; 
+ 
+4.  Location of emergency numbers, first aid kit, and emergency supplies; 
+ 
+5.  Confidential treatment of information about children in care and their families; 
+ 
+6.  Recognizing child abuse and neglect and the legal requirements for reporting suspected child abuse as 
+
+required by § 63.2-1509 of the Code of Virginia; 
+
+ 
+7.  The provider's policies and procedures on the administration of medication; 
+ 
+8.  Emergency preparedness and response planning for emergencies resulting from a natural disaster, or a 
+
+human-caused event such as violence at a family day care home and the home's specific emergency 
+preparedness plan; 
+
+ 
+9.  Prevention and control of infectious diseases; 
+ 
+10.  Prevention of sudden infant death syndrome and use of safe sleep practices; and 
+ 
+11.  Prevention of shaken baby syndrome and abusive head trauma including procedures to cope with 
+
+crying babies or distraught children. 
+
+ 
+
+E.  The provider shall orient the substitute provider and assistant by the end of the first 30 days of assuming job 
+
+responsibilities on the following topics: 
+
+ 
+
+1.  Child development including physical, cognitive, social, and emotional development; behavior 
+
+management; and positive guidance techniques; 
+
+ 
+
+2.  Prevention of and response to emergencies due to food and other allergic reactions including: 
+ 
+
+a.  Recognizing the symptoms of an allergic reaction; 
+
+b.  Responding to allergic reactions; 
+
+ 
+
+ 
+
+59-21 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+c.  Preventing exposure to the specific food and other substances to which the child is allergic; and 
+
+ 
+
+d.  Preventing cross-contamination. 
+
+ 
+3.  Building and physical premises safety, including identification of and protection from hazards that can 
+
+cause bodily injury such as electrical hazards, bodies of water, and vehicular traffic; 
+
+4.  Handling and storage of hazardous materials and the appropriate disposal of diapers and other items 
+
+ 
+
+contaminated by body fluids; and 
+
+ 
+5.  Precautions in transporting children, if applicable. 
+
+ 
+
+F.  Documentation of the orientation shall be signed and dated by the provider and substitute provider or by the 
+
+provider and assistant. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-27. Caregiver Training. 
+ 
+
+A.  Caregivers shall complete a minimum of eight (8) hours of training annually. 
+
+ 
+
+1.  Effective July 1, 2020, caregivers shall complete a minimum of 12 hours of training annually. 
+
+ 
+
+2.  Effective July 1, 2021, caregivers shall complete a minimum of 16 hours of training annually. 
+
+B.  Annual training shall include topics relevant to the caregiver's job responsibilities and the care of children, 
+
+ 
+
+such as: 
+ 
+
+1.  Child development including physical, cognitive, social, and emotional development; 
+
+ 
+
+2.  Behavior management and positive guidance techniques; 
+
+ 
+
+3.  Prevention and control of infectious diseases; 
+
+ 
+
+4.  Prevention of sudden infant death syndrome and use of safe sleep practices; 
+
+ 
+
+5.  Prevention of and response to emergencies due to food and other allergic reactions including: 
+
+ 
+
+a. Recognizing the symptoms of an allergic reaction; 
+
+ 
+
+b. Responding to allergic reactions; 
+
+ 
+
+c. Preventing exposure to the specific food and other substances to which the child is 
+
+allergic; and 
+ 
+
+d. Preventing cross-contamination; 
+
+ 
+
+6.  The home's policies and procedures on the administration of medication; 
+
+ 
+
+7.  Building and physical premises safety, including identification of and protection from hazards that 
+
+can cause bodily injury such as electrical hazards, bodies of water, and vehicular traffic; 
+ 
+
+8.  Prevention of shaken baby syndrome and abusive head trauma including procedures to cope with 
+
+crying babies or distraught children; 
+ 
+
+59-22 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+9.  Signs and symptoms of child abuse and neglect and requirements for mandated reporters; 
+
+ 
+
+10.  Emergency preparedness and response planning for emergencies resulting from a natural disaster, 
+
+or a human-caused event such as violence at a family day home and the home's specific 
+emergency preparedness plan. Training on the home's emergency preparedness plan shall be 
+completed annually and each time the plan is updated; 
+ 
+
+11.  Handling and storage of hazardous materials and the appropriate disposal of diapers and other 
+
+items contaminated by body fluids; 
+ 
+
+12.  Precautions in transporting children, if applicable; and 
+
+ 
+
+13.  The recommended care requirements related to the care and development of children with special 
+
+needs, if applicable. 
+
+ 
+
+C.  CPR and first aid training may count towards the annual training hours required in subsection A of this 
+
+section. 
+ 
+
+D.  Medication Administration Training. 
+
+ 
+
+ 
+
+1.  To safely perform medication administration practices listed in § 59-48 whenever the family day 
+care home has agreed to administer prescription medications or non-prescription medications, the 
+administration shall be performed by a caregiver who: 
+ 
+
+a. Has satisfactorily completed a training program for this purpose developed or approved 
+
+by the Board of Nursing and taught by a registered nurse, licensed practical nurse, doctor 
+of medicine or osteopathic medicine, or pharmacist; or 
+ 
+
+b. Is licensed by the Commonwealth of Virginia to administer medications. 
+
+2.  Caregivers required to have the training shall be retrained at three (3) year intervals. 
+
+ 
+
+E.  Documentation of Education and Training. 
+
+ 
+
+ 
+
+1.  The provider shall maintain written documentation of each caregiver’s applicable education and 
+
+programmatic experience, first aid and CPR certification, orientation, annual training, and 
+applicable medication administration training. 
+
+2.  Written documentation of training shall include: 
+
+ 
+
+a. Name of the caregiver; 
+
+ 
+
+b. Training topic; 
+
+ 
+
+c. Date and total hours of the session; and 
+
+ 
+
+d. Name of the organization that sponsored the training and the trainer. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-23 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-28.  Caregiver and Household Member Health Requirements. 
+ 
+Caregivers and household members shall be subject to the following physical and mental health requirements: 
+ 
+A.  Initial Tuberculosis Screening for Caregivers and Household Members. 
+
+ 
+
+1.  Each caregiver and each adult household member shall submit a current Report of Tuberculosis 
+
+Screening documenting the absence of tuberculosis in a communicable form prior to coming into 
+contact with children. 
+
+ 
+
+2.  The form shall have been completed within the last 30 days and be signed by a physician, physicians’ 
+
+designee, or an official of the local health department. 
+
+ 
+
+B.  Subsequent Tuberculosis Screening for Caregivers and Household Members. 
+
+ 
+
+1.  Each caregiver and adult household member shall submit a current Report of Tuberculosis Screening 
+form every two (2) years from the date of the first screening or more frequently as recommended by a 
+physician or the local health department. 
+
+ 
+
+2.  Within 30 days of a caregiver’s or adult household member’s coming into contact with a known case 
+of infectious tuberculosis, a new Report of Tuberculosis Screening form shall be submitted.  Until a 
+new screening form is issued that documents the absence of tuberculosis in a communicable form, the 
+caregiver or adult household member shall not have contact with children. 
+
+ 
+3.  A new Report of Tuberculosis Screening form shall be submitted for any caregiver or adult household 
+
+member who develops chronic respiratory symptoms of three (3) weeks duration.  Until a new 
+screening form is issued that documents the absence of tuberculosis in a communicable form, the 
+caregiver or adult household member shall not have contact with children. 
+
+ 
+
+C.  Medical Certification for Caregivers and Household Members. 
+
+ 
+
+1.  Each caregiver shall submit a medical certification that they are physically and mentally fit to care for 
+
+children. 
+ 
+
+2.  Each adult household member shall submit a medical certification that they are physically and 
+
+mentally fit to be around children. 
+ 
+
+3.  For providers and adult household members, the medical certification shall be submitted at the time of 
+
+initial application for licensure and prior to coming into contact with children. 
+
+ 
+4.  For substitute providers and assistants, the medical certification shall be submitted at the time of 
+
+employment and prior to coming into contact with children. 
+ 
+
+5.  The certification shall have been completed within the last 30 days and be signed by a physician or 
+
+physician’s designee. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-29. Children’s Health Requirements. 
+ 
+A.  Immunizations for Children. 
+
+ 
+1.  Before a child may attend the family day care home, the provider shall obtain documentation that the child 
+
+has been immunized according to the requirements of § 32.1-46 A of the Code of Virginia and applicable 
+State Board of Health Regulations.   
+
+Code Updated March 2019 
+ 
+ 
+
+59-24 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+a.  The provider may allow a child to attend contingent upon a conditional enrollment. Documentation 
+
+related to the child's conditional enrollment shall be maintained in the child's record. 
+
+ 
+
+b.  Conditional enrollment means the enrollment of a child for a period of 90 days contingent upon the 
+
+child having received at least one dose of each of the required vaccines and the child possessing a plan, 
+from a physician or local health department, for completing his/her immunization requirements within 
+the ensuing 90 calendar days. If the child requires more than two (2) doses of hepatitis B vaccine, the 
+conditional enrollment period, for hepatitis B vaccine only, shall be 180 calendar days. 
+
+ 
+c. 
+
+If a child is homeless and does not have documentation of the required immunizations, the provider 
+may allow the child to attend during a grace period of no more than 90 days to allow the parent or 
+guardian time to obtain documentation of required immunizations. Enrollment of a homeless child 
+without the required immunizations must be documented in the child's record. 
+
+ 
+
+2.  Pursuant to subsection C of § 32.1-46.D of the Code of Virginia, documentation of immunizations is not 
+
+required for any child whose: 
+ 
+a.  Parent submits an affidavit to the provider on the current form approved by the Virginia Department of 
+
+Health stating that the administration of immunizing agents conflicts with the parent’s or child’s 
+religious tenets or practices; or 
+
+ 
+
+b.  Physician or a local health department states on a Department of Health-approved form that one or 
+more of the required immunizations may be detrimental to the child’s health, indicating the specific 
+nature and probable duration of the medical condition or circumstance that contraindicates 
+immunization. 
+
+ 
+
+3.  The provider shall obtain documentation of additional immunizations for a child who is not exempt from 
+
+the immunization requirements according to subsection 2 of this section: 
+
+ 
+
+a.  At least once annually for children under the age of two (2) years; and 
+
+ 
+
+b.  Once between each child’s fourth and sixth birthdays. 
+ 
+
+B.  Physical Examinations for Children. 
+
+ 
+1.  The provider shall obtain documentation of a physical examination by or under the direction of a physician 
+prior to (i) a child’s attendance or (ii) within 30 days after the first day of attendance.  If a child is homeless 
+and does not have documentation of a physical examination, the provider may allow the child to attend 
+during a grace period of no more than 90 days to allow the parent or guardian time to obtain documentation 
+of the required physical examination. Enrollment of a homeless child without documentation of a physical 
+examination must be documented in the child's record. 
+ 
+
+2.  The physical examination prior to attendance shall have been conducted within: 
+
+ 
+a.  Six (6) months prior to attendance for children under the age of two (2) years; 
+
+ 
+
+b.  Twelve (12) months prior to attendance for children two (2) years of age through five (5) years of age; 
+
+or 
+ 
+
+c.  Twenty-four (24) months prior to attendance for children six (6) years of age and above. 
+
+ 
+
+3.  When a child transfers from a facility licensed by the Arlington County Department of Human Services or 
+
+the Virginia Department of Social Services, approved by a licensed family day system, voluntarily 
+registered by the Virginia Department of Social Services, or approved by the Virginia Department of 
+
+Code Updated March 2019 
+ 
+ 
+
+59-25 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+Education, a new physical examination is not required if a copy of the physical examination from the 
+originating program is maintained in the child's record. 
+ 
+
+4.  Pursuant to subsection D of § 22.1-270 of the Code of Virginia, physical examinations are not required for 
+any child whose parent objects on religious grounds. The parent must submit a signed statement noting that 
+the parent objects on religious grounds and certifying that to the best of the parent’s knowledge the child is 
+in good health and free from communicable or contagious disease. 
+ 
+
+5.  For a school age child, a copy of the physical examination required for his/her entry into a Virginia public 
+
+kindergarten or elementary school is acceptable documentation to meet the requirements of this section. 
+ 
+
+C.  Form and Content of Immunization and Physical Examination Reports. 
+
+ 
+1.  The current form approved by the Virginia Department of Health or a physician’s form shall be used to 
+
+record immunizations received and the results of the required physical examination. 
+ 
+
+2.  Each report shall include the date of the physical examination and dates immunizations were received and 
+shall be signed, electronically signed, and/or stamped by a licensed physician, the physician’s designee, or 
+an official of a local health department. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-30. Physical Environment. 
+ 
+A.  Home Maintenance. 
+
+ 
+Areas and furnishings of the family day care home, inside and outside, shall be maintained in a clean, safe, and 
+operable condition. Unsafe conditions shall include, but not be limited to, the presence of poisonous plants; 
+tripping hazards; unstable heavy equipment, furniture, or other items that a child could pull down on himself; 
+splintered, cracked, or otherwise deteriorating wood; chipped or peeling paint; visible cracks, bending or 
+warping, rusting, or breakage of any equipment; head entrapment hazards; and protruding nails, bolts, or other 
+components that could entangle or could snag skin. 
+ 
+
+B.  Telephones. 
+
+ 
+1.  A landline telephone or cell phone shall be available, operable, and accessible during the family day care 
+
+home’s hours of operation. If a cordless telephone or cell phone is used to meet this requirement, a backup 
+power source must be available in case of an extended power outage. 
+
+ 
+
+2. 
+
+If the telephone number is unlisted, the provider shall ensure that parents and the Department have been 
+given the unlisted number in writing. 
+ 
+
+3.  The provider shall inform the Department within 48 hours and parents within 24 hours of a change of the 
+
+telephone number. 
+ 
+ 
+
+C.  Bathrooms. 
+
+ 
+
+1.  The family day care home shall have an indoor bathroom. 
+
+ 
+
+2.  The bathroom shall be easily accessible to children two (2) years of age and older. 
+
+ 
+
+3.  The bathroom shall be kept clean and contain a working toilet and sink, toilet tissue, soap, and towels. 
+
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-26 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+D.  Water Supply. 
+ 
+
+1.  The family day care home shall have indoor running water. 
+
+ 
+
+2.  Family day care homes connected to a municipal water supply and sewer line that have open and obvious 
+
+symptoms of water or sewage system problems shall have the problems corrected within a time frame 
+established by the local public utility department. 
+ 
+
+3.  There shall be hot and cold water available to children and caregivers for hand washing. 
+
+ 
+
+4.  Hot water at taps available to children shall be maintained within a range of 105 degrees Fahrenheit and 
+
+120 degrees Fahrenheit. 
+ 
+
+E.  Garbage. 
+
+ 
+
+1.  Garbage shall be removed on a daily basis from rooms occupied by children and removed from the 
+
+premises at least once weekly or more often as needed. 
+
+ 
+
+2.  There shall be a sufficient number of garbage and diaper containers. Diaper containers must be covered. 
+
+ 
+
+3.  Children shall not be allowed access to garbage storage areas. 
+
+ 
+
+4.  Garbage storage areas shall be free of litter, odor, and uncontained trash. 
+
+ 
+
+F.  Rodents and Insects. 
+
+ 
+
+1.  The home shall be kept free from rodents and insect infestation. 
+
+ 
+
+2.  No home shall maintain any receptacle or pool, whether natural or artificial, containing water in such 
+
+condition that insects breeding therein may become a menace to public health. 
+ 
+
+G.  Heating and Cooling. 
+
+ 
+
+1.  The temperature in all inside areas occupied by children shall be maintained no lower than 65 degrees 
+
+Fahrenheit. 
+
+ 
+
+2.  Fans or other cooling systems shall be used when the temperature of inside areas occupied by children 
+
+exceeds 80 degrees Fahrenheit. 
+ 
+
+3.  Whenever the County Manager shall determine and declare that an energy shortage exists, the minimum 
+
+thermal standards set forth in this section shall be superseded by thermal standards established by the 
+County Manager. Such standards shall be consistent with the nature and extent of the energy shortage and 
+the health and safety of the occupants. These standards shall remain in effect until the County Manager 
+shall declare the emergency is ended.  
+
+ 
+
+H.  Lighting. 
+
+ 
+
+1.  Rooms, halls, and stairways used by children in care shall be lighted with natural or electric lighting for the 
+
+children’s safety and comfort. 
+
+ 
+
+2.  Entrance and exit ways shall be unobstructed and be lighted with natural or electric lighting. 
+
+ 
+ 
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-27 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+I.  Doors. 
+
+ 
+Closet doors with latches shall be such that children can open the door from inside the closet. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-31. Emergency Provisions. 
+ 
+A.  A plan for emergency situations and for illness of staff shall be maintained and made available for County 
+
+inspections. 
+ 
+
+B.  Emergency Information. 
+
+ 
+1.  The emergency contact information and the parent’s written authorization for emergency medical care, 
+
+both as required by § 59-24.E, shall be made available to a physician, hospital, or emergency 
+responders in the event of a child’s illness or injury. 
+ 
+
+2.  Annually, the provider shall: 
+ 
+
+a.  Review with the parent the emergency contact information required in § 59-24.E to ensure the 
+
+information is correct, and 
+
+ 
+b.  Obtain the parent’s signed acknowledgement of the review. 
+
+ 
+
+C.  Posted Telephone Numbers. 
+
+ 
+1.  The following telephone numbers shall be posted in a visible area of the family day care home: 
+
+ 
+
+ 
+
+ 
+
+a.  A 911 or local dial number for police, fire, and emergency medical responders; 
+ 
+b.  The responsible person for emergency backup care as required in §59-22.L.3; and 
+
+c.  The regional poison control center. 
+
+D.  Emergency Preparedness and Response Plan. 
+
+ 
+
+1.  The provider shall review the emergency plan at least annually and update the plan as needed.  The 
+
+provider shall document in writing each review and update to the emergency plan. 
+ 
+
+2.  The provider shall ensure that each caregiver receives training regarding the emergency evacuation, 
+emergency relocation, shelter-in-place, and lockdown procedures by the end of his/her first week of 
+assuming job responsibilities, on an annual basis, and at the time of each plan update. 
+
+ 
+
+E.  Evacuation, Relocation, Shelter-in-place, and Lockdown Procedures. 
+
+ 
+1.  The provider shall establish and follow evacuation, relocation, shelter-in-place, and lockdown 
+
+procedures. 
+ 
+
+2.  Evacuation, relocation, shelter-in-place, and lockdown procedures shall include: 
+
+ 
+
+a.  Methods to alert caregivers and emergency responders; 
+ 
+b.  Designated primary and secondary routes to the safe location/lockdown location within the 
+
+ 
+
+home, or out of the building; 
+
+59-28 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+c.  Designated safe location/lockdown location within the home, assembly point away from the 
+
+building, or relocation site; 
+
+d.  Methods to ensure all children are moved to the safe location/lockdown location within the 
+
+home, evacuated from the building, or moved to a relocation site; 
+
+e.  Methods to account for all children at the safe location/lockdown location within the home, 
+
+assembly point, or relocation site; 
+
+f.  Methods to ensure essential documents, including emergency contact information, 
+
+medications, and supplies are taken to the safe location/lockdown location within the home, 
+assembly point, or relocation site; 
+
+g.  Method of communication with parents and emergency responders;  
+
+h.  Method of communication with parents after the relocation, if necessary; 
+
+i.  Accommodations or special requirements for infants, toddlers, and children with special needs 
+
+to ensure their safety during shelter-in-place, lockdown, evacuation, or relocation; and 
+
+j.  Procedures to reunite children with a parent or authorized person designated by the parent to 
+
+pick up the child. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+F.  Emergency Response Drills. 
+
+ 
+1.  The emergency evacuation procedures shall be practiced monthly with all caregivers and children in 
+
+care during all shifts that children are in care. 
+ 
+
+2.  Shelter-in-place procedures shall be practiced a minimum of twice per year. 
+
+3.  Lockdown procedures shall be practiced at least annually. 
+ 
+4.  Documentation shall be maintained of emergency evacuation, shelter-in-place, and lockdown drills 
+
+that includes: 
+
+Identity of the person conducting the drill; 
+
+a. 
+ 
+b.  The date and time of the drill; 
+
+c.  The method used for notification of the drill; 
+
+d.  The number of caregivers participating; 
+
+e.  The number of children participating; 
+
+f.  Any special conditions simulated; 
+
+g.  The time it took to complete the drill; 
+
+h.  Problems encountered, if any; and 
+
+i.  For emergency evacuation drills only, weather conditions. 
+
+5.  Records of emergency evacuation, shelter-in-place, and lockdown drills shall be maintained for one 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year. 
+
+Code Updated March 2019 
+ 
+ 
+
+59-29 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+G.  Injury Records. 
+
+ 
+1.  The provider shall record in the child’s record an injury or accident sustained by a child while at the 
+
+family day care home that requires first aid or emergency medical or dental treatment. 
+ 
+
+2.  The information recorded shall include the following: 
+ 
+
+a.  Date and time of injury, 
+ 
+b.  Name of injured child, 
+
+c.  Type and circumstances of the injury, 
+
+d.  Caregiver present and action taken, 
+
+e.  Date and time when parents were notified, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f.  Any future action to prevent recurrence of the injury, 
+
+g.  Caregiver and parent signatures or two caregiver signatures, and 
+
+ 
+
+ 
+
+h.  Documentation on how the parent was notified. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-32. First Aid and Emergency Supplies. 
+ 
+A.  The following emergency supplies shall be in the family day care home, accessible to outdoor play areas, on 
+
+field trips, in vehicles used for transportation and wherever children are in care: 
+ 
+
+1.  A first aid kit that contains at a minimum: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+a.  Scissors; 
+ 
+
+b.  Tweezers; 
+
+c.  Gauze pads; 
+
+d.  Adhesive tape; 
+
+e.  Adhesive bandages, assorted sizes; 
+
+f.  Antiseptic cleaning solution or pads; 
+
+g.  Digital thermometer; 
+
+h.  Triangular bandage; 
+
+i.  Single use gloves such as surgical or examination gloves; 
+
+j.  First aid instructional manual. 
+
+2.  An ice pack or cooling agent. 
+
+ 
+
+59-30 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+B.  The first aid kit shall be readily accessible to caregivers and inaccessible to children. 
+
+ 
+
+C.  A working battery-operated flashlight, a working portable battery-operated radio, and extra batteries shall be 
+
+kept in a designated area and be available to caregivers at all times. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-33. Safety. 
+ 
+A.  No equipment, materials, or furnishings shall be used if recalled or identified by the U.S. Consumer Product 
+
+Safety Commission as being hazardous. 
+ 
+
+B.  Potentially poisonous substances, materials and supplies such as, but not limited to, cleaning agents, 
+
+disinfectants, deodorizers, plant care chemicals, pesticides, and petroleum distillates shall be stored away from 
+food in areas inaccessible to children. 
+ 
+
+C.  Sharp kitchen utensils and other sharp objects shall be inaccessible to children unless being used by the 
+
+caregiver or with children under close supervision. 
+ 
+
+D.  When any surface has been contaminated with body fluids, it shall be cleaned and sanitized. 
+
+ 
+
+E.  Machinery in operation such as lawnmowers and power tools shall be inaccessible to the children in care. 
+
+ 
+
+F.  Hanging, Suffocation and Strangulation Hazards. 
+
+ 
+
+1.  Hanging items including, but not limited to, window blind or curtain cords, appliance cords, and ropes 
+
+shall be out of reach of children under five (5) years of age. 
+ 
+
+2.  Children shall be protected from materials that could be swallowed or present a choking hazard.  Small 
+
+3. 
+
+toys or objects shall be kept out of reach of children under the age of three (3) years. 
+ 
+Items tied across the top or corner of a crib or playpen or toys hung from the sides with strings or cords 
+shall be removed when the child begins to push up on hands and knees or is five (5) months of age, 
+whichever occurs first. 
+ 
+
+4.  Hood or neck drawstrings shall be removed from a child’s clothing prior to a child’s using climbing 
+
+play equipment. 
+ 
+
+5.  Latex gloves, balloons, and empty plastic bags large enough for a child’s head to fit inside shall be 
+
+inaccessible to children under five (5) years of age. 
+ 
+
+G.  Fire Safety and Shock Prevention. 
+
+ 
+
+1.  Small electrical appliances shall be unplugged unless being used by the caregiver or with children 
+
+under close supervision. 
+ 
+
+2.  Child-resistant protective covers shall be installed on all unused electrical outlets and surge protectors 
+
+accessible to children under five (5) years of age. 
+ 
+
+3.  No electrical device accessible to children shall be placed so that it could be plugged into an electrical 
+
+outlet while in contact with a water source, such as a sink, tub, shower area, toilet, or swimming or 
+wading pool. 
+ 
+
+4.  Electrical cords and electrical appliances and equipment with cords that are frayed and have exposed 
+
+wires shall not be used. 
+
+59-31 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+5.  Radiators, oil and wood burning stoves, floor furnaces, fireplaces, portable electric heaters, and similar 
+
+heating devices located in areas accessible to children shall have barriers or screens and be located at 
+least three (3) feet from combustible materials. 
+ 
+
+6.  Unvented fuel burning heaters shall not be used when children are in care. Unvented fuel burning 
+heaters include, but are not limited to, portable oil-burning (kerosene) heaters; portable, unvented 
+liquid or gas fueled heaters; and unvented fireplaces. 
+ 
+
+7.  All flammable and combustible materials such as, but not limited to, matches, lighters, lighter fluid, 
+
+kerosene, turpentine, oil and grease products, aerosol cans, and alcohol shall be stored in an area 
+inaccessible to children. 
+ 
+
+9. 
+
+8.  There must be an operable smoke detector on each level of the home and a fire extinguisher in the 
+home, as required by the Uniform Statewide Building Code and Statewide Fire Prevention Code. 
+ 
+If there are open and obvious fire hazards, including the absence of fire extinguishers or smoke 
+detectors as required by the Uniform Statewide Building Code and the Statewide Fire Prevention 
+Code, the local fire prevention or building officials, or the State Fire Marshal’s office shall be 
+contacted by the Department’s representative.  The provider shall comply with the requirements or 
+recommendations made by the fire prevention or building officials to eliminate fire hazards. 
+ 
+
+H.  Firearms and Ammunition. 
+
+ 
+
+1.  Firearms of every type and purpose shall be stored unloaded in a locked container, compartment, or 
+
+cabinet, and apart from ammunition. 
+ 
+
+2.  Ammunition shall be stored in a locked container, compartment, or cabinet during the family day care 
+
+home’s hours of operation. 
+ 
+If a key is used to lock the container, compartment, or cabinet, the key shall be inaccessible to children. 
+ 
+
+3. 
+
+I.  Stairs 
+
+ 
+
+1.  Children under two (2) years of age and children over two (2) years of age who are not 
+
+developmentally ready to climb or descend stairs without supervision shall not have access to stairs. 
+ 
+
+2.  Accordion expansion gates and pressure mounted gates shall not be used as protective barriers at stair 
+
+openings. 
+ 
+
+3.  Children over the age of two (2) shall not have access to stairs with three (3) or more risers that do not 
+
+have protective barriers or guardrails on each side. 
+ 
+
+4.  Protective barriers or guardrails on sides of stairs shall be constructed to prevent a child from climbing 
+
+over, crawling or falling through, or becoming entrapped. 
+ 
+
+J.  Decks and Porches. 
+
+ 
+
+1.  Protective barriers or guardrails shall be constructed to prevent a child from climbing over, crawling or 
+
+falling through, or becoming entrapped. 
+ 
+
+2.  Children shall not have access to decks, porches, lofts, or balconies that do not have protective barriers 
+
+or guardrails. 
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+
+Code Updated March 2019 
+ 
+ 
+
+59-32 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-34. Play Space, Equipment and Materials. 
+ 
+A.  The family day care home shall provide each child with space to allow free movement and active play indoors 
+
+and out. 
+ 
+
+B.  Each child who is two (2) years of age and older shall have access to an individual location in which to keep 
+
+clothing, toys, and belongings. 
+
+ 
+
+C.  Each child who is under the age of two (2) shall have an individual location in which to keep clothing, toys, and 
+
+belongings that is accessible to the caregiver and parent. 
+ 
+
+D.  The family day care home shall provide a sufficient quantity and variety of play materials and equipment that 
+
+shall be readily accessible to children. 
+
+ 
+
+E.  Equipment and materials used by a child shall be appropriate to the age, size, ability, and interest of the child. 
+ 
+F.  Equipment used by children shall be assembled, maintained, and used in accordance with the manufacturer’s 
+
+instructions. 
+
+ 
+
+G.  Equipment and materials used by children shall be clean, nontoxic, and free from hazards such as lead paint, 
+
+sharp edges or points, loose parts, and rust. 
+
+ 
+
+H.  Toys mouthed by children shall be cleaned and sanitized daily. 
+
+ 
+
+I.  The climbing portions of indoor slides and climbing equipment over 18 inches high shall not be over bare floor. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-35. Provider-Owned Outdoor Play Area and Equipment. 
+
+ 
+
+A.  Provider-owned outdoor play equipment shall be maintained in a clean, safe, and operable condition. 
+
+ 
+
+B.  The highest climbing rung or platform on provider-owned outdoor climbing equipment or top of a slide shall 
+
+not exceed six (6) feet for school age children and four (4) feet for preschool children. 
+
+ 
+
+C.  Stationary provider-owned outdoor playground equipment shall: 
+
+ 
+1.  Not be installed over concrete, asphalt, or any other hard surface; 
+
+ 
+
+2.  Be placed at least six (6) feet from the perimeter of other play structures or obstacles; and 
+
+ 
+
+3.  Be firmly anchored with ground supports that are covered with materials to protect children from 
+
+injury. 
+ 
+
+D.  Provider-owned sandboxes shall be covered when not in use. 
+
+ 
+
+E.  Trampolines shall not be used during the hours children are in care. 
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-36. Health Procedures.  
+
+ 
+
+A.  Each provider shall have a State Health Department “Communicable Disease Chart,” which can be obtained 
+
+online, and a State Health and Education Department flip chart “Suggestions for Temporary Care of 
+Emergencies in Schools,” which can be obtained from the Department. 
+
+Code Updated March 2019 
+ 
+ 
+
+59-33 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+B.  Preventing the Spread of Disease. 
+
+ 
+
+1.  Exclusion of Sick Children. 
+
+ 
+
+a. Unless otherwise approved by a child’s health professional, a child shall be excluded from the 
+
+family day care home if he/she has: 
+ 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+Both fever and behavior change. A fever means oral temperature over 101 degrees 
+Fahrenheit or armpit temperature over 100 degrees Fahrenheit; 
+ 
+Diarrhea (more watery, less formed, more frequent stools not associated with a 
+diet change or medication).  Children in diapers who develop diarrhea shall be 
+excluded, and children who have learned to use the toilet, but cannot make it to the 
+toilet in time, shall also be excluded; 
+ 
+Recurrent vomiting (vomiting two (2) or more times in 24 hours); or 
+ 
+Symptoms of a communicable disease listed in the Virginia Department of 
+Health’s current communicable disease chart, which can be obtained online. 
+ 
+
+b. If a child needs to be excluded according to subsection a of this section, the following shall 
+
+apply: 
+ 
+
+i. 
+
+ii. 
+
+The parents or designated emergency contact shall be contacted immediately so that 
+arrangements can be made to remove the child from the family day care home as 
+soon as possible; and 
+ 
+The child shall remain in a quiet, designated area and the caregiver shall respond 
+immediately to the child until the child leaves the family day care home. 
+
+ 
+
+C.  Hand Washing. 
+
+ 
+
+1.  Caregivers shall wash their hands with soap and warm running water: 
+
+ 
+
+a. When their hands are dirty; 
+
+ 
+
+b. After toileting; 
+
+ 
+
+c. Before preparing and serving food; 
+
+ 
+
+d. Before feeding or helping children with feeding; 
+
+ 
+
+e. After contact with any body fluids; 
+
+ 
+
+f. After handling or caring for animals; 
+
+ 
+
+g. After handling raw eggs or meat; and 
+
+ 
+
+h. After diapering a child or assisting a child with toileting. 
+
+ 
+
+2.  Caregivers shall ensure that children’s hands are washed with soap and warm running water: 
+
+ 
+
+a. When their hands are dirty; 
+
+ 
+
+59-34 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+b. Before eating; 
+
+ 
+
+c. After toileting or diapering; 
+
+ 
+
+d. After handling or caring for animals; and 
+
+ 
+
+e. After contact with any body fluids. 
+
+ 
+
+D.  Diapering and Toileting. 
+
+ 
+
+1.  A child shall not be left unattended on a changing table during diapering. 
+
+ 
+
+2.  When a child’s clothing or diaper becomes wet or soiled, the child shall be cleaned and changed 
+
+immediately. 
+ 
+
+3.  During each diaper change or after toileting accidents, the child’s genital area shall be thoroughly 
+
+cleaned with a moist disposable wipe or a moist, clean individually assigned cloth, if the child is 
+allergic to disposable wipes. 
+ 
+
+4.  The diapering surface shall be: 
+
+ 
+
+a. Separate from the kitchen, food preparation areas, or surfaces used for children’s activities; 
+
+ 
+
+b. Nonabsorbent and washable; and 
+
+ 
+
+c. Cleaned and sanitized after each use. 
+
+ 
+
+5.  Soiled disposable diapers and wipes shall be disposed of in a covered, leak-proof or plastic-lined 
+
+storage system that is either foot operated or used in such a way that neither the caregiver’s hand nor 
+the soiled diaper or wipe touches the exterior surface of the storage system during disposal. 
+ 
+
+6.  When cloth diapers are used, a separate leak-proof storage system as specified in subsection 5 of this 
+
+section shall be used for each individual child. 
+ 
+
+7.  Children five (5) years of age and older shall be permitted privacy when toileting. 
+
+ 
+
+8.  Caregivers shall respond promptly to a child’s request for toileting assistance. 
+
+ 
+
+9.  The provider shall consult with the parent before toilet training is initiated. 
+
+ 
+
+10.  Toilet training shall be relaxed and pressure free. 
+
+ 
+
+11.  There shall be a toilet chair or an adult-sized toilet with a platform or steps and adapter seat available 
+
+to a child being toilet trained. 
+ 
+
+12.  Toilet chairs, when used, shall be emptied promptly, cleaned and sanitized after each use. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-37. Supervision of Children. 
+ 
+A.  A caregiver shall be physically present on site and provide direct care and supervision of each child at all times. 
+
+Direct care and supervision of each child includes: 
+
+ 
+
+1.  Awareness of and responsibility for each child in care, including being near enough to intervene if 
+
+Code Updated March 2019 
+ 
+ 
+
+59-35 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+needed; and 
+
+ 
+
+2.  Monitoring of each sleeping infant in one of the following ways: 
+
+a. By placing each infant for sleep in a location where the infant is within sight and hearing of a 
+
+caregiver; 
+ 
+
+b. By in-person observation of each sleeping infant at least once every 15 minutes; or 
+
+ 
+
+ 
+
+c. By using a baby monitor. 
+
+ 
+
+B.  Caregivers shall actively supervise each child during outdoor play to minimize the risk of injury to a child. 
+ 
+C.  Infants shall be protected from older children. 
+ 
+D.  No children under five (5) years of age or a child older than five (5) who lacks the motor skills and strength to 
+
+avoid accidental drowning, scalding, or falling while bathing shall be left unattended while in the bathtub. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-38. Staff-to-Child-Ratios. 
+ 
+A.   Determining Need for Additional Caregiver. 
+
+ 
+
+1.  The provider shall ensure that a caregiver does not exceed 12 points by using the following point 
+
+system to determine if an additional caregiver is needed: 
+ 
+
+a.  Children from birth up to two (2) years of age shall count as three (3) points each; 
+
+b. Children from two (2) through four (4) years of age shall count as two (2) points each; 
+
+c. Children from five (5) years through nine (9) years of age shall count as one (1) point each; and 
+
+d. Children who are 10 years of age and older shall count as zero (0) points each. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+2.  A caregiver’s own children and resident children under 10 years of age shall count in point maximums. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-39. General Requirements for Programs. 
+ 
+A.  In order to promote the child’s physical, intellectual, emotional, and social well-being and growth, caregivers 
+
+shall: 
+ 
+
+1.  Talk to the child; 
+
+ 
+
+2.  Provide needed help, comfort, and support; 
+
+3.  Respect personal privacy; 
+
+4.  Respect differences in cultural, ethnic, and family background; 
+
+5.  Encourage decision-making abilities; 
+
+6.  Promote ways of getting along; 
+
+59-36 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+ 
+
+7.  Encourage independence and self-direction; and 
+
+8.  Use consistency in applying expectations. 
+ 
+
+B.  Caregivers shall provide age-appropriate activities for children in care throughout the day that: 
+
+ 
+1.  Are based on the physical, social, emotional, and intellectual needs of the children; 
+
+ 
+
+2.  Reflect the diversity of enrolled children’s families, culture, and ethnic backgrounds; and 
+
+ 
+
+3.  Enhance the total development of children. 
+
+ 
+C.  Daily age-appropriate activities shall include: 
+
+ 
+
+1.  Opportunities for alternating periods of indoor active and quiet play depending on the ages of the 
+
+children; 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.  Opportunities for vigorous outdoor play daily, depending upon the weather, the ages, and the health of 
+
+the children; 
+
+3.  Opportunities for one or more regularly scheduled rest or nap periods. Children unable to sleep shall be 
+
+provided time and space for quiet play; 
+
+4.  Opportunities for children to learn about themselves, others, and the world around them; 
+
+5.  Opportunities for children to exercise initiative and develop independence in accordance with their 
+
+ages; and 
+
+6.  Opportunities for structured and unstructured play time and provider-directed and child-initiated 
+
+learning activities. 
+
+ 
+D.  Daily Activities for Infants and Toddlers. 
+
+ 
+
+1. 
+
+ 
+
+ 
+
+ 
+2. 
+
+Infants and toddlers shall be provided with opportunities to: 
+ 
+a. 
+
+Interact with caregivers and other children in the home in order to stimulate language 
+development; 
+
+ 
+
+b.  Play with a wide variety of safe, age-appropriate toys; 
+
+c.  Receive individual attention from caregivers including, but not limited to, holding, cuddling, 
+
+talking, and reading; and 
+
+d.  Reach, grasp, pull up, creep, crawl, and walk to develop motor skills. 
+
+Infants and toddlers shall spend no more than 30 minutes of consecutive time during waking hours, 
+with the exception of mealtimes, confined in a crib, play pen, high chair or other confining piece of 
+equipment. The intervening time period between confinements shall be at least one hour. 
+ 
+
+E.  Television, Computers, Videos, and Video Games. 
+
+ 
+1.  Use of media such as, but not limited to, television, videos, video games, and computers shall be: 
+
+ 
+
+a.  Limited to not more than a total of two (2) hours per day; and 
+
+59-37 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+b.  Limited to programs, tapes, websites, and software that are age appropriate and educational. 
+
+ 
+2.  Other activities shall be available to children during television or video viewing. 
+
+ 
+
+F.  Care of a Child with Special Needs. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.  Caregivers shall provide a child with special needs with the care and activities recommended in writing 
+
+by a physician, psychologist, or other professional who has evaluated or treated the child. 
+
+2.  The written recommendation shall: 
+
+a. 
+
+Include instructions for any special treatment, diet, or restrictions in activities that are necessary 
+for the health of the child; and 
+
+ 
+b.  Be maintained in the child’s record. 
+
+ 
+3.  The provider shall ensure the environment is appropriate for the child based on the plan of care and 
+
+shall instruct other caregivers in the proper techniques of care. 
+
+4.  A caregiver shall perform only those procedures and treatments for which he/she has the necessary 
+
+training, experience, credentials, or license to perform. 
+
+ 
+5.  Staffing shall be appropriate and adequate to meet the specific physical and developmental needs of a 
+
+child with special needs in care. 
+
+ 
+6.  The provider and the parent of the child with special needs shall mutually determine a recommendation 
+for the level of staffing necessary to care for and supervise the child based on the child’s chronological 
+and functional age and degree of disability. 
+
+ 
+7.  Within 30 days of the child’s enrollment, the provider shall provide the Department’s representative a 
+
+written recommendation for the level of staffing necessary to care for and supervise the child. 
+
+ 
+8.  The Department shall make the final decision regarding the level of staffing or any capacity limitations 
+
+necessary to care for, supervise, and protect all children in care when a child with special needs is 
+receiving care. 
+
+ 
+9.  The parent, provider, and Department’s representative shall review the staffing requirements annually. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-40. Parental Notification. 
+ 
+
+A.  Caregivers shall provide written or oral information daily to parents about the child’s health, development, 
+
+behavior, adjustment, or needs. 
+ 
+
+B.  The provider shall give parents prior notice when a substitute provider will be caring for the children. 
+
+ 
+
+C.  Caregivers shall notify parents when persistent behavioral problems are identified and such notification 
+
+shall include any disciplinary steps taken in response. 
+ 
+
+D.  The provider shall notify the parent immediately when the child: 
+
+ 
+1.  Has a head injury or any serious injury that requires emergency medical or dental treatment; 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-38 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+2.  Has an adverse reaction to medication administered; 
+ 
+3.  Has been administered medication incorrectly; 
+ 
+4. 
+ 
+5.  Has died. 
+
+Is lost or missing; or 
+
+ 
+
+E.  The provider shall notify a parent the same day whenever first aid is administered to the child. 
+
+ 
+
+F.  When a child has been exposed to a communicable disease listed in the Virginia Department of Health’s 
+
+current communicable disease chart, the provider shall notify the parent within 24 hours or the next 
+business day of the family day care home’s having been informed, unless forbidden by law, except for life-
+threatening diseases, which must be reported to parents immediately.  The provider shall consult the local 
+health department if there is a question about the communicability of a disease. 
+ 
+
+G.  A parent shall be notified immediately of any confirmed or suspected allergic reaction and the ingestion of 
+
+prohibited food even if a reaction did not occur. 
+ 
+
+H.  Parents shall be informed of any changes in the family day care home’s emergency preparedness and 
+
+response plan. 
+ 
+
+I.  Except in emergency evacuation or relocation situations, the provider shall inform the parent and have 
+
+written permission as required by § 59-53.A whenever the child will be taken off the premises of the family 
+day care home, before such occasion. 
+ 
+If an emergency evacuation or relocation is necessary, the parent shall be informed of the child’s 
+whereabouts as soon as possible. 
+
+J. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+
+ 
+§ 59-41. Behavior Management. 
+
+ 
+
+A.   In order to promote the child’s physical, intellectual, emotional, and social well-being and growth, staff 
+
+shall:  
+ 
+
+1.  Respect differences in cultural, ethnic and family backgrounds; 
+
+ 
+
+2.  Use acceptable techniques and approaches to help children solve problems; 
+
+ 
+
+3.  Guide children in a way as to help children develop self-control and assume responsibility for 
+
+his/her actions through clear and consistent rules and limits appropriate to the ages and 
+development of children in care. 
+ 
+
+B.  When a child’s behavior harms or is likely to result in harm to the child, others or property, or seriously 
+
+disrupts the environment, the child may be separated briefly in order for the child to regain self-control. If a 
+child is separated, the child must be placed in an area where he or she is in direct supervision of the provider 
+or other caregivers. 
+ 
+
+C.  When time out is used as a discipline technique, it shall: 
+
+ 
+
+1.  Be used sparingly and shall not exceed one (1) minute for each year of the child’s age; 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-39 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+2.  Be appropriate to the child’s developmental level and individual needs; 
+
+ 
+
+3.  Not be used with infants and toddlers; 
+
+ 
+
+4.  Be in a safe, lighted, well-ventilated place where the child is in direct sight and sound supervision 
+
+of a caregiver; and 
+ 
+
+5.  Not occur where the child is left alone inside or outside of the home while separated from the 
+
+group. 
+ 
+
+D.  Any abuse and maltreatment of a child is prohibited. The provider must prohibit any act of abuse or 
+
+maltreatment by any caregiver. 
+ 
+
+E.  The following actions or threats to children are prohibited: 
+
+ 
+
+1.  Physical punishment, such as but not limited to striking, biting, shaking, twisting, squeezing, or 
+
+roughly handling a child; 
+ 
+
+2.  Physical restraint or any restriction of a child’s movement through binding or tying; 
+
+ 
+
+3.  Forcing a child to assume an uncomfortable position, or exercise as punishment; 
+
+4. 
+
+ 
+Isolating a child in a small confined space or any space in which the child cannot freely exit; 
+however, this does not apply to the use of equipment such as cribs, play yards, high chairs, 
+and safety gates when used with children preschool age or younger for their intended purpose; 
+ 
+
+5.  Punishment by another child; 
+
+ 
+
+6.  Separating a child from the group in which the child is not in direct supervision of staff; 
+
+ 
+
+7.  Withholding or forcing of food or rest; 
+
+ 
+
+8.  Methods of discipline or interaction which frighten, humiliate or are demeaning to the child; and 
+
+ 
+
+9.  Punishment for toileting accidents. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-42. Nutrition and Food Services. 
+ 
+
+A.  General Requirements for Meals and Snacks. 
+
+ 
+
+1.  The provider shall schedule snacks or meals so there is a period of at least 1-1/2 hours, but no more 
+than three (3) hours, between each meal or snack unless there is a scheduled rest or sleep period for 
+children between the meals and snacks. 
+ 
+
+2.  The provider shall ensure that children arriving from a half-day, morning program who have not yet 
+
+eaten lunch receive a lunch. 
+ 
+
+3.  Leftover food shall be discarded from individual plates following a meal or snack. 
+ 
+4.  Tables and high chair trays shall be cleaned after each use, but at least daily. 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-40 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+5.  Food shall be prepared, stored, served, and transported in a clean and sanitary manner. 
+
+6.  When food is prepared that a child in care is allergic to, the caregiver shall take steps to avoid cross-
+
+contamination in order to prevent an allergic reaction. 
+
+7.  Caregivers who prepare and serve food to children, or supervise meals, shall be aware of the food 
+
+allergies, sensitivities, and dietary restrictions for each child. 
+
+8.  Caregivers shall not serve prohibited food to a child. 
+
+ 
+
+ 
+
+ 
+
+B.  Meals and Snacks Provided by the Family Day Care Home. 
+ 
+
+When family day care homes provide meals or snacks, the following shall apply: 
+
+ 
+
+1.  The provider shall follow the most recent, age-appropriate nutritional requirements of a recognized 
+
+authority such as the Child and Adult Care Food Program of the United States Department of 
+Agriculture (USDA). 
+
+ 
+
+2.  Children shall be allowed second helpings of food listed in the child care food program meal patterns. 
+ 
+
+C.  Meals and Snacks Brought from Child’s Home. 
+ 
+
+When food is brought from home, the following shall apply: 
+
+ 
+
+1.  The food container shall be clearly labeled in a way that identifies the owner; 
+ 
+2.  The provider shall have extra food or shall have provisions to obtain food to serve to a child so the 
+
+child can have an appropriate snack or meal as required in § 59-42.B.1 if the child forgets to bring food 
+from home or brings an inadequate meal or snack; and 
+
+3.  Unused portions of food shall be discarded by the end of the day or returned to the parent. 
+ 
+
+D.  Prevention of Choking. 
+ 
+
+1.  To assist in preventing choking, food that is hard, round, small, thick and sticky, or smooth and 
+
+slippery such as whole hot dogs sliced into rounds, nuts, seeds, raisins, uncut grapes, uncut raw carrots, 
+peanuts, chunks of peanut butter, hard candy, and popcorn shall not be served to children under four 
+(4) years of age, unless the food is prepared before being served in a manner that will reduce the risk of 
+choking, i.e., hot dogs cut lengthwise, grapes cut into small pieces, and carrots cooked or cut 
+lengthwise. 
+ 
+
+2.  Children shall be served small-sized portions to prevent choking. 
+
+3.  Children shall not be allowed to eat or drink while walking, running, playing, lying down, or riding in 
+
+vehicles. 
+
+ 
+
+E.  Drinking Water and Fluids. 
+ 
+
+1.  Water shall be available for drinking and shall be offered on a regular basis to all children in care. 
+
+2. 
+
+ 
+In environments of 80 degrees Fahrenheit or above, attention shall be given to the fluid needs of 
+children at regular intervals.  Children in such environments shall be encouraged to drink fluids. 
+
+ 
+3.  Clean individual drinking cups shall be provided daily.  Children shall not be allowed to share 
+
+common drinking cups. 
+
+Code Updated March 2019 
+ 
+ 
+
+59-41 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+F.  Eating Utensils and Dishes. 
+ 
+
+1.  Eating utensils shall be appropriate in size for children to handle. 
+
+ 
+
+ 
+
+ 
+
+2.  Eating utensils and dishes shall be properly cleaned by prerinsing, washing, and air drying, or using a 
+
+dishwasher. 
+
+ 
+3.  Disposable utensils and dishes shall be used once and discarded. 
+
+G.  Food storage. 
+ 
+
+1.  Temperatures shall be maintained at or below 40 degrees Fahrenheit in refrigerator compartments and 
+
+at or below 0 degrees Fahrenheit in the freezer compartments. 
+ 
+
+2.  The provider shall have an operable thermometer available to monitor refrigerator and freezer 
+
+compartment temperatures. 
+
+3.  All perishable foods and drinks used for children in care, except when being prepared and served, shall 
+
+be kept in the refrigerator. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-43. Infant Feeding. 
+ 
+A.  Infants shall be fed on demand unless the parent provides other written instructions. 
+
+ 
+
+B.  Infants who cannot hold their own bottles shall be picked up and held for bottle feeding.  Bottles shall not be 
+
+propped. 
+
+ 
+C.  High chairs, infant carrier seats, or feeding tables with safety waist and crotch straps fastened according to the 
+
+manufacturer’s instructions shall be used for children under 12 months of age who are not held while being fed. 
+
+ 
+D.  Infant formula shall be prepared according to the manufacturer’s or physician’s instructions. 
+ 
+E.  Bottles shall be refrigerated and labeled with the child’s full name and the date, if more than one (1) infant is in 
+
+care. 
+
+ 
+F.  Refrigerated bottles of prepared formula and breast milk shall be discarded after 48 hours if not used. 
+ 
+G.  Bottles shall not be heated in a microwave oven. 
+ 
+H.  To avoid burns, heated formula and baby food shall be stirred or shaken and tested for temperature before being 
+
+served to children. 
+
+ 
+I.  Solid foods shall: 
+ 
+
+1.  Not be fed to infants less than four (4) months of age without parental consent, and 
+
+ 
+
+2.  Be fed with a spoon, with the exception of finger foods. 
+
+ 
+J.  Baby food remaining in: 
+ 
+
+1.  A serving dish shall be discarded. Baby food may be served from the container, but any food 
+
+remaining after the child is done eating shall be discarded; 
+
+59-42 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+ 
+
+ 
+
+2.  Opened containers, from which a portion has been removed but not from which food was served, shall 
+
+be refrigerated and labeled with the child’s full name and the date, if more than one (1) infant is in 
+care; and 
+
+3.  Opened containers stored in the refrigerator shall be discarded if not consumed within 24 hours of 
+
+storage. 
+
+K.  The consistency of food provided for a child with special needs shall be appropriate to any special feeding 
+
+needs of the child. 
+
+ 
+
+L.  Necessary and adaptive feeding equipment and feeding techniques shall be used for a child with special feeding 
+
+needs. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-44. Infant and Toddler Equipment. 
+  
+A. 
+
+Infant carrier seats, swings, strollers, feeding or activity tables, and high chairs shall be used according to 
+the manufacturer’s instructions and when occupied by a child, a safety strap shall be used and securely 
+fastened. 
+
+ 
+
+B. 
+
+C. 
+
+Infant walkers shall not be used. 
+ 
+Play Pens. 
+
+1. 
+
+ 
+A play pen, where used, shall: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a. Have a firm floor with a secured, waterproof pad that is not more than one-inch thick; 
+
+b. Have the sides up and the fastenings secured when a child is in the play pen, except when the 
+
+caregiver is giving the child immediate attention; 
+
+c. Be cleaned and sanitized each day of use or more often as needed; 
+
+d. Not be occupied by more than one child; 
+
+e. Not be used for the designated sleeping area; 
+
+f. Not have torn mesh sides or vinyl-covered or fabric-covered rails, protruding rivets on the 
+
+rails, or broken hinges; 
+
+g. Not contain any pillows or filled comforters; 
+
+h. Not contain large toys and other objects that can serve as a steeping stool for climbing out 
+
+when a child can pull to a standing position; 
+
+i.  Not be used by children who weigh 30 pounds or more; and 
+
+j.  Not be used by children who are 35 inches tall or taller. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-43 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+§ 59-45. Cribs, Cots, Rest Mats, and Beds. 
+ 
+A.  A child shall be provided with an individual crib, cot, rest mat, or bed for resting or napping. 
+
+B.  Upper levels of double-deck beds shall not be used. 
+
+ 
+
+ 
+
+C.  Rest mats that are used must have at least one (1) inch of cushioning. 
+
+ 
+
+D.  Rest mats shall be cleaned and sanitized on all sides at least weekly and as needed. 
+ 
+E.  Cribs shall be provided for children from birth through 12 months of age and for children over 12 months of age 
+
+who are not developmentally ready to sleep on a cot, rest mat, or bed. 
+
+ 
+
+F.  Cribs shall not be used as a play space for infants. 
+ 
+G.  Occupied cribs, cots, rest mats, and beds shall be: 
+
+ 
+1.  At least three (3) feet from any heat-producing appliance; and 
+
+ 
+
+2.  At least 12 inches from each other. 
+
+ 
+H.  Cribs shall: 
+ 
+
+1.  Meet the U.S. Consumer Product Safety Commission standards at the time they were manufactured; 
+
+2.  Not have been recalled; 
+
+ 
+
+3.  Have mattresses that fit snugly next to the crib so that no more than two (2) fingers can be inserted 
+
+between the mattress and the crib; 
+
+4.  Not have end panel cutouts of a size to cause head entrapment; and 
+
+ 
+
+ 
+
+ 
+
+5.  Not have mesh sides. 
+
+ 
+I.  Double-deck cribs shall not be used. 
+
+ 
+
+J.  Crib bumper pads shall not be used. 
+ 
+K.  Crib sides shall always be up and the fastenings secured when a child is in the crib, except when the caregiver is 
+
+giving the child immediate attention. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-46. Linens. 
+ 
+A.  Cribs, cots, rest mats, and beds when being used for sleeping or napping by children other than infants shall 
+
+have linens consisting of a top cover and a bottom cover or a one-piece covering that is open on three (3) edges. 
+
+B.  Cribs when being used by infants shall have a tight-fitting bottom cover. 
+
+ 
+
+ 
+
+C.  Linens shall be assigned for individual use. 
+
+ 
+
+D.  Linens shall be clean and washed at least weekly or when soiled. 
+
+ 
+
+E.  Clean linens shall be used each time a child rests on the bed of a family member. 
+
+59-44 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+F.  No soft bedding of any kind shall be used under or around infants including, but not limited to, pillows, quilts, 
+
+comforters, sheepskins, or stuffed toys. 
+
+ 
+
+G.  Children under two (2) years of age shall not use pillows or filled comforters. 
+
+ 
+
+H.  Pillows, when used for children over two (2) years of age, shall be assigned for individual use and covered with 
+
+pillowcases. 
+
+ 
+
+I.  Mattresses, when used, shall be covered with a waterproof material that can be cleaned and sanitized. 
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-47. Sleeping and Resting Requirements. 
+
+ 
+
+A.  Infants shall be placed on their backs when sleeping or napping unless otherwise ordered by a written statement 
+
+signed by the child’s physician. 
+
+ 
+
+B.  An infant, toddler, or preschool child who falls asleep in a play space other than his/her own crib, cot, mat, or 
+
+bed shall be moved promptly to his/her designated sleeping space if the safety or comfort of the infant, toddler, 
+or preschool child is in question. 
+
+ 
+
+C.  School age children shall be allowed to nap if needed, but not forced to do so. 
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-48. Medication.  
+
+A.  Administration of Medication. 
+
+ 
+
+ 
+
+1.  Prescription and nonprescription medication shall be administered by a trained staff only in accordance 
+
+with the following: 
+ 
+
+a.  The provider’s written medication policies; and 
+
+ 
+
+b.  Written authorization from the parent(s). 
+
+ 
+
+2.  Medication shall be administered by a trained caregiver who is 18 years of age or older. 
+
+ 
+
+3.  Nonprescription medication shall be administered by a caregiver who meets the requirements in 59-
+
+27.D. 
+ 
+
+4.  The caregiver may only administer prescription medications that are dispensed from a pharmacy and 
+
+maintained in the original, labeled container. 
+ 
+
+5.  Prescription medication shall only be administered to the child identified on the prescription label in 
+
+accordance with the prescriber’s instructions pertaining to dosage, frequency, and manner of 
+administration. 
+ 
+
+6.  Outdated or expired medication shall not be administered to the child unless otherwise authorized by 
+
+emergency personnel or the child’s physician for emergency purposes only. 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-45 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+B.  Receipt of Medication. 
+
+ 
+
+1.  All providers that choose to administer medication shall meet the following upon receipt of 
+
+medication: 
+ 
+
+a.  Medication shall be labeled with the child’s first and last name, the name of the medication, 
+
+the dosage amount and the time(s) to be given. 
+ 
+
+b.  Nonprescription medication shall be in the original container with the direction label attached, 
+
+and be consistent with the manufacturer's instructions.  
+ 
+
+c.  A written authorization from the child’s parent shall be required for nonprescription and 
+
+prescription medication and renewed after 10 business days.  
+ 
+
+d.  A written authorization from the child’s physician and parent shall be required for long-term 
+
+nonprescription and prescription medication taken longer than 10 business days. 
+ 
+
+e.  All medications that are provided to the family day care home must match the medication 
+
+listed on the written authorization from the child’s physician and parent.  
+ 
+
+C.  Storage of Medication. 
+
+ 
+
+1.  Medication shall be refrigerated when needed. 
+
+ 
+
+2.  When medication is stored in a refrigerator used for food, the medications shall be stored together in a 
+
+container or in a clearly defined area away from food. 
+ 
+
+3.  Medication, except for those prescriptions designated otherwise by written physician's order, including 
+
+refrigerated medication and staff's personal medication, shall be kept in a locked place or in a locked 
+storage device.  
+ 
+If a key is used for medication that is stored in a locked place, the key shall not be accessible to 
+children. 
+ 
+
+4. 
+
+D.  Documentation of Medication Administration. 
+
+ 
+
+1.  The provider or caregiver shall keep a record of medication given to children, which shall include the 
+
+following: 
+ 
+
+a.  First and last name of the child to whom medication was administered; 
+
+ 
+
+b.  Amount and type of medication administered to the child; 
+
+ 
+
+c.  The day and time the medication was administered to the child; 
+
+ 
+
+d.  First and last name of the staff member administering the medication; 
+
+ 
+
+e.  Any adverse reaction(s) to the medication; and 
+
+ 
+
+f.  Any medication error(s). 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-46 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+E.  Parent Notification of Medication Administration. 
+
+ 
+The provider or caregiver shall inform parents immediately of any adverse reactions to medication administered 
+and any medication error. 
+ 
+
+F.  The medication authorization shall be available to trained caregivers during the entire time it is effective. 
+
+ 
+
+G.  The provider or caregiver must return medication to parents within 14 days of the expiration of medication 
+
+and/or the written authorization.  Medications that are not picked up by the parent(s) within 14 days must be 
+disposed of by the provider according to their medication policies. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-49. Topical Skin Products. 
+ 
+A.  When topical skin products such as sunscreen, diaper ointment and lotion, oral teething medicine, and insect 
+
+repellant are used, the following requirements shall be met: 
+
+ 
+
+1.  Written parent authorization noting any known adverse reactions shall be obtained at least annually; 
+
+ 
+
+2.  The product shall be in the original container and, if provided by the parent, labeled with the child’s 
+
+name; 
+
+ 
+3.  Manufacturer’s instructions for application shall be followed; and 
+ 
+4.  Parents shall be informed immediately of any adverse reaction. 
+ 
+
+B.  The product does not need to be kept locked, but shall be inaccessible to children. 
+
+ 
+
+C.  Caregivers without medication administration training may apply the product unless it is a prescription 
+
+medication, in which case the storing and administration must meet prescription medication requirements of this 
+chapter. 
+
+ 
+
+D.  The product shall not be used beyond the expiration date of the product. 
+
+ 
+
+E.  Sunscreen shall have a minimum sunburn protection factor (SPF) of 15. 
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-50. Smoking and Prohibited Substances. 
+ 
+The provider shall ensure that: 
+
+ 
+A.  No person smokes: 
+
+ 
+
+1. 
+
+2. 
+
+Indoors while children are in care,  
+ 
+In a vehicle when children are transported, or 
+ 
+
+3.  Outdoors in an area occupied by children. 
+
+ 
+
+ 
+B.  No caregiver is under the effects of medication that impairs functioning, alcohol, or illegal drugs. 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-47 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-51. Swimming and Wading Activities. 
+ 
+A.  The level of supervision by caregivers required in § 59-37 and the point system as outlined in § 59-38 shall be 
+
+maintained while the children are participating in swimming or wading activities. 
+ 
+
+B.  The provider shall annually obtain: 
+
+ 
+1.  Written permission from the parent of each child who participates in swimming or wading activities, 
+
+and 
+ 
+
+2.  A written statement from the parent advising of a child’s swimming skills before the child is allowed 
+
+in water above the child’s shoulder height. 
+
+ 
+
+C.  Caregivers shall have a system for accounting for all children in the water. 
+
+ 
+
+D.  Outdoor swimming activities shall occur only during daylight hours. 
+
+ 
+
+E.  When one or more children are in water that is more than two (2) feet deep in a pool, lake, or other swimming 
+
+area on or off the premises of the family day care home: 
+
+ 
+1.  A minimum of at least two (2) caregivers shall be present and able to supervise the children; and 
+
+ 
+
+2.  An individual currently certified in basic water rescue, community water safety, water safety 
+
+instruction, or lifeguarding shall be on duty supervising the children participating in swimming or 
+wading activities at all times.  The certification shall be obtained from an organization such as, but not 
+limited to, the American Red Cross, the YMCA, or the Boy Scouts. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+ 
+§ 59-52. Drowning Hazards. 
+ 
+A.  Access to the water in aboveground swimming pools shall be prevented by locking and securing the ladder in 
+
+place or storing the ladder in a place inaccessible to children. 
+
+ 
+B.  Portable wading pools without integral filter systems shall: 
+
+ 
+
+1.  Be emptied after use by each group of children, rinsed, and filled with clean water, or more frequently 
+
+as necessary; and 
+ 
+
+2.  When not in use during the family day care home’s hours of operation, be emptied, sanitized, and 
+
+stored in a position to keep them clean and dry. 
+ 
+
+C.  Portable wading pools shall not be used by children who are not potty trained. 
+
+ 
+
+D.  Bathtubs, buckets, and other containers of liquid accessible to children shall be emptied immediately after use. 
+
+ 
+
+E.  Hot tubs, spas, and whirlpools shall: 
+
+ 
+
+ 
+
+1.  Not be used by children in care, and 
+
+ 
+
+2.  Be covered with safety covers while children are in care. 
+
+59-48 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-53. Transportation and Field Trips. 
+ 
+A.  Written Permission for Transportation and Field Trips. 
+
+ 
+
+1.  General written permission shall be obtained from the parent of each child for the provider to take the 
+child off the premises of the family day care home. The general written permission shall be on a form 
+that lists regularly scheduled trips (e.g., library, store, playground) and the driver, if the child is to be 
+transported. 
+ 
+
+2.  Special written permission shall be obtained from the parent of each child for the provider to take the 
+
+child on special field trips (those not regularly scheduled). The written special permission shall specify 
+destination, duration of trip, and driver, if the child is to be transported. 
+
+ 
+
+B.  Requirements for Drivers. 
+
+ 
+
+1.  Drivers must:  
+
+ 
+
+ 
+
+ 
+
+a.  Be 18 years of age or older; and 
+
+b.  Submit a current driving record that discloses any moving traffic violation that 
+occurred five (5) years prior to or during employment or assignment as a driver. 
+
+2.  The provider shall ensure that during transportation of children the driver has: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a.  A valid driver’s license; 
+ 
+b.  The name, address, and telephone number of the family day care home; 
+
+c.  A copy of the parent’s written permission to transport the child; 
+
+d.  A copy of each child’s emergency care information as required in § 59-24.E.2.b; 
+
+e.  Allergy care plan and information as required in § 59-24.E.2.b.vi; 
+
+f.  Emergency supplies as required in § 59-32.A; and 
+
+g.  A mechanism for making telephone calls to emergency responders and parents such as a 
+
+cellular phone. 
+
+C.  Requirements for Vehicles. 
+
+ 
+
+The provider shall ensure that the vehicle used for transportation: 
+
+ 
+
+1.  Meets the safety standards set by the Virginia Department of Motor Vehicles; 
+
+ 
+
+2. 
+
+Is kept in satisfactory condition to assure the safety of children; 
+
+3. 
+
+Is licensed and insured according to state law; 
+
+4.  Was manufactured for the purpose of transporting people seated in an enclosed area; and 
+
+ 
+
+ 
+
+ 
+
+5.  Has seats that are attached to the floor. 
+
+59-49 
+
+Code Updated March 2019 
+ 
+ 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+ 
+
+D.  Requirements for Transportation. 
+
+ 
+
+The provider shall ensure that during transportation of children: 
+
+ 
+
+1.  Each child is in an individual care seat or individual and appropriate restraint in accordance with 
+
+Virginia law; 
+
+2.  Each child’s arms, legs, and head remain inside the vehicle; 
+
+3.  Doors are closed properly and locked unless locks were not installed by the manufacturer of the 
+
+vehicle; 
+
+4.  No child is left unattended inside or outside a vehicle; and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.  Each child boards and leaves the vehicle from the curbside of the street. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-54. Animals and Pets. 
+ 
+A.  A pet or animal present at the home, indoors or outdoors, shall be in good health and show no evidence of 
+
+carrying any disease. 
+ 
+
+B.  A maximum of three (3) dogs and/or cats shall be permitted. 
+
+ 
+
+C.  Dogs or cats, where allowed, shall be vaccinated for rabies and shall be treated for fleas, ticks, or worms as 
+
+needed.  Dogs past the age of six (6) months must be licensed. 
+
+ 
+
+D.  The provider shall maintain documentation of the current rabies vaccination. 
+
+ 
+
+E.  Caregivers shall closely supervise children when children are exposed to animals. 
+
+ 
+
+F.  Children shall be instructed on safe procedures to follow when in close proximity to animals, e.g., not to 
+
+provoke or startle them or remove their food. 
+
+ 
+G.  Animal litter boxes, toys, food dishes, and water dishes shall be inaccessible to children. 
+ 
+H.  All animal excrement shall be removed promptly, disposed of properly, and, if indoors, the soiled area cleaned. 
+ 
+I.  Family pets shall not be allowed on any surfaces where food is prepared or served. 
+
+ 
+
+J.  Animals that have shown aggressive behavior shall not be kept in the home or on the grounds. 
+
+ 
+
+K.  Monkeys, ferrets, reptiles, psittacine birds (birds of the parrot family), or wild or dangerous animals shall not be 
+
+in areas accessible to children during the hours children are in care. 
+
+ 
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+§ 59-55. Nighttime Care. 
+ 
+A.  For nighttime care during which a child sleeps more than two (2) hours, the following is required: 
+
+ 
+
+1.  A child shall have a rest area that meets the requirements of § 59-45; 
+
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-50 
+
+ARLINGTON COUNTY CODE                                                                             FAMILY DAY CARE HOMES 
+
+2.  An infant shall have an individual crib that meets the requirements of § 59-45; and 
+
+ 
+
+3.  Linens shall be provided that meet the requirements in § 59-46. 
+ 
+
+B.  For children in nighttime care, quiet activities and experiences shall be available immediately before bedtime. 
+
+ 
+
+C.  Providers shall establish a bedtime schedule for a child in consultation with the child’s parent. 
+
+ 
+
+D.  Separate sleeping and dressing areas shall be provided for children of the opposite sex over six (6) years of age. 
+ 
+E.  Each child shall have a toothbrush, and a comb or hair brush assigned for individual use. 
+ 
+F.  Bath towels and washcloths, when used, shall be laundered as needed, but at least weekly. 
+
+ 
+
+G.  A child shall have a routine that encourages good personal hygiene practices including bathing (if needed) and 
+
+teeth brushing. 
+
+ 
+
+H.  Caregivers shall remain awake until all children are asleep. 
+
+ 
+
+I.  A baby monitor shall be used to monitor the safety of the sleeping child if the caregiver is not sleeping in the 
+
+room with the child or in a room adjacent to the room where the child is sleeping. 
+
+ 
+
+(Ord. No. 19-02, 3-16-19, effective 7-1-19) 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+Code Updated March 2019 
+ 
+ 
+
+59-51 
+
+

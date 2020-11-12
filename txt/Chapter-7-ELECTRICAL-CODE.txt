@@ -1,0 +1,410 @@
+ 
+
+ARLINGTON COUNTY CODE 
+
+ 
+
+Chapter 7 
+
+ 
+
+ELECTRICAL CODE* 
+
+__________  
+*Editor’s note: Ordinance No. 09-11, adopted April 28, 2009, amended Chapter 7, in its entirety, to read as herein 
+set out. 
+__________  
+ 
+ 
+
+ 
+
+§ 7-1. Title and Scope. 
+§ 7-2. Definitions. 
+§ 7-3. Availability of Codes. 
+§ 7-4. Administration and Enforcement. 
+§ 7-5. Reserved. 
+§ 7-6. Permits and Fees. 
+§ 7-7. General Provisions. 
+
+B.  
+
+A.  
+
+Title. This chapter shall be known as the "Arlington County Electrical Code" and may be so cited. 
+
+ 
+§ 7-1. Title and Scope. 
+ 
+ 
+ 
+Scope--New  electrical  systems.  This  Code  shall  apply  to  electrical  systems  and  to  parts  thereto 
+ 
+which  are  hereafter  installed  in  buildings  of  the  occupancy  classifications  enumerated  in  the  Virginia  Uniform 
+Statewide Building Code.  
+(Ord. No. 89-25, 9-23-89); Ord. No. 07-13, 9-18-07, effective 10-1-07; Ord. No. 08-08, 4-19-08, effective 7-1-08; 
+Ord. No. 09-11, 4-28-09) 
+ 
+§ 7-2. Definitions.  
+ 
+
+The  following  words  and  terms,  when  used  in  this  chapter,  shall  have  the  following  meanings  unless  the 
+
+context clearly indicates otherwise:  
+
+ 
+“Building Official” means the Inspection Services Division Chief of Arlington County or his designee.  
+ 
+“Construction  Code  Inspector”  means  a  qualified  person  charged  with  the  inspections  of  all  electrical 
+
+systems and electrical work performed in the County.  
+(Ord. No. 89-25, 9-23-89; Ord. No. 95-14, 8-8-95; Ord. No. 97-7, 4-12-97; Ord. No. 07-13, 9-18-07, effective 10-1-
+07; Ord. No. 08-08, 4-19-08, effective 7-1-08; Ord. No. 09-11, 4-28-09) 
+ 
+§ 7-3. Availability of Codes.  
+ 
+
+There  is  hereby  made  available  by  the  County  Board  of  the  County  of  Arlington,  the  Virginia  Uniform 
+Statewide Building Code, latest edition, of which copies of each are on file in the office of the Inspection Services 
+Division, 2100 Clarendon Boulevard, Suite 1000, and may be examined during the hours of 8:00 a.m. and 5:00 p.m. 
+on regular business days.  
+(Ord.  No.  89-25,  9-23-89;  Ord.  No.  07-13,  09-18-07,  effective  10-01-07;  Ord.  No.  08-08,  enacted  04-19-08, 
+effective 07-01-08; Ord. No. 09-11, 4-28-09) 
+ 
+§ 7-4. Administration and Enforcement. 
+ 
+Administrator--Designated. The administration and enforcement of this Code shall be the duty of 
+ 
+the  Building  Official  who  is  hereby  authorized  to  take  such  actions,  including  the  promulgation  of  rules  and 
+regulations,  as  may  be  reasonably  necessary  to  enforce  the  provisions  of  this  Code.  The  Building  Official  may 
+appoint assistants or agents as are necessary to carry out the provisions of this Code. 
+ 
+ 
+ 
+
+Same--Powers and duties: 
+
+A.  
+
+B.  
+
+Code Updated 9-2011 
+
+7-1 
+
+ARLINGTON COUNTY CODE                                                                                     ELECTRICAL CODE   
+ 
+  
+
+The Building Official or his  designee shall have the right and power and it shall be their duty to 
+cause  all  electrical  equipment  in  or  on  any  building  in  the  County  to  be  inspected  from  time  to 
+time  in  order  to  ascertain  whether,  due  to  the  construction,  installation  or  the  condition  thereof, 
+such electrical equipment is dangerous to life or property. 
+
+1. 
+
+ 
+  
+
+2. 
+
+When the use of any electrical  work  shall be found dangerous to health and safety, the  Building 
+Official or his designee is hereby authorized to order it removed or made safe as may be deemed 
+necessary. 
+
+ 
+ 
+ 
+  
+ 
+  
+
+C.  
+
+Responsibilities of owner or occupant: 
+
+1. 
+
+Every building, structure or part thereof shall be kept in good electrical repair by the owner. 
+
+2. 
+
+No person shall knowingly have any electrical work done on premises under his control or on the 
+premises owned by him, except in accordance with the provisions of this Code. 
+ 
+Compliance required. No person shall install, alter, maintain, service or repair, or cause or permit 
+the installation, altering, maintaining, servicing or repairing of electrical equipment in or on any building, except in 
+accordance with the provisions of this Code. 
+ 
+
+D.  
+
+E.  
+
+Inspections--Request  for  registered  electrical  contractor's  representative  to  be  present.  The 
+Inspection  Services  Division  may  require  a  representative  of  the  registered  electrical  contractor  to  be  on  the  job 
+when inspection is made. 
+ 
+
+F.  
+
+Same--Notice  of  defect;  failure  to  comply.  When  any  electrical  equipment  is  found,  upon 
+inspection by a Construction Code Inspector, to be dangerous to life or property because it is defective or defectively 
+installed, the person responsible for the electrical equipment shall be notified in writing and shall make any changes 
+or  repairs  necessary  in  the  judgment  of  the  Building  Official  or  his  designee  to  place  such  equipment  in  safe 
+condition. If any person fails to comply with a notice issued by the  Building Official or his designee to correct the 
+violation  within  a  reasonable  period  stated  in  the  notice,  the  Building  Official  shall  order  the  electric  company  to 
+disconnect  its  supply  of  electricity  and  such  electric  company  shall  thereupon  disconnect  its  lines  and  discontinue 
+the supply of electricity.  
+ 
+
+In  such  cases,  the  notice  to  the  electric  company  shall  state  the  reason  for  the  service  being  ordered 
+disconnected  and  the  party  responsible  for  the  violation,  if  such  party  is  known.  Any  person  failing  to  make 
+corrections of a violation within the time specified in the notice shall be refused any further permits to do electrical 
+work within the County until such corrections are made. 
+
+ 
+G.  
+
+Interference  with  Building  Official.  The  occupant  or  owner  of  property  or  premises  where  any 
+electrical  equipment  is  used  or  is  to  be  used  shall  not  refuse  to  allow,  interfere  with  or  prevent  the  discharge  of 
+duties  hereunder  by  the  Building  Official  hereunder,  or  withhold  or  refuse  to  divulge,  on  request  of  the  Building 
+Official, the name of the person responsible for doing such work herein or thereon. 
+ 
+
+H.  
+
+Approval of installation. No person shall use current in the wiring, fixtures or other electrical lines 
+or  equipment  falling  within  the  scope  of  this  chapter  until  approval  has  been  granted  by  a  representative  of  the 
+Inspection Services Division who shall notify the utility that will supply electrical service to the premises when an 
+installation  has  been  approved  and  grant  it  permission  to  energize  its  service  connection  and  supply  the  premises 
+with  electric  service.  Written  confirmation  of  such  approval  shall  be  furnished  to  the  utility  supplying  the  electric 
+service by the Inspection Services Division. 
+ 
+
+I.  
+
+Appeals. The owner of a building or structure, registered electrical contractor or master electrician 
+may appeal from a decision of the Building Official on his or her interpretation and enforcement of the provisions of 
+this chapter to the Building Code Board of Appeals.  
+(Ord.  No.  89-25,  9-23-89;  Ord.  No.  07-13,  09-18-07,  effective  10-01-07;  Ord.  No.  08-08,  enacted  04-19-08, 
+effective 07-01-08; Ord. No. 09-11, 4-28-09) 
+ 
+§ 7-5. Reserved. 
+
+Editors Note: Former § 7-5, which pertained to registration of contractor and certification of worker, was 
+
+Code Updated 4-2011 
+
+7-2 
+
+ARLINGTON COUNTY CODE                                                                                     ELECTRICAL CODE   
+ 
+repealed by Ord. No. 95-14, enacted Aug. 8, 1995. 
+ 
+§ 7-6. Permits and Fees. 
+ 
+
+A.  
+
+Permit  required.  No  electrical  work,  except  minor  repair  work,  shall  be  performed  by  any 
+registered electrical contractor, or master electrician, or any owner, owner's agent, architect or engineer  until  such 
+person has applied for and received a permit from the Inspection Services Division. 
+ 
+
+B.  
+
+Work  in  single-family  dwellings  and  townhouses.  Any  permit  required  by  this  section  may  be 
+issued to a person, whether registered or not, to do any work regulated by this chapter in a single-family dwelling or 
+townhouse  used  exclusively  for  residence  purposes,  including  the  usual  accessory  buildings  and  quarters  in 
+connection  with  such  building,  provided  that  the  person  is  the  bona  fide  owner  or  agent  of  the  owner  of  such 
+dwelling. 
+ 
+
+C.  
+
+Plans  required.  Before  permits  required  in  this  chapter  shall  be  issued  for  any  electrical  work 
+involving  a  new  or  renovated  commercial  or  high-rise  or  multifamily  residential  building,  the  prescribed  sets  of 
+plans must have been submitted to and approved by the Inspection Services Division. Before permits will be issued 
+for major electrical repairs in existing buildings, the registered electrical contractor, owner, owner's agent, architect, 
+engineer or master electrician shall file with the Inspection Services Division detailed sketches of the work proposed 
+to be done. The permit shall not be issued until the plan or sketches have been approved by the Construction Plan 
+Examiner. 
+ 
+
+D.  
+
+Permit fees. There shall be no fees assessed for a permit required by this  section to do electrical 
+work by or for: the Washington Metropolitan Area Transit Authority in connection with the construction, alteration, 
+repair or maintenance of bus and rapid rail system or the Northern Virginia Regional Park Authority.  
+ 
+
+Nothing  in  this  section  shall  be  construed  to  alter,  amend  or  modify  any  rule,  regulation,  standard  or 
+requirement of the National Electrical Code, as adopted by the Virginia Uniform Statewide Building Code, Code of 
+Virginia, 1950, as amended, including standards and amendments previously or subsequently adopted.  
+
+ 
+All fees shall be paid prior to release of the permit and in accordance with the fee  schedule adopted by the 
+
+Board. 
+
+E. 
+
+ 
+Temporary Electrical Permits:  
+
+Temporary  electrical  permits  will  be  issued  for  sixty  (60)  days.  A  temporary  permit  may  be 
+renewed for an additional thirty (30) day period, if necessary. Applications for temporary permits 
+must be filed under any of the following conditions: 
+ 
+a. 
+
+For connection to temporary service drop and for equipment to be used for construction 
+of circuits to be used or number of power units to be installed. 
+
+b. 
+
+c. 
+
+For  connection  to  permanent  service  or  for  installation  of  temporary  lighting  or  power 
+equipment  not  included  in  original  permit,  a  separate  permit  based  on  the  permit  fee 
+schedule is required. 
+
+For  connection  to  permanent  service  of  heating  equipment,  a  temporary  permit  will  be 
+issued if a regular permit for permanent connection of the heating equipment is issued or 
+is on file at the time the temporary connection is requested. 
+
+F. 
+
+Procedures Where Work Continued was started by Another Permittee:  
+
+  
+ 
+
+  
+
+ 
+  
+
+ 
+  
+
+ 
+  
+ 
+
+Before proceeding with any electrical equipment installation which has been started by any other 
+permit grantee, an owner shall request the electrical section of the Inspection Services Division to 
+inspect  the  installation  for  which  a  permit  was  granted  and  also  to  inspect  any  work  performed, 
+and shall also obtain an owner's permit for the remaining part of the installation.  
+
+(Ord. No. 89-25, 9-23-89; Ord. No. 90-6, 7-1-90; Ord. No. 91-17, 7-1-91; Ord. No. 92-1, 2-1-92; Ord. No. 93-4, 7-
+1-93; Ord. No. 95-8, 4-29-95; Ord. No. 97-7, 4-12-97; Ord. No. 98-10, 4-18-98; Ord. No. 07-13, 09-18-07, effective 
+
+Code Updated 4-2011 
+
+7-3 
+
+ARLINGTON COUNTY CODE                                                                                     ELECTRICAL CODE   
+ 
+10-01-07; Ord. No. 08-08, 04-19-08, effective 07-01-08; Ord. No. 09-11, 4-28-09; Ord. No. 10-11, 4-24-10) 
+
+ 
+
+§ 7-7. General Provisions. 
+
+A.  
+
+ 
+Preventive  maintenance  for  1,000 amperes  equipment. It  shall  be  unlawful  to  perform  any  work 
+on service equipment, any compartment of a switchboard, a motor control center, a transformer, or a panel for which 
+the ampacity is one thousand (1,000) amperes or larger, or [which has a] voltage rating over two hundred fifty (250) 
+volts  regardless  of  ampacity,  without  first  completely  disengaging  the  electrical  power  within  that  piece  of 
+equipment or compartment.  
+
+ 
+
+Pursuant to the Virginia Uniform Statewide Building Code, Volume II, Building Maintenance Code, it shall 
+be  the  responsibility  of  the  owner,  or  his  responsible  agent,  of  a  switchboard  having  a  capacity  of  one  thousand 
+(1,000) amperes or larger, to have a master electrician disconnect said equipment once every five (5) years or less to 
+perform  normal  preventive  maintenance.  The  preventive  maintenance  shall  consist  of  all  maintenance  normally 
+performed by electrical contractors including by way of illustration: 
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+
+ 
+ 
+ 
+
+ 
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+Vacuum entire interior of switchboard. 
+
+Clean bus and contacts with a suitable nonconductive solvent. 
+
+Lubricate all moving mechanisms. 
+
+Check all conductors for abrasions. 
+
+Torque bus and conductors' connections to manufacturers' recommended specifications. 
+
+Check calibration of overcurrent trip units and protective devices. 
+
+Megger board to manufacturers' specifications before re-energizing. 
+
+Replace worn, damaged or deteriorating components. 
+
+Submit report of preventive maintenance performed to  Inspection Services Division within thirty 
+(30) days. 
+
+B.  
+
+Fees:  
+
+Two (2) hour minimum . . . . . $109.00  
+ 
+Each additional hour, per hour, per inspector . . . . . $54.00  
+ 
+
+(Ord. No. 89-25, 9-23-89; Ord. No. 92-1, 2-1-92; Ord. No. 07-13, 09-18-07, effective 10-01-07; Ord. No. 08-08, 04-
+19-08, effective 07-01-08; Ord. No. 09-11, 4-28-09) 
+ 
+
+Code Updated 4-2011 
+
+7-4 
+
+
